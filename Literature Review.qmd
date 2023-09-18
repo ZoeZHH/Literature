@@ -1,0 +1,10 @@
+---
+title: "Literature Review"
+format: pdf
+editor: visual
+bibliography: references.bib
+---
+
+## Identifying scale-emergent, nonlinear, asynchronous processes of wetland methane exchange
+
+[@sturtevant2016]
