@@ -1,4 +1,5 @@
 ---
+library()---
 title: "Literature Review"
 format: pdf
 editor: visual
@@ -48,3 +49,33 @@ Takeaways:
 -   Methane emission in response to water table fluctuation can be nonlinear and lagged up to 10 days [@moore1993]
 
 -   
+
+## Heatwave effects on gross primary production of northern mid-latitude ecosystems
+
+[@xu2020a; @xu2020]
+
+Paper Type: Research data based (by using FLUXNET Tier-1 sites data)
+
+Abstract & Conclusion:
+
+Key Knowledge Points:
+
+1\) C3/C4 ecosystems:
+
+-   C3 Plants
+
+    -   carbon fixation is the most common, which incorporate CO2 + RuBisCo -\> 3-phosphoglycerate
+
+    -   All occured in mesophyll
+
+    -   C3 Plants unfortunately have no special adaptations to avoid photorespiration; if the temperature rises above the ideal range (20-30 celsius degrees), C3 plants' photosynthesis rate falls dramatically
+
+-   C4 Plants
+
+    -   close stomata to contain water loss; to avoid photo-respiration, CO2+PEP carboxylase -\> Oxaloacetate (4C) located in mesophyll cell, calvin cylcle occured in bundle sheath
+
+    -   3% of land plants use this, ideal under 30-40 celsius degree
+
+2\) Evaporative Stress Index (ESI):
+
+-   Aerodynamic conductance (mm/s), the ease with which air can move through a boundary layer,
