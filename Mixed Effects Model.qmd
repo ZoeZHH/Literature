@@ -1,0 +1,42 @@
+---
+title: "Mixed Effects Model"
+format: html
+editor: visual
+---
+
+## Resources
+
+**Mixed Effects Models and Extensions in Ecology with R**: https://link.springer.com/book/10.1007/978-0-387-87458-6
+
+**Linear Mixed Effects Modelling:** <https://wiki.qcbs.ca/r_workshop6>
+
+**Check for temporal autocorrelation in the model residuals:** <https://bbolker.github.io/mixedmodels-misc/notes/corr_braindump.html>
+
+**With and without temporal autocorrelation:** <https://bbolker.github.io/mixedmodels-misc/notes/corr_braindump.html>
+
+```{r}
+# Sample Code
+lme1 <- lme(logFCH4_gC~GPP_PI_F_NT_gC+logTP_interp+TA+logNO3_NO2_N_interp+WTD+logSO4_pred_interp,random=~1|site,data=data.daily.model.norm,method = mth)
+lme2 <- lme(logFCH4_gC~GPP_PI_F_NT_gC+logTP_interp+TA+logNO3_NO2_N_interp+WTD+logSO4_pred_interp,random=~1|site,data=data.daily.model.norm,method = mth,correlation=corAR1()) # Best - same as lme3
+lme3 <- lme(logFCH4_gC~GPP_PI_F_NT_gC+logTP_interp+TA+logNO3_NO2_N_interp+WTD+logSO4_pred_interp,random=~1|site,data=data.daily.model.norm,method = mth,correlation=corAR1(form = ~ 1 | site))
+AICc<-c(AICc(lme1), AICc(lme2),AICc(lme3))
+# Put values into one table for easy comparison
+Model<-c("LME1", "LME2","LME3")
+AICtable<-data.frame(Model=Model, AICc=AICc)
+AICtable
+# Refit final model
+m.final <- lme(logFCH4_gC~GPP_PI_F_NT_gC+logTP_interp+TA+logNO3_NO2_N_interp+WTD+logSO4_pred_interp,random=~1|site,data=data.daily.model.norm,method = "REML",correlation=corAR1())
+summary(m.final)
+# 6) Model validation
+# Checking model assumptions
+# a) Look at independence: plot fitted values vs residuals
+E1 <- residuals(m.final) # Select final model
+F1<-fitted(m.final)
+plot(x = F1,
+     y = E1,
+     xlab = "Fitted Values",
+     ylab = "Normalized residuals")
+abline(h = 0, lty = 2)
+data.daily.model.norm$F1 <- F1
+data.daily.model.norm$E1 <- E1
+```
