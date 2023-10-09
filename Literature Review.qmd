@@ -56,7 +56,19 @@ Takeaways:
 
 Paper Type: Research data based (by using FLUXNET Tier-1 sites data)
 
-Abstract & Conclusion:
+Study sites: FLUXNET2015 Tier-1 sites
+
+Statistical Analysis: Path Analysis (https://www.ibm.com/products/structural-equation-modeling-sem)
+
+-   3 environmental variables, including sw radiation, Ta and ESI that can affect GPP directly; Ta/VPD/ESI and Rg may indirectly affect GPP by regulating Gc; biological element is closely related to GPP by directly regulating intracellular CO2; and Ta is linked with atmospheric transpiration demand (VPD) and ecosystem soil water condition (ESI)
+
+Takeaways:
+
+-   Impacts of heatwaves on ecosystem GPP varied by ecosystem type and plant functional type; GPP was depressed for most ecosystems during heatwaves while it was enhanced for C4 ecosystems
+
+-   ESI was the primary variable for the discrepancy in GPP anomaly during heatwaves across the nine ecosystems
+
+-   Decline in forest GPP induced by heatwaves was smaller than other ecosystems
 
 Key Knowledge Points:
 
@@ -68,7 +80,7 @@ Key Knowledge Points:
 
     -   All occured in mesophyll
 
-    -   C3 Plants unfortunately have no special adaptations to avoid photorespiration; if the temperature rises above the ideal range (20-30 celsius degrees), C3 plants' photosynthesis rate falls dramatically
+    -   C3 Plants unfortunately have no special adaptations to avoid photorespiration; if the temperature rises above the ideal range (20-30 celsius degrees), C3 plants' photosynthesis rate falls dramatically.
 
 -   C4 Plants
 
@@ -76,6 +88,20 @@ Key Knowledge Points:
 
     -   3% of land plants use this, ideal under 30-40 celsius degree
 
-2\) Evaporative Stress Index (ESI):
+2\) Canopy conductance (Gc, canopy integrated stomatal conductance, mm/s):
+
+-   a measure of water vapour transfer from the plant to the atmosphere. Conductance is the ease with which water can transfer from the plant to the atmosphere with higher values indicating easier transfer.
 
 -   Aerodynamic conductance (mm/s), the ease with which air can move through a boundary layer,
+
+3\) Evaporative Stress Index (ESI), representing standardized anomalies in the ratio of actual evapotranspiration (ET) to potential evapotranspiration (PET), has been extensively used to measure the degree of soil water stress for plants/ecosystems & minimize the impacts of non-moisture-related environmental drivers (eg. radiation and atmospheric demand) on ecosystem functions.
+
+-   Negative ESI values -\> soil water supply is not sustained for ecosystem health
+
+-   ET/PET; ET = latent heat flux (LE)/latent heat of vaporization (\~2.5 MJ/kg)
+
+-   PET
+
+-   ESI (timestep=w, year=y) = (V(w,y)-1/ny\*sum of V(w,y))/(standard deviation of V)
+
+    -   V(w,y) -\> ratio of actual ET to potential ET for a given timestep (W) and year (y)
