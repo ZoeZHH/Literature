@@ -51,11 +51,19 @@ data.daily.model.norm$E1 <- E1
 
 ## Overview of the Model
 
-Mixed Effects Model can solve the problem of:
+1.1 Mixed Effects Model can solve the problem of:
 
 -   Messy of the data: relationships between variables of interest might differ depending on grouping factors like species
 
 -   Sample sizes are low making it difficult to fit models that require many parameters to be estimated
+
+1.2 Two types of effects in the model:
+
+1\) Fixed effect: when a variable has a fixed effect, data is usually gathered from all its possible levels. The person doing the analyses is also interested in making conclusions about the levels for which the data was gathered.
+
+2\) Random effect: variables with a random effect are also called random factors, as they are only categorical variables (not continuous variables). A random effect is observed when the data only includes a random sample of the factor's many possible levels, which are all of interest. They usually are grouping factors for which you want to control the effect in your model, but are not interested in their specific effect on the response variable.
+
+1.3 How do LMM work?
 
 ## Notes from Linear mixed Effects Model Workshop (<https://wiki.qcbs.ca/r_workshop6>)
 
@@ -74,7 +82,6 @@ file.choose()
  
 # For example paste "/Users/ziegljac/Documents/QCBS_R/" -> include the quotations
 # NOT "/Users/ziegljac/Documents/QCBS_R/Get_Data_Func.R" -> include the quotations
-setwd("/Users/zoe/desktop/MLR")
  
 # Load useful libraries and data
 # If you have never loaded these libraries before you will have to use 
@@ -83,6 +90,52 @@ library(ggplot2)
 library(lme4)
 library(arm)
 library(AICcmodavg)
- 
-data <- read.csv('fishata.csv')
+
+setwd("/Users/zoe/Literature")
+data <- read.csv('fishdata.csv')
+```
+
+```{r}
+# Step 1: Always check the data structure
+str(data)
+# In R, the table function is used to produce a frequency table of categorical data.
+table(data$Lake)
+table(data$Fish_Species)
+# Look at distribution of continuous variables
+# Major skews can lead to problems with model homogeneity down the road. So if necessary, make transformations. In this case, the data seems OK.
+hist(data$Fish_Length)
+hist(data$Trophic_Pos)
+# Check for collinearity between variables: It is important not to include 2 collinear variables in the same model, otherwise their effects on the response variable will be confounded, i.e. the model can't tell which of the collinear variable is responsible for the variation in the response variable. 
+plot(data)
+cor(data$Fish_Length, data$Var2)
+```
+
+```{r}
+# Step 2: Consider the scale of your data
+# If two variables in the same model have different ranges of scale, the criteria the mixed models use to come up with parameter estimates are likely to return 'convergence errors'. Z-correction standardizes your variables and adjusts for this scaling problem by placing all your variables on the same scale even if they were originally in different units:
+# z = (x-mean(x))/sd(x)
+# Z-correct Length
+data$Z_Length<-(data$Fish_Length-mean(data$Fish_Length))/sd(data$Fish_Length)
+# Z-correct Trophic Position
+data$Z_TP<-(data$Trophic_Pos-mean(data$Trophic_Pos))/sd(data$Trophic_Pos)
+```
+
+\# To know if a mixed model is necessary for your data set you must establish if it is actually important to account for variation in the factors that might be affecting the relationship that you're interested in, Lake and Species in this case.
+We can do this by:
+- Creating a linear model without factors
+- Calculating the residuals of this linear model
+- Plotting the residuals of the linear model against the factors of interest
+
+```{r}
+# Find out if it is important to account for variation in "random effects"
+# by comparing the residuals of a linear model without the random effects with 
+# the potential random effects
+lm.test<-lm(Z_TP~Z_Length, data=data)
+lm.test.resid<-rstandard(lm.test)
+# Species Effect
+plot(lm.test.resid~ data$Fish_Species, xlab = "Species", ylab="Standardized residuals")
+abline(0,0, lty=2)
+# Lake Effect
+plot(lm.test.resid~ data$Lake, xlab = "Lake", ylab="Standardized residuals")
+abline(0,0, lty=2)
 ```
