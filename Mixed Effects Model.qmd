@@ -40,3 +40,49 @@ abline(h = 0, lty = 2)
 data.daily.model.norm$F1 <- F1
 data.daily.model.norm$E1 <- E1
 ```
+
+## Similar Research that Use the Mixed Effects Model
+
+-   <https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017JG004227>
+
+-   <https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13612>
+
+-   <https://www.sciencedirect.com/science/article/pii/S0038071712001927>
+
+## Overview of the Model
+
+Mixed Effects Model can solve the problem of:
+
+-   Messy of the data: relationships between variables of interest might differ depending on grouping factors like species
+
+-   Sample sizes are low making it difficult to fit models that require many parameters to be estimated
+
+## Notes from Linear mixed Effects Model Workshop (<https://wiki.qcbs.ca/r_workshop6>)
+
+```{r}
+# Remove prior commands in R
+rm(list=ls()) 
+ 
+# Place all workshop material in one folder on your computer
+# Run the following line of code and use the browsing window to choose the QCBS_W6_Data.csv 
+# file in the folder that contains the workshop material
+file.choose()
+ 
+# Set the working directory to the folder which contains the lab material by copy and pasting
+# all but the R file name from the output of the file.choose() command into the set working 
+# directory command. 
+ 
+# For example paste "/Users/ziegljac/Documents/QCBS_R/" -> include the quotations
+# NOT "/Users/ziegljac/Documents/QCBS_R/Get_Data_Func.R" -> include the quotations
+setwd("/Users/zoe/desktop/MLR")
+ 
+# Load useful libraries and data
+# If you have never loaded these libraries before you will have to use 
+# The install.packages() function before the library() function
+library(ggplot2)
+library(lme4)
+library(arm)
+library(AICcmodavg)
+ 
+data <- read.csv('fishata.csv')
+```
