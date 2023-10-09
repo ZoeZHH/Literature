@@ -105,3 +105,29 @@ Key Knowledge Points:
 -   ESI (timestep=w, year=y) = (V(w,y)-1/ny\*sum of V(w,y))/(standard deviation of V)
 
     -   V(w,y) -\> ratio of actual ET to potential ET for a given timestep (W) and year (y)
+
+## Methane Emissions from Subtropical Wetlands: An Evaluation of the role of data filtering on annual methane budgets
+
+[@staudhammer2022]
+
+Paper Type: Theory,
+
+Knowledge gaps:
+
+-   CH~4~ fluxes, their range and controls are to a large extent not currently well understood, and thus robust methods for filtering and gap-filling data are generally lacking
+
+-   many of these studies lack full-year temporal coverage, hinders our ability to develop annual methane budgets with confidence.
+
+Objectives:
+
+-   study the effects that data filtering has on gap-filled CH~4~ in these systems.
+
+-   provide insight on how gaps in predictor variables for gap-filling models ---both their size and timing--- may affect the procedures used and subsequent annual budgets derived from CH~4~ data.
+
+    -   compare between \"unrestricted predictors model\" (using all possible predictors regardless of gaps), versus a \"restricted predictors model\" (using gap-filled predictors or predictors with no missing values)
+
+Key Knowledge Points:
+
+-   Missing half hourly F~CO2~ data were gap filled using separate functions for day and night. When PAR was \>10 µmol m^−2^ s^−1^, F~CO2~ data were gap-filled using a Michaelis-Menten approach, and when PAR was ≤10 µmol m^−2^ s^−1^, F~CO2~ data were gap-filled using an Arrhenius approach.
+
+-   
