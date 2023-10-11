@@ -131,3 +131,22 @@ Key Knowledge Points:
 -   Missing half hourly F~CO2~ data were gap filled using separate functions for day and night. When PAR was \>10 µmol m^−2^ s^−1^, F~CO2~ data were gap-filled using a Michaelis-Menten approach, and when PAR was ≤10 µmol m^−2^ s^−1^, F~CO2~ data were gap-filled using an Arrhenius approach.
 
 -   
+
+## Seasonal Patterns and Controls on Net Ecosystem CO2 Exchange in a Boreal Peatland Complex
+
+Study Sites: Northern study area of boreal ecosystems atmosphere study (BOREAS)
+
+Measurement method:
+
+-   Clear chamber -\> NEE; Chamber, shrouds & different mesh sizes -\> develop relationship between NEE and PAR; CR10 and CR7 loggers -\> WT positions & peat Ts at different depths measured continuously
+
+Takeaways:
+
+-   Daily basis, ER:
+    -   soil temperature at 5cm explains 43-74% of the variability in respiration
+    -   Water table explains an additional 5-20% for ER
+-   Seasonal basis:
+    -   average seasonal dark CO2 flux is correlated strongly with average water table position for each collar location
+-   Daily basis, GPP:
+    -   PAR is the most important factor, explaining 39-58% of the variation
+    -   average temperature & peat temperature: second most important factor, explaining an additional 8-16%
