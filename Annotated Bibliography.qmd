@@ -146,7 +146,8 @@ Takeaways:
     -   soil temperature at 5cm explains 43-74% of the variability in respiration
     -   Water table explains an additional 5-20% for ER
 -   Seasonal basis:
-    -   average seasonal dark CO2 flux is correlated strongly with average water table position for each collar location
+    -   average seasonal dark CO2 flux is correlated strongly with average water table position for each collar location (However, the seasonal average water table position is an indication of the depth of the aerobic zone in the peat profile, which explains between-site differences better than average peat temperature)
 -   Daily basis, GPP:
     -   PAR is the most important factor, explaining 39-58% of the variation
     -   average temperature & peat temperature: second most important factor, explaining an additional 8-16%
+    -   water table position as the 3rd most important variable

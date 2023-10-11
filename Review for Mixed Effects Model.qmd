@@ -120,11 +120,7 @@ data$Z_Length<-(data$Fish_Length-mean(data$Fish_Length))/sd(data$Fish_Length)
 data$Z_TP<-(data$Trophic_Pos-mean(data$Trophic_Pos))/sd(data$Trophic_Pos)
 ```
 
-\# To know if a mixed model is necessary for your data set you must establish if it is actually important to account for variation in the factors that might be affecting the relationship that you're interested in, Lake and Species in this case.
-We can do this by:
-- Creating a linear model without factors
-- Calculating the residuals of this linear model
-- Plotting the residuals of the linear model against the factors of interest
+\# To know if a mixed model is necessary for your data set you must establish if it is actually important to account for variation in the factors that might be affecting the relationship that you're interested in, Lake and Species in this case. We can do this by: - Creating a linear model without factors - Calculating the residuals of this linear model - Plotting the residuals of the linear model against the factors of interest
 
 ```{r}
 # Find out if it is important to account for variation in "random effects"
