@@ -151,3 +151,23 @@ Takeaways:
     -   PAR is the most important factor, explaining 39-58% of the variation
     -   average temperature & peat temperature: second most important factor, explaining an additional 8-16%
     -   water table position as the 3rd most important variable
+
+## Estimating the carbon fluxes of forests with an individual-based forest model
+
+[@rödig2017]
+
+Paper Type: Model Testing
+
+Objectives: used an individual-based forest gap model (FORMIND) that simulates the growth of individual trees by calculating its photosynthesis and respiration; soil carbon model
+
+-   First, test whether the local forest model is generally capable of displaying daily carbon fluxes.
+
+-   Second, analyzed whether the model processes correctly respond to variable climate inputs.
+
+Take-away points:
+
+Second, we analyzed whether the model processes correctly respond to variable climate inputs
+
+Introduction:
+
+-   correctly capturing the responses of an ecosystem to varying climatic conditions with vegetation models is a major challenge (Keenan et al. 2012).
