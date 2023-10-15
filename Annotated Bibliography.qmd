@@ -171,3 +171,59 @@ Second, we analyzed whether the model processes correctly respond to variable cl
 Introduction:
 
 -   correctly capturing the responses of an ecosystem to varying climatic conditions with vegetation models is a major challenge (Keenan et al. 2012).
+
+## Terrestrial biosphere model performance for inter-annual variability of land-atmosphere CO2 Exchange
+
+[@keenan2012]
+
+## Europe-wide reduction in primary productivity caused by the heat and drought in 2003
+
+Summary: Europe experienced a heatwave in 2003. Impacts of severe heatwaves on terrestrial carbon cycling is unclear. In this study, 1) used 14 forest sites' eddy data to analyse half-hourly GPP, TER, NEE, to assess the impact of extreme event on carbon balances, 2) used a terrestrial biosphere simulation model to estimate the continental-scale changes in primary productivity in 2003.
+
+Before using the terrestrial biosphere model （ORCHIDEE biosphere model, [@krinner2005a]):
+
+1\) Ran model at each EC site to verify its ability to reproduce the observed GPP and TER anomalies
+
+## Identifying dominant environmental predictors of freshwater wetland methane fluxes across diurnal to seasonal time scales
+
+[@knox2021]
+
+Research Questions:
+
+\(i\) What are the dominant predictors of FCH4 at diurnal to seasonal time scales at each wetland?
+
+\(ii\) How does the relative dominance of each predictor vary across wetland types?
+
+\(iii\) Is the identifi-cation of dominant predictors of FCH4 influenced by the choice of statistical approach?
+
+\(iv\) How important are nonlinearities and lags in interpreting FCH4?
+
+man-ual chamber measurements are typically discrete in time and space, and therefore may not capture the full spatiotemporal range of CH4dynamics, limiting the investigation of the underlying drivers and patterns of FCH4 in wetlands (Morin, 2019).
+
+Pasoh Forest Reserve, Malaysia: http://asiaflux.net/index.php?page_id=93
+
+## 
+
+
+
+
+
+FLUXNET-CH~4~ SYNTHESIS ACTIVITY: Objectives, Observations, and Future Directions
+
+While most of these sites measure CO2, water vapor, and energy exchange, the development of new and robust CH4 sensors has resulted in a rapidly growing number of CH4 EC measurements (Baldocchi 2014; Morin 2018), 
+
+#### Increasing the number of tropical sites is particularly important for CH4 because more than half of global CH4 emissions are thought to come from this region (Saunois et al. 2016a; Dean et al. 2018). 
+
+1\) Saunois, M., and Coauthors, 2016a: The global methane budget 2000--2012. *Earth Syst. Sci. Data*, **8**, 697--751, https://doi.org/10.5194/essd-8-697-2016.
+
+(Latitudinal data from top-down emissions indicate a predominance of tropical emissions (∼ 64 % of the global budget, \< 30° N) as compared to mid (∼ 32 %, 30--60° N) and high northern latitudes (∼ 4 %, 60--90° N). )
+
+2\) Dean, J. F., and Coauthors, 2018: Methane feedbacks to the global climate system in a warmer world. *Rev. Geophys.*, **56**, 207--250, https://doi.org/10.1002/2017RG000559.
+
+(Of the total wetland CH~4~ emissions, tropical wetlands account for 50--60%, northern (Boreal and Arctic) wetlands \~34%, and temperate wetlands \~5% (Bloom et al., [2010](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017RG000559#rog20161-bib-0036); Wanget al., [1996](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017RG000559#rog20161-bib-0436)).)
+
+
+
+
+
+
