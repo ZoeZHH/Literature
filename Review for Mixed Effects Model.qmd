@@ -2,6 +2,7 @@
 title: "Mixed Effects Model"
 format: html
 editor: visual
+bibliography: references.bib
 ---
 
 ## Resources
@@ -48,6 +49,12 @@ data.daily.model.norm$E1 <- E1
 -   <https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13612>
 
 -   <https://www.sciencedirect.com/science/article/pii/S0038071712001927>
+
+-   23/11:
+
+-   <https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JG006328>
+
+-   <https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2021JG006328&file=2021JG006328-sup-0002-Table+SI-S01.pdf>
 
 ## Overview of the Model
 
@@ -135,3 +142,43 @@ abline(0,0, lty=2)
 plot(lm.test.resid~ data$Lake, xlab = "Lake", ylab="Standardized residuals")
 abline(0,0, lty=2)
 ```
+
+## Literature Review
+
+**Wildfire overrides hydrological controls on boreal peatland methane emissions** [@davidson2019]
+
+From 2017-2018, measured CH4 emissions, environmental variables and CH4 production potential in 2 different microform types (hummocks & hollows) across a peat burn severity gradient (unburned-UB; moderately burned-MB and severely burned - SB)
+
+Methods:
+
+-   To evaluate the effect of burn severity on CH4 flux, a linear mixed effects model (LMM) was used with burn severity, microform, the two-way interactions between these, and year as fixed factors, with collar ID as a random effect to take into account repeated measures.
+
+-   Another LMM was used to evaluate the environmental controls on CH4 flux, with the effect of burn severity, WT, ST at 30cm depth and the two-way interactions between each included as fixed effects.
+
+-   If significant factors were found, Tukey pairwise comparisons were completed using the lsmeans package.
+
+**Mixed Effect Models and Extensions in Ecology with R**
+
+1.  Linear regression models
+2.  Chapter 4 -\> deal with heterogeneity in linear regression
+3.  Chapter 5 -\> Random Effects for nested data
+4.  Chapters 6 and 7 -\> temporal and spatial correlation
+
+Chapter 3 - Additive Modelling, generalized additive modeling (GAM)
+
+Eg: Pelagic bioluminescence along a depth gradient in the northeast Atlantic Ocean
+
+The additive model fits a smoothing curve through the data.
+
+Selecting Among Alternative Models
+
+1.  Meeting assumptions: Model must meet the assumption of a linear relationship to be come a candidate linear regression model
+2.  Comparing the fit statistics. Select the higher R2 and lower RMSE.
+3.  Reject any models where the regression is not significant.
+4.  A simpler model is preferred
+
+## Resources
+
+The seedling removal project - growing season:
+
+-   Refer to the Mixed Effects Models and Extensions with Ecology in R, check example 2.3.8, for heterogeneity
