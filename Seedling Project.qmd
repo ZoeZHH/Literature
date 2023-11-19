@@ -1,0 +1,10 @@
+---
+title: "Investigating Impacts of Seedling Removal on Soil and Ground-level Vegetation Respiration (CO~2~ and CH~4~) in a Restored Peatland Ecosystem"
+format: docx
+editor: visual
+author: Hehan (Zoe) Zhang
+toc: true
+number-sections: true
+---
+
+## 
