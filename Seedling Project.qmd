@@ -5,6 +5,27 @@ editor: visual
 author: Hehan (Zoe) Zhang
 toc: true
 number-sections: true
+bibliography: references.yaml
 ---
 
-## 
+# Introduction
+
+## The Carbon Cycle in Peatlands
+
+### Land-atmosphere Exchanges of Carbon Fluxes
+
+@chapin2006 proposed the term net ecosystem carbon balance (NECB) as the overall ecosystem C balance from all sources, including C pathways between terrestrial and atmosphere, terrestrial and aquatic and particulate transport, which represents the net rate of C accumulation in ecosystems. In most peatlands, NECB can be simplified as - NEE/F~CO2~ (net ecosystem exchange, the net CO~2~ flux between terrestrial ecosystems and atmosphere) + F~CH4~ (net CH~4~ flux between terrestrial ecosystems and atmosphere) + F~DOC~ (net dissolved organic carbon) [@strack2013; @dacunha2019]. The land-atmosphere exchange of C fluxes include the two components of NECB in peatlands, F~CO2~ and F~CH4~.
+
+The land-atmosphere exchanges of carbon fluxes in peatlands can be described using the acrotelm-catotelm model (Figure 1). The balance between photosynthesis, respiration and diffusion mainly represents the net F~CO2~ between the bog and the atmosphere. Autotrophic organisms convert CO~2~ from the atmosphere into chemical energy through photosynthesis. CO~2~ is released from ecosystems by Reco and diffusion. Ecosystem respiration (Reco) including above- and below-ground autotrophic and heterotrophic respiration (Ra and Rh, respectively). Both Ra and Rh in bogs involve the consumption of organic matter and oxygen to produce energy, water, and carbon dioxide. The CO~2~ produced by aerobic decomposition and methanotrophy, the oxidation of CH~4~ by methanotrophs, diffused into the atmosphere [@bridgham2013]. The F~CO2~ (NEE) represents the difference between Reco and Gross primary productivity by photosynthesis (GPP) between the bog and atmosphere. Negative NEE values indicate a carbon sink peatland, which takes up more CO~2~ from the atmosphere and accumulates in terrestrial ecosystems.
+
+CH~4~ is made in the saturated zone of peat soils by methanogenic microbes. There are two primary pathways for methanogenesis in wetlands: acetoclastic and hydrogenotrophic methanogenesis [@bridgham2013]. Acetoclastic methanogens utilize acetate as their primary electron acceptor during the methanogenesis process. Hydrogenotrophic methanogens rely on the utilization of hydrogen (H~2~) and CO~2~ as substrates for methanogenesis [@fenchel2012]. Bogs tend to be generally dominated by hydrogenotrophic methanogenesis [@bridgham2013]. F~CH4~ is emitted to the atmosphere through three main pathways: diffusion (driven by CH~4~ concentration gradients from the peat to the atmosphere), ebullition (gas bubbles released from saturated peat), and plants-mediated transport (through aerenchyma, the plants' internal gas-space ventilation system) [@holden2005]. F~CH4~ from peatlands are the net balance of CH~4~ production (methanogenesis) in the saturated zones of the peat and CH~4~ oxidation in the oxic peat layers (methanotrophy) [@bridgham2013; @white2008].
+
+### Biophysical Controls of Ecosystem Respiration and F~CH4~
+
+Peat temperature (Ts), water table depth (WTD)
+
+Water table depth (WTD), peat temperature (Ts), peat acidity and vegetation types are key factors influencing CH4 fluxes. Deeper WTDs are generally associated with lower CH4 fluxes due to the shallower CH4 production layer and thicker CH4 oxidation layer [(Lai, 2009; Whalen, 2005)](https://www.zotero.org/google-docs/?kZBeNb). Ts is a significant driver of CH4 flux through its influence on metabolic processes, with methanogenesis most efficient at peat temperatures ranging from 20 to 40 ℃ (Whalen, 2005). The temperature coefficients, known as Q10 values, represent the factor by which a reaction rate increases for every 10℃ rise in temperature. These coefficients are commonly utilized to evaluate how sensitive microbial processes are to fluctuations in temperature. In addition to WTD and Ts, vegetation is a crucial factor in determining CH4 fluxes from peatlands. The presence and type of vegetation influence CH4 production by providing organic substrates like root exudates and plant litter (Bridgham et al., 2013). Aerenchymatous peatland plants with developed deep roots that penetrate anoxic peat, increasing methane production via root exudation and its transport through root pathways (Lai, 2009).
+
+## Techniques for Measuring Carbon Fluxes
+
+### Chamber Methods with Gas Chromatography and Portable Analyzer
