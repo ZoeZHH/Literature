@@ -232,3 +232,27 @@ Maludam, undisturbed swamp (MY-MLM): methane flux at a tropical peat forest in S
 ## Accounting for the climate benefit of temporary carbon storage in nature
 
 [@matthews2023]
+
+## Peatlands in the Earth's 21st century climate system [@frolking2011]
+
+Wetlands: Mineral wetlands and organic wetlands (peatlands)
+
+Organic wetlands (peatlands): Fens - wetter peatlands that recieve water and nutrients from outside their own limits; Bogs - generally drier, nutrient poor systems primarily fed via atmosphere inputs.
+
+Majority of peat (75-80%) is in boreal and sub-arctic peatlands; 10% - 15% in tropical peatlands, primarily in SE Asia, and maybe about 10% in temperate peatlands.
+
+The net climate impact of current emissions has been assessed using the Global Warming Potential (GWP) methodology to classify an individual peatland as a net GHG source/sink based on net annual emission rates and a choice of time horizon. (Whiting and Chanton (2001) classified seven peatlands (sub-tropical to boreal) where they had measured CO2 and CH4 fluxes as net greenhouse gas (or CO2-equivalent) sources or sinks. For a 20-year time horizon, all seven sites were classified as net greenhouse gas sources; for a 500-year time horizon, all were classified as net sinks; and for a 100-year time horizon, the boreal sites were classified as sources, and the temperate and sub-tropical sites as sinks.)
+
+Wetlands are and have been the dominant natural source of CH4 to the atmosphere.
+
+The rise in atmospheric CH4 concentration between 1750 and 1990 has been attributed to the dramatic increase in anthropogenic emissions during that period (Denman et al. 2007). Since 1990, the growth rate of CH4 concentration in the atmosphere has slowed and become much more erratic (e. g., Dlugokencky et al. 2009).
+
+**Peat vs. Forests**
+
+peat C, unlike forest C, the redox boundary between oxia and anoxia, which can have a very strong influence on rates of CO2 and CH4 flux (Beer and Blodau 2007). Relatively small shifts in peatland hydrology will expose more or less peat to oxic conditions, enhancing or restricting decomposition,
+
+**Fires**
+
+In boreal and sub-arctic North America, peatlands experience a fire return interval of 75--300 years (Zoltai et al. 1998), with drier peatlands (bogs) experiencing more frequent fires and larger C losses than wetter peatlands (fens).
+
+The net impacts of wildfire on peatland C emissions depends on post-fire response of hydrology and vegetation. (I think depends on vegetation recovery pattern and postfire effects of changing vegetation composition)
