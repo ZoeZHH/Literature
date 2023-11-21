@@ -104,6 +104,8 @@ plot(resid.2~yhat.2, data = collar_fluxes, xlab = "Predicted", ylab = "Residuals
 abline(a=0, b=0, col = "red")
 ```
 
+This will be problematic, because the equal variance and normality assumption didn't meet, it yields for unreliable anova results.
+
 ```{r}
 # Anova test
 model_averagecollar_FCH4_anova <- aov(FCH4_EXP_avg ~ vegetation_type + trts + vegetation_type:trts, data = collar_fluxes)
