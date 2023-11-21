@@ -29,3 +29,84 @@ Water table depth (WTD), peat temperature (Ts), peat acidity and vegetation type
 ## Techniques for Measuring Carbon Fluxes
 
 ### Chamber Methods with Gas Chromatography and Portable Analyzer
+
+# Analysis
+
+## Anova
+
+```{r}
+library(dplyr)
+setwd("/Users/zoe/desktop/Rplots/Data")
+df <- read.csv("growinganalysis.csv", header = TRUE)
+df$peat_temp_5cm[df$peat_temp_5cm < -30] <- NA
+df$peat_vwc_5cm[df$peat_vwc_5cm < -100] <- NA
+df$FCO2_EXP[df$FCO2_EXP < -10 | df$FCO2_EXP > 10] <- NA
+df$FCO2_EXP[df$FCH4_EXP < -10 | df$FCH4_EXP > 10] <- NA
+df <- filter(df, !grepl("C$", label))
+```
+
+```{r}
+# Two-way anova analysis for 36 collars average overtime - FCO2 (seedling/ecosystem types)
+collar_fluxes <- df %>%
+  group_by(label, vegetation_type, trts) %>%
+  summarise(FCO2_EXP_avg = mean(FCO2_EXP, na.rm = TRUE), 
+            FCH4_EXP_avg = mean(FCH4_EXP, na.rm = TRUE))
+print(collar_fluxes)
+model_averagecollar_FCO2 <- lm (FCO2_EXP_avg ~ vegetation_type*trts, data = collar_fluxes)
+summary(model_averagecollar_FCO2)
+# Check for assumptions
+collar_fluxes$yhat.1 <- fitted(model_averagecollar_FCO2)
+collar_fluxes$resid.1 <- resid(model_averagecollar_FCO2)
+collar_fluxes$stdresid.1 <- resid(model_averagecollar_FCO2)/summary(model_averagecollar_FCO2)$sigma
+# Independent assumption met because we take the average of the data overtime and no temporal correlation
+# Normality assumption
+# qqplot
+qqnorm(collar_fluxes$stdresid.1, pch=19)
+qqline(collar_fluxes$stdresid.1, col=2)
+# Histogram
+hist(collar_fluxes$stdresid.1, freq = T, breaks = 6, density = 10, xlab = "Residuals", ylab = "Frequency", main = "Histogram of Residuals", col = "green", border = "black")
+# Shapiro test
+shapiro.test(collar_fluxes$stdresid.1)
+# Homogenity assumption
+plot(resid.1~yhat.1, data = collar_fluxes, xlab = "Predicted", ylab = "Residuals", main = "Residuals Plot", pch=19)
+abline(a=0, b=0, col = "red")
+```
+
+```{r}
+# Anova test
+model_averagecollar_FCO2_anova <- aov(FCO2_EXP_avg ~ vegetation_type + trts + vegetation_type:trts, data = collar_fluxes)
+# Summarize the model results
+summary(model_averagecollar_FCO2_anova)
+```
+
+**`trts`**: p-value of 0.00436 (indicated by **`**`**), suggests that the treatment factor significantly affects the FCO2. No further post-hoc tests conduct because we only has a pair of trts, which anova tests already tell us there's significant differences between them.
+
+```{r}
+collar_fluxes <- collar_fluxes[collar_fluxes$label != "LS5", ]
+print(collar_fluxes)
+model_averagecollar_FCH4 <- lm (log(FCH4_EXP_avg+10) ~ vegetation_type*trts, data = collar_fluxes)
+summary(model_averagecollar_FCH4)
+# Check for assumptions
+collar_fluxes$yhat.2 <- fitted(model_averagecollar_FCH4)
+collar_fluxes$resid.2 <- resid(model_averagecollar_FCH4)
+collar_fluxes$stdresid.2 <- resid(model_averagecollar_FCH4)/summary(model_averagecollar_FCH4)$sigma
+# Independent assumption met because we take the average of the data overtime and no temporal correlation
+# Normality assumption
+# qqplot
+qqnorm(collar_fluxes$stdresid.2, pch=19)
+qqline(collar_fluxes$stdresid.2, col=2)
+# Histogram
+hist(collar_fluxes$stdresid.2, freq = T, breaks = 6, density = 10, xlab = "Residuals", ylab = "Frequency", main = "Histogram of Residuals", col = "green", border = "black")
+# Shapiro test
+shapiro.test(collar_fluxes$stdresid.2)
+# Homogenity assumption
+plot(resid.2~yhat.2, data = collar_fluxes, xlab = "Predicted", ylab = "Residuals", main = "Residuals Plot", pch=19)
+abline(a=0, b=0, col = "red")
+```
+
+```{r}
+# Anova test
+model_averagecollar_FCH4_anova <- aov(FCH4_EXP_avg ~ vegetation_type + trts + vegetation_type:trts, data = collar_fluxes)
+# Summarize the model results
+summary(model_averagecollar_FCH4_anova)
+```
