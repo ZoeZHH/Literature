@@ -1,0 +1,416 @@
+---
+references:
+- id: dacunha2019
+  accessed: "15:22:59"
+  author:
+  - family: D′Acunha
+    given: Brenda
+  - family: Morillas
+    given: Laura
+  - family: Black
+    given: T. Andrew
+  - family: Christen
+    given: Andreas
+  - family: Johnson
+    given: Mark S.
+  container-title: "Journal of Geophysical Research: Biogeosciences"
+  container-title-short: JGR Biogeosciences
+  DOI: 10.1029/2019JG005123
+  ISSN: 2169-8953, 2169-8961
+  issue: 4
+  issued: 2019-04
+  key: 6NW878B7
+  language: en
+  libraryID: 1
+  page: 884-901
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Net Ecosystem Carbon Balance of a Peat Bog Undergoing
+    Restoration: Integrating CO ~2~ and CH ~4~ Fluxes From Eddy
+    Covariance and Aquatic Evasion With DOC Drainage Fluxes"
+  title-short: Net Ecosystem Carbon Balance of a Peat Bog Undergoing
+    Restoration
+  type: article-journal
+  URL: "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JG005123"
+  volume: 124
+- id: strack2013
+  accessed: "17:16:16"
+  author:
+  - family: Strack
+    given: M.
+  - family: Zuback
+    given: Y. C. A.
+  container-title: Biogeosciences
+  DOI: 10.5194/bg-10-2885-2013
+  ISSN: 1726-4170
+  issue: 5
+  issued: 2013-05-02
+  key: DXK7CLMQ
+  language: English
+  libraryID: 1
+  page: 2885-2896
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  Publisher: Copernicus
+  source: bg.copernicus.org
+  title: Annual carbon balance of a peatland 10 yr following restoration
+  type: article-journal
+  URL: "https://bg.copernicus.org/articles/10/2885/2013/bg-10-2885-2013.html"
+  volume: 10
+- id: bridgham2013
+  accessed: "17:48:37"
+  author:
+  - family: Bridgham
+    given: Scott D.
+  - family: Cadillo-Quiroz
+    given: Hinsby
+  - family: Keller
+    given: Jason K.
+  - family: Zhuang
+    given: Qianlai
+  container-title: Global Change Biology
+  container-title-short: Glob Change Biol
+  DOI: 10.1111/gcb.12131
+  ISSN: 13541013
+  issue: 5
+  issued: 2013-05
+  key: BUSWK54E
+  language: en
+  libraryID: 1
+  page: 1325-1346
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Methane emissions from wetlands: biogeochemical, microbial,
+    and modeling perspectives from local to global scales"
+  title-short: Methane emissions from wetlands
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/10.1111/gcb.12131"
+  volume: 19
+- id: strack2013a
+  accessed: "17:16:16"
+  author:
+  - family: Strack
+    given: M.
+  - family: Zuback
+    given: Y. C. A.
+  container-title: Biogeosciences
+  DOI: 10.5194/bg-10-2885-2013
+  ISSN: 1726-4170
+  issue: 5
+  issued: 2013-05-02
+  key: DXK7CLMQ
+  language: English
+  libraryID: 1
+  page: 2885-2896
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  Publisher: Copernicus
+  source: bg.copernicus.org
+  title: Annual carbon balance of a peatland 10 yr following restoration
+  type: article-journal
+  URL: "https://bg.copernicus.org/articles/10/2885/2013/bg-10-2885-2013.html"
+  volume: 10
+- id: dacunha2019a
+  accessed: "15:22:59"
+  author:
+  - family: D′Acunha
+    given: Brenda
+  - family: Morillas
+    given: Laura
+  - family: Black
+    given: T. Andrew
+  - family: Christen
+    given: Andreas
+  - family: Johnson
+    given: Mark S.
+  container-title: "Journal of Geophysical Research: Biogeosciences"
+  container-title-short: JGR Biogeosciences
+  DOI: 10.1029/2019JG005123
+  ISSN: 2169-8953, 2169-8961
+  issue: 4
+  issued: 2019-04
+  key: 6NW878B7
+  language: en
+  libraryID: 1
+  page: 884-901
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Net Ecosystem Carbon Balance of a Peat Bog Undergoing
+    Restoration: Integrating CO ~2~ and CH ~4~ Fluxes From Eddy
+    Covariance and Aquatic Evasion With DOC Drainage Fluxes"
+  title-short: Net Ecosystem Carbon Balance of a Peat Bog Undergoing
+    Restoration
+  type: article-journal
+  URL: "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JG005123"
+  volume: 124
+- id: chapin2006
+  accessed: "05:19:08"
+  author:
+  - family: Chapin
+    given: F. S.
+  - family: Woodwell
+    given: G. M.
+  - family: Randerson
+    given: J. T.
+  - family: Rastetter
+    given: E. B.
+  - family: Lovett
+    given: G. M.
+  - family: Baldocchi
+    given: D. D.
+  - family: Clark
+    given: D. A.
+  - family: Harmon
+    given: M. E.
+  - family: Schimel
+    given: D. S.
+  - family: Valentini
+    given: R.
+  - family: Wirth
+    given: C.
+  - family: Aber
+    given: J. D.
+  - family: Cole
+    given: J. J.
+  - family: Goulden
+    given: M. L.
+  - family: Harden
+    given: J. W.
+  - family: Heimann
+    given: M.
+  - family: Howarth
+    given: R. W.
+  - family: Matson
+    given: P. A.
+  - family: McGuire
+    given: A. D.
+  - family: Melillo
+    given: J. M.
+  - family: Mooney
+    given: H. A.
+  - family: Neff
+    given: J. C.
+  - family: Houghton
+    given: R. A.
+  - family: Pace
+    given: M. L.
+  - family: Ryan
+    given: M. G.
+  - family: Running
+    given: S. W.
+  - family: Sala
+    given: O. E.
+  - family: Schlesinger
+    given: W. H.
+  - family: Schulze
+    given: E.-D.
+  container-title: Ecosystems
+  container-title-short: Ecosystems
+  DOI: 10.1007/s10021-005-0105-7
+  ISSN: 1432-9840, 1435-0629
+  issue: 7
+  issued: 2006-11
+  key: XF43YMVJ
+  language: en
+  libraryID: 1
+  page: 1041-1050
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Reconciling Carbon-cycle Concepts, Terminology, and Methods
+  type: article-journal
+  URL: "http://link.springer.com/10.1007/s10021-005-0105-7"
+  volume: 9
+- id: fenchel2012
+  accessed: "23:43:34"
+  author:
+  - family: Fenchel
+    given: T
+  - family: King
+    given: G.M.
+  - family: Blackburn
+    given: T.H.
+  DOI: 10.1016/C2010-0-67238-5
+  ISBN: 978-0-12-415836-8
+  issued: 2012
+  key: KGHKW3EE
+  language: en
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Elsevier
+  source: DOI.org (Crossref)
+  title: Bacterial Biogeochemistry
+  type: book
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/C20100672385"
+- id: bridgham2013a
+  accessed: "17:48:37"
+  author:
+  - family: Bridgham
+    given: Scott D.
+  - family: Cadillo-Quiroz
+    given: Hinsby
+  - family: Keller
+    given: Jason K.
+  - family: Zhuang
+    given: Qianlai
+  container-title: Global Change Biology
+  container-title-short: Glob Change Biol
+  DOI: 10.1111/gcb.12131
+  ISSN: 13541013
+  issue: 5
+  issued: 2013-05
+  key: BUSWK54E
+  language: en
+  libraryID: 1
+  page: 1325-1346
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Methane emissions from wetlands: biogeochemical, microbial,
+    and modeling perspectives from local to global scales"
+  title-short: Methane emissions from wetlands
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/10.1111/gcb.12131"
+  volume: 19
+- id: holden2005
+  accessed: "20:53:13"
+  author:
+  - family: Holden
+    given: Joseph
+  container-title: "Philosophical Transactions of the Royal Society A:
+    Mathematical, Physical and Engineering Sciences"
+  container-title-short: Phil. Trans. R. Soc. A.
+  DOI: 10.1098/rsta.2005.1671
+  ISSN: 1364-503X, 1471-2962
+  issue: 1837
+  issued: 2005-12-15
+  key: IHAT8XR6
+  language: en
+  libraryID: 1
+  page: 2891-2913
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Peatland hydrology and carbon release: why small-scale process
+    matters"
+  title-short: Peatland hydrology and carbon release
+  type: article-journal
+  URL: "https://royalsocietypublishing.org/doi/10.1098/rsta.2005.1671"
+  volume: 363
+- id: bridgham2013b
+  accessed: "17:48:37"
+  author:
+  - family: Bridgham
+    given: Scott D.
+  - family: Cadillo-Quiroz
+    given: Hinsby
+  - family: Keller
+    given: Jason K.
+  - family: Zhuang
+    given: Qianlai
+  container-title: Global Change Biology
+  container-title-short: Glob Change Biol
+  DOI: 10.1111/gcb.12131
+  ISSN: 13541013
+  issue: 5
+  issued: 2013-05
+  key: BUSWK54E
+  language: en
+  libraryID: 1
+  page: 1325-1346
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Methane emissions from wetlands: biogeochemical, microbial,
+    and modeling perspectives from local to global scales"
+  title-short: Methane emissions from wetlands
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/10.1111/gcb.12131"
+  volume: 19
+- id: white2008
+  accessed: "22:09:38"
+  author:
+  - family: White
+    given: Jeffrey R.
+  - family: Shannon
+    given: Robert D.
+  - family: Weltzin
+    given: Jake F.
+  - family: Pastor
+    given: John
+  - family: Bridgham
+    given: Scott D.
+  container-title: Journal of Geophysical Research
+  container-title-short: J. Geophys. Res.
+  DOI: 10.1029/2007JG000609
+  ISSN: 0148-0227
+  issued: 2008-07-26
+  key: GWXTJII4
+  language: en
+  libraryID: 1
+  page: G00A06
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Effects of soil warming and drying on methane cycling in a
+    northern peatland mesocosm study
+  type: article-journal
+  URL: "http://doi.wiley.com/10.1029/2007JG000609"
+  volume: 113
+- id: bubier1998
+  accessed: "22:30:32"
+  author:
+  - family: Bubier
+    given: Jill L.
+  - family: Crill
+    given: Patrick M.
+  - family: Moore
+    given: Tim R.
+  - family: Savage
+    given: Kathleen
+  - family: Varner
+    given: Ruth K.
+  container-title: Global Biogeochemical Cycles
+  container-title-short: Global Biogeochem. Cycles
+  DOI: 10.1029/98GB02426
+  ISSN: 08866236
+  issue: 4
+  issued: 1998-12
+  key: WWMW5NMF
+  language: en
+  libraryID: 1
+  page: 703-714
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Seasonal patterns and controls on net ecosystem CO ~2~ exchange
+    in a boreal peatland complex
+  type: article-journal
+  URL: "http://doi.wiley.com/10.1029/98GB02426"
+  volume: 12
+- id: frolking2011
+  accessed: "20:24:51"
+  author:
+  - family: Frolking
+    given: Steve
+  - family: Talbot
+    given: Julie
+  - family: Jones
+    given: Miriam C.
+  - family: Treat
+    given: Claire C.
+  - family: Kauffman
+    given: J. Boone
+  - family: Tuittila
+    given: Eeva-Stiina
+  - family: Roulet
+    given: Nigel
+  container-title: Environmental Reviews
+  container-title-short: Environ. Rev.
+  DOI: 10.1139/a11-014
+  ISSN: 1181-8700, 1208-6053
+  issue: NA
+  issued: 2011-12
+  key: 2HGIEFTX
+  language: en
+  libraryID: 1
+  page: 371-396
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Peatlands in the Earth's 21st century climate system
+  type: article-journal
+  URL: "http://www.nrcresearchpress.com/doi/10.1139/a11-014"
+  volume: 19
+...
