@@ -204,10 +204,6 @@ Pasoh Forest Reserve, Malaysia: http://asiaflux.net/index.php?page_id=93
 
 ## 
 
-
-
-
-
 FLUXNET-CH~4~ SYNTHESIS ACTIVITY: Objectives, Observations, and Future Directions
 
 While most of these sites measure CO2, water vapor, and energy exchange, the development of new and robust CH4 sensors has resulted in a rapidly growing number of CH4 EC measurements (Baldocchi 2014; Morin 2018), 
@@ -222,8 +218,17 @@ While most of these sites measure CO2, water vapor, and energy exchange, the dev
 
 (Of the total wetland CH~4~ emissions, tropical wetlands account for 50--60%, northern (Boreal and Arctic) wetlands \~34%, and temperate wetlands \~5% (Bloom et al., [2010](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017RG000559#rog20161-bib-0036); Wanget al., [1996](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017RG000559#rog20161-bib-0436)).)
 
+Tropical Forests Methane:
 
+Maludam, undisturbed swamp (MY-MLM): methane flux at a tropical peat forest in Sarawak, Malaysian Borneo. (1.454, 111.149)
 
+# Why study methane?
 
+1\) different conclusions regarding the drivers of the atmospheric CH4 growthrate over the past decades, making it difficult for national or regional policy makers to effectively implement strategies to control the sources of CH4 emissions. 2) Nearly two thirds of the global methane emissions of approximately 550 Tg CH4/year are thought to originate from tropical sources (Denman et al., 2007; Kirschke et al., 2013; Saunois, Bousquet, et al., 2016) and nearly one third from natural wetlands (Kirschke et al., 2013; Saunois, Bousquet, et al., 2016).
 
+\
+*(PDF) Eddy Covariance Measurements of Methane Flux at a Tropical Peat Forest in Sarawak, Malaysian Borneo*. Available from: <https://www.researchgate.net/publication/324618053_Eddy_Covariance_Measurements_of_Methane_Flux_at_a_Tropical_Peat_Forest_in_Sarawak_Malaysian_Borneo> \[accessed Oct 14 2023\].
 
+## Accounting for the climate benefit of temporary carbon storage in nature
+
+[@matthews2023]
