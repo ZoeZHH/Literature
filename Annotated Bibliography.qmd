@@ -256,3 +256,17 @@ peat C, unlike forest C, the redox boundary between oxia and anoxia, which can h
 In boreal and sub-arctic North America, peatlands experience a fire return interval of 75--300 years (Zoltai et al. 1998), with drier peatlands (bogs) experiencing more frequent fires and larger C losses than wetter peatlands (fens).
 
 The net impacts of wildfire on peatland C emissions depends on post-fire response of hydrology and vegetation. (I think depends on vegetation recovery pattern and postfire effects of changing vegetation composition)
+
+## Comparison of different chamber techniques for measuring soil CO2 efflux [@pumpanen2004]
+
+The three major chamber technique on measuring soil CO2 fluxes:
+
+Non-steady-state non-through-flow chamber (closed static chamber):
+
+-   rising concentration in chamber could influence the efflux from soil by altering the natural soil concentration gradient
+
+-   Pressure anomalies caused by
+
+Non-steady-state through-flow chamber (closed dynamic chamber)
+
+steady-state through flow chamber (open dynamic chamber
