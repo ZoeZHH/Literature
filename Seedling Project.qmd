@@ -45,7 +45,7 @@ df <- read.csv("growinganalysis.csv", header = TRUE)
 df$peat_temp_5cm[df$peat_temp_5cm < -30] <- NA
 df$peat_vwc_5cm[df$peat_vwc_5cm < -100] <- NA
 df$FCO2_EXP[df$FCO2_EXP < -10 | df$FCO2_EXP > 10] <- NA
-df$FCO2_EXP[df$FCH4_EXP < -10 | df$FCH4_EXP > 10] <- NA
+df$FCH4_EXP[df$FCH4_EXP < -10 | df$FCH4_EXP > 10] <- NA
 df <- filter(df, !grepl("C$", label))
 ```
 
@@ -204,16 +204,18 @@ exp_model <- function(temp, a, b) {
 }
 plot_list <- list()
 
-# Loop over each vegetation type to fit model and plot
+# Loop over each study site to fit model and plot
 for (ss in unique(df$study_site)) {
-  # Subset the data for the vegetation type
+  # Subset the data for the study site
   subset_data <- subset(df, study_site == ss)
-  # Remove rows with non-finite peat temperatures or FCH4 fluxes
+
+  # Remove rows with non-finite peat temperatures or FCO2 fluxes
   subset_data <- subset_data[is.finite(subset_data$peat_temp_5cm) & is.finite(subset_data$FCH4_EXP), ]
+
   # Check if there are enough data points to fit a curve
   if (length(subset_data$peat_temp_5cm) > 1) {
     # Fit the nonlinear model using nls
-    model <- nls(FCH4_EXP ~ a * exp(b * peat_temp_5cm), data = subset_data,
+    model <- nls(FCH4_EXP ~ a + (b * peat_temp_5cm), data = subset_data,
                  start = list(a = 1, b = 0.1), algorithm = "port", control = nls.control(maxiter = 100))
 
     # Get coefficients
@@ -227,7 +229,7 @@ for (ss in unique(df$study_site)) {
                     max(subset_data$peat_temp_5cm, na.rm = TRUE),
                     length.out = 100)
 
-    # Predict FCH4 values using the fitted model
+    # Predict FCO2 values using the fitted model
     FCH4_pred <- predict(model, newdata = data.frame(peat_temp_5cm = temp_seq))
 
     # Create a ggplot
@@ -246,29 +248,33 @@ for (ss in unique(df$study_site)) {
   }
 }
 
-# Display the plots (you can also arrange them in a grid if you like)
-if (!is.null(plot_list[['PSLS']])) {
-  print(plot_list[['PSLS']])
-}
-if (!is.null(plot_list[['PSTS']])) {
-  print(plot_list[['PSTS']])
-}
-if (!is.null(plot_list[['PSW']])) {
-  print(plot_list[['PSW']])
+# Display the plots for each study site
+for (ss_plot in plot_list) {
+  print(ss_plot)
 }
 ```
+
+| FCH4-Q10 Values | Seedling Area | Seedling Removal Area |
+|-----------------|---------------|-----------------------|
+| PSLS            | 1.10          | 0.32                  |
+| PSTS            | 0.29          | 0.45                  |
+| PSW             | 0.79          | 0.16                  |
 
 ```{r}
 exp_model <- function(temp, a, b) {
   a + (b * temp)
 }
+
 plot_list <- list()
-# Loop over each vegetation type to fit model and plot
-for (veg_type in unique(df$vegetation_type)) {
-  # Subset the data for the vegetation type
-  subset_data <- subset(df, vegetation_type == veg_type)
-  # Remove rows with non-finite peat temperatures or FCH4 fluxes
+
+# Loop over each study site to fit model and plot
+for (ss in unique(df$study_site)) {
+  # Subset the data for the study site
+  subset_data <- subset(df, study_site == ss)
+
+  # Remove rows with non-finite peat temperatures or FCO2 fluxes
   subset_data <- subset_data[is.finite(subset_data$peat_temp_5cm) & is.finite(subset_data$FCO2_EXP), ]
+
   # Check if there are enough data points to fit a curve
   if (length(subset_data$peat_temp_5cm) > 1) {
     # Fit the nonlinear model using nls
@@ -286,33 +292,81 @@ for (veg_type in unique(df$vegetation_type)) {
                     max(subset_data$peat_temp_5cm, na.rm = TRUE),
                     length.out = 100)
 
-    # Predict FCH4 values using the fitted model
+    # Predict FCO2 values using the fitted model
     FCO2_pred <- predict(model, newdata = data.frame(peat_temp_5cm = temp_seq))
 
     # Create a ggplot
     p <- ggplot(subset_data, aes(x = peat_temp_5cm, y = FCO2_EXP)) +
       geom_point() +
       geom_line(data = data.frame(peat_temp_5cm = temp_seq, FCO2_pred = FCO2_pred), aes(x = peat_temp_5cm, y = FCO2_pred), color = 'blue') +
-      ggtitle(paste('FCO2-Q10 Curve for', veg_type, '(Q10 =', sprintf('%.2f', Q10), ')')) +
+      ggtitle(paste('FCO2-Q10 Curve for', ss, '(Q10 =', sprintf('%.2f', Q10), ')')) +
       xlab('Peat Temperature at 5cm (°C)') +
       ylab('FCO2 Flux (µmol m⁻² s⁻¹)') +
       theme_minimal()
 
     # Store the plot in the list
-    plot_list[[veg_type]] <- p
+    plot_list[[ss]] <- p
   } else {
-    warning(paste('Not enough data points to fit a curve for', veg_type))
+    warning(paste('Not enough data points to fit a curve for', ss))
   }
 }
 
-# Display the plots (you can also arrange them in a grid if you like)
-if (!is.null(plot_list[['PSLS']])) {
-  print(plot_list[['PSLS']])
+# Display the plots for each study site
+for (ss_plot in plot_list) {
+  print(ss_plot)
 }
-if (!is.null(plot_list[['PSTS']])) {
-  print(plot_list[['PSTS']])
-}
-if (!is.null(plot_list[['PSW']])) {
-  print(plot_list[['PSW']])
-}
+
+```
+
+| FCO2-Q10 Values | Seedling Area | Seedling Removal Area |
+|-----------------|---------------|-----------------------|
+| PSLS            | 8.33          | 7.77                  |
+| PSTS            | 14.59         | 8.13                  |
+| PSW             | 1.71          | 5.97                  |
+
+## PART3 - Mixed Effects Model
+
+Refer to the paper \[Wildfire overrides hydrological controls on boreal peatland methane emissions\], model tests on seeing vegetation types and trts as fixed factor, collar ID as a random effect to take into account repeated measures.
+
+```{r}
+df1 <- df %>% 
+  mutate(month = lubridate::month(date))
+df1$collar_number <- substr(df1$label, 3, 3)
+```
+
+```{r}
+# Load the required package
+library(lme4)
+
+# Fit the mixed effects models
+M2 <- lmer(log(FCO2_EXP) ~ vegetation_type + trts + month + (1|collar_number), REML = FALSE, data = df1)
+M3 <- lmer(log(FCO2_EXP) ~ vegetation_type * trts + month + (1|collar_number), REML = FALSE, data = df1)
+M4 <- lmer(log(FCO2_EXP) ~ vegetation_type + month + (1|collar_number), REML = FALSE, data = df1)
+M5 <- lmer(log(FCO2_EXP) ~ trts + month + (1|collar_number), REML = FALSE, data = df1)
+
+# Perform the ANOVA comparison
+anova(M2, M3)
+anova(M2, M4)
+anova(M2, M5)
+
+# Check for linearity
+plot(fitted(M2), resid(M2), xlab = "Fitted Values", ylab = "Residuals")
+abline(h = 0, col = "red")
+# Check for independence
+acf(resid(M2), lag.max = 20, main = "ACF of Residuals")
+# Check for homogenity
+plot(fitted(M2), resid(M2), xlab = "Fitted Values", ylab = "Residuals")
+abline(h = 0, col = "red")
+# Check for normality
+qqnorm(resid(M2))
+qqline(resid(M2), col = "red")
+shapiro.test(resid(M2))
+```
+
+```{r}
+# Run anova on the model for significance of fixed effects
+anova(M2)
+# Run summary on the model for significance of random effects
+summary(M2)
+# the model suggests that trts and month are significant predictors of the log-transformed FCO2_EXP, with vegetation_type having a less significant effect. The low variance for collar_number suggests that the random effects structure is not explaining much of the variability in the data, which could be due to the grouping variable collar_number not having much influence on the outcome, or it could be that the variability is low between different collar_number groups.
 ```
