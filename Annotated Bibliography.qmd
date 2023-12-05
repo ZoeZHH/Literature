@@ -270,3 +270,11 @@ Non-steady-state non-through-flow chamber (closed static chamber):
 Non-steady-state through-flow chamber (closed dynamic chamber)
 
 steady-state through flow chamber (open dynamic chamber
+
+## Annual Greenhouse Gas Budget for a Bog Ecosystem undergoing Restoration by Rewetting 
+
+Small points:
+
+-   Peatlands are the most widespread of all wetland types in the world, representing 50-70% of global wetlands
+
+-   
