@@ -34,6 +34,10 @@ Water table depth (WTD), peat temperature (Ts), peat acidity and vegetation type
 
 ### Chamber Methods with Gas Chromatography and Portable Analyzer
 
+## Burns Bog Greenhouse Gas Budget
+
+@lee2017 examined the year-round greenhouse gas budget (16 June 2015 to 15 June 2016) in a center area of BBECA which has been harvested, disturbed and rewetted using eddy covariance technique. The annual Reco in this area is 236±16.4 gCO~2~-Cm^-2^yr^-1^, with higher values during the growing season (\>20 gCO~2~-Cm^-2^month^-1^).The study revealed that T~s,5cm~, WTH and Ta are three controls on Reco. The relationship between Reco and T~s,5cm~ varies with season: it is non-significant in winter, logistic in spring, constant Reco over the early summer, and exponential in fall. Ta is correlated with Reco when Ta \< 16 ℃ and had the similar impact as T~s,5cm.~ The higher WTH in winter suppress the Reco. Similarly, F~CH4~ are higher in the growing season (\>1000 mgCH~4~-Cm^-2^month^-1^) and lower in the non-growing season, leading to an annual CH~4~-C budget was 17±1.0 gCH~4~-Cm^-2^yr^-1^. WTH and Ts are primary controls on FCH4, with WTH positively correlating with FCH4. However, the summer months exhibit higher FCH4 despite lower WTH, likely due to: 1) peat sustaining anaerobic conditions above the water table, and 2) sedges providing an efficient diffusion pathway for FCH4 via plant aerenchyma.
+
 # Analysis
 
 ## PART1 - Anova

@@ -413,4 +413,45 @@ references:
   type: article-journal
   URL: "http://www.nrcresearchpress.com/doi/10.1139/a11-014"
   volume: 19
+- id: lee2017
+  author:
+  - family: Lee
+    given: Sung-Ching
+  - family: Christen
+    given: Andreas
+  - family: Black
+    given: Andrew T.
+  - family: Johnson
+    given: Mark S.
+  - family: Jassal
+    given: Rachhpal S.
+  - family: Ketler
+    given: Rick
+  - family: Nesic
+    given: Zoran
+  - family: Merkens
+    given: Markus
+  container-title: Biogeosciences
+  container-title-short: Biogeosciences
+  DOI: 10.5194/bg-14-2799-2017
+  is-referenced-by-count: 37
+  ISSN: 1726-4189
+  issue: 11
+  issued: 2017-06-08
+  language: en
+  member: 3145
+  page: 2799-2814
+  prefix: 10.5194
+  providerKey: doi
+  publisher: Copernicus GmbH
+  reference-count: 130
+  references-count: 130
+  score: 1
+  source: Crossref
+  subject: Earth-Surface Processes
+  title: Annual greenhouse gas budget for a bog ecosystem undergoing
+    restoration by rewetting
+  type: article-journal
+  URL: "http://dx.doi.org/10.5194/bg-14-2799-2017"
+  volume: 14
 ...
