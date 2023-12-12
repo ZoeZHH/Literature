@@ -454,4 +454,35 @@ references:
   type: article-journal
   URL: "http://dx.doi.org/10.5194/bg-14-2799-2017"
   volume: 14
+- id: christen2016
+  author:
+  - family: Christen
+    given: Andreas
+  - family: Jassal
+    given: Rachhpal
+  - family: Black
+    given: T
+  - family: Grant
+    given: Nicholas
+  - family: Hawthorne
+    given: Iain
+  - family: Johnson
+    given: Mark
+  - family: Lee
+    given: Sung-Ching
+  - family: Merkens
+    given: Markus
+  container-title: Mires and Peat
+  container-title-short: Mires and Peat
+  DOI: 10.19189/MaP.2015.OMB.207
+  issued: 2016-04-08
+  key: P4TY5BKR
+  libraryID: 1
+  page: 1-24
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: ResearchGate
+  title: Summertime greenhouse gas fluxes from an urban bog undergoing
+    restoration through rewetting
+  type: article-journal
+  volume: 17
 ...
