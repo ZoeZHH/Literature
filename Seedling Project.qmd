@@ -48,7 +48,7 @@ Water table depth (WTD), peat temperature (Ts), peat acidity and vegetation type
 
 ## Measurement Procedures (2023/12/14-2023/12/15)
 
-### Chamber-Portable Analyzer Measurements of R~eco~ and F~CH4~ 
+### Chamber-Portable Analyzer Measurements of R~eco~ and F~CH4~
 
 Reco and FCH4 were measured using an opaque survey chamber (LI-8200-01S) connected to a laser-based gas analyzer (LI-7810). The LI-7810 Trace Gas Analyzer is a high-precision, laser-based instrument employing Optical Feedback---Cavity-Enhanced Absorption Spectroscopy (OF-CEAS) for measuring gases in the air. It draws air from the chamber into the analyzer through an air inlet. This air then passes through the optical bench and a phase adjuster for flux measurements before being exhausted through the air outlet. The Smart Chamber, LI-8200-01S, is a portable, self-powered survey chamber with a 20-cm diameter. It features an embedded microprocessor and internal storage for real-time flux calculations when connected to the gas analyzer. The flux data can be monitored in real time or stored in the Smart Chamber for later retrieval. Additionally, the Smart Chamber is equipped with a Stevens HydraProbe soil moisture and temperature probe. This probe, placed at approximately 0.05m depth just outside the collar, is used for measuring soil temperature and volumetric water content.
 
@@ -61,7 +61,7 @@ Reco and FCH4 were measured using an opaque survey chamber (LI-8200-01S) connect
 ## PART1 - Anova
 
 ```{r}
-library(dplyr)
+library(tidyverse)
 setwd("/Users/zoe/desktop/Rplots/Data")
 df <- read.csv("growinganalysis.csv", header = TRUE)
 df$peat_temp_5cm[df$peat_temp_5cm < -30] <- NA
@@ -190,14 +190,38 @@ There're significant differences between PSW and the other two vegetation types 
 
 ## PART2 - Q10
 
-Plot raw data for TS_5 vs. FCO2 & TS_5 vs. FCH4.
+Plot raw data for TS_5 vs. FCO2 & TS_5 vs. FCH4 by **treatments**
 
 ```{r}
 plot_flux_by_month <- function(data, x_var, y_var, y_label) {
-  ggplot(data, aes_string(x = x_var, y = y_var, color = "factor(month)")) +
+  ggplot(data, aes_string(x = x_var, y = y_var, color = "factor(trts)")) +
     geom_point(size = 3, shape = 19) + 
-    labs(x = x_var, y = y_label, title = paste("Scatterplot of", y_label, "by Month")) +
-    scale_color_discrete(name = "Month") +
+    labs(x = x_var, y = y_label, title = paste("Scatterplot of", y_label, "by Ecosystem Types")) +
+    scale_color_discrete(name = "Ecosystem Types") +
+    theme_minimal()
+}
+
+df1 <- df %>% 
+  mutate(month = lubridate::month(date))
+er_flux_temp_plot <- plot_flux_by_month(df1, "peat_temp_5cm", "FCO2_EXP", "ER (µmol/m²/s)")
+ch4_flux_temp_plot <- plot_flux_by_month(df1, "peat_temp_5cm", "FCH4_EXP", "FCH4 (nmol/m²/s)")
+er_flux_vwc_plot <- plot_flux_by_month(df1, "peat_vwc_5cm", "FCO2_EXP", "ER (µmol/m²/s)")
+ch4_flux_vwc_plot <- plot_flux_by_month(df1, "peat_vwc_5cm", "FCH4_EXP", "FCH4 (nmol/m²/s)")
+
+er_flux_temp_plot
+ch4_flux_temp_plot
+er_flux_vwc_plot
+ch4_flux_vwc_plot
+```
+
+Plot raw data for TS_5 vs. FCO2 & TS_5 vs. FCH4 by **ecosystem types**
+
+```{r}
+plot_flux_by_month <- function(data, x_var, y_var, y_label) {
+  ggplot(data, aes_string(x = x_var, y = y_var, color = "factor(vegetation_type)")) +
+    geom_point(size = 3, shape = 19) + 
+    labs(x = x_var, y = y_label, title = paste("Scatterplot of", y_label, "by Ecosystem Types")) +
+    scale_color_discrete(name = "Ecosystem Types") +
     theme_minimal()
 }
 
@@ -219,6 +243,16 @@ ch4_flux_vwc_plot
 df$study_site <- substr(df$label, 1, 2)
 print(df)
 ```
+
+Temperatures sensitivity (Q10) analyses how C fluxes respond to variations in soil temperature. Q10 describes the relative increase in daily Reco or CH4 flux per 10 °C increase in daily soil temperature.
+
+CO2-Step 1: $ln(Reco) = A + b_{Reco}T_{s,5cm}$
+
+CO2-Step 2: $Q10_{Reco} = e^{10b_{R_{eco}}}$
+
+CH4-Step 1: $FCH_4 = ae^{b_{FCH4}T_{s,5cm}}$
+
+CH4-Step 2: $Q10_{FCH4} = e^{10b_{FCH_4}}$
 
 ```{r}
 exp_model <- function(temp, a, b) {
