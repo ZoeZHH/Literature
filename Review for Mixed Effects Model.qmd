@@ -15,6 +15,10 @@ bibliography: references.bib
 
 **With and without temporal autocorrelation:** <https://bbolker.github.io/mixedmodels-misc/notes/corr_braindump.html>
 
+**Mixed effects model tutorial:** <https://ourcodingclub.github.io/tutorials/mixed-models/index.html#what>
+
+chrome-[extension://efaidnbmnnnibpcajpcglclefindmkaj/https://bodowinter.com/tutorial/bw_LME_tutorial.pdf](extension://efaidnbmnnnibpcajpcglclefindmkaj/https://bodowinter.com/tutorial/bw_LME_tutorial.pdf)
+
 ```{r}
 # Sample Code
 lme1 <- lme(logFCH4_gC~GPP_PI_F_NT_gC+logTP_interp+TA+logNO3_NO2_N_interp+WTD+logSO4_pred_interp,random=~1|site,data=data.daily.model.norm,method = mth)
@@ -182,3 +186,11 @@ Selecting Among Alternative Models
 The seedling removal project - growing season:
 
 -   Refer to the Mixed Effects Models and Extensions with Ecology in R, check example 2.3.8, for heterogeneity
+
+Notes from <https://ourcodingclub.github.io/tutorials/mixed-models/index.html#what>:
+
+There are two types of random effects:
+
+**1) Crossed random effects**: multiple observations on one examine sample, such as chamber flux measurements (multiple flux observations has been collected on a chamber across time)
+
+**2) Nested random effects:** there\'s often an element of scale, or sampling stratification in there (you have 6 collars in a study site)
