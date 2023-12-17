@@ -12,6 +12,28 @@ bibliography: references.yaml
 
 ## The Carbon Cycle in Peatlands
 
+The drop in water table position triggers a shift in vegetation composition for most northern regions [@kettridge2015]
+
+(<https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2486.2008.01756.x?saml_referrer>) Description of burned areas: Fires burn the needles and lichen-covered branches of black spruce trees, leaving behind standing dead boles. Aboveground vas-cular vegetation, almost exclusively ericaceous shrubsin Alberta bogs (mostlyLedum groenlandicumwith someChamaedaphne calyculataat our sites; Table 1), also burnsuch that after fire the leafless scattered main branchesof shrubs that remain are extensively burned or charred.
+
+**Postfire vegetation changes appear to play a majorrole in driving the course of postfire C balance.**
+
+(Metrovancouver, 2007):
+
+-   If water level fall, the composition of these remaining bog communities will change. Peat-forming species will recede and species adapted to drier conditions in advance. The drier growing conditions support the establishment of woody shrubs and trees like short shrubs -\> woody plants grow, transpiration rates increase significantly -\> the overall water loss from the bog increases
+
+-   Low water table conditions support the broader establishment of woody shrubs and trees, like shore Pine. As water level rises, the growth and spread of Pines will likely moderate and be controlled
+
+-   Pine communities have extensive well-established root systems that will likely compromise the re-establishment of peat-forming plant communities
+
+Wildfire:
+
+-   Destroy the peat-forming plant communities at the surface of the bog and take decades to recover
+
+-   Wildfires release unwanted nutrients into the nutrient-poor bog environment
+
+-   Wildfires threaten wildlife, people and the properties surrounding the Bog, and impact air quality for the residents of the Region
+
 ### Land-atmosphere Exchanges of Carbon Fluxes
 
 @chapin2006 proposed the term net ecosystem carbon balance (NECB) as the overall ecosystem C balance from all sources, including C pathways between terrestrial and atmosphere, terrestrial and aquatic and particulate transport, which represents the net rate of C accumulation in ecosystems. In most peatlands, NECB can be simplified as - NEE/F~CO2~ (net ecosystem exchange, the net CO~2~ flux between terrestrial ecosystems and atmosphere) + F~CH4~ (net CH~4~ flux between terrestrial ecosystems and atmosphere) + F~DOC~ (net dissolved organic carbon) [@strack2013; @dacunha2019]. The land-atmosphere exchange of C fluxes include the two components of NECB in peatlands, F~CO2~ and F~CH4~.
@@ -42,11 +64,23 @@ Water table depth (WTD), peat temperature (Ts), peat acidity and vegetation type
 
 # Materials and Methods
 
-## Study area (2023/12/12)
+## Study area
 
-## Measurement Sites (2023/12/13)
+### Burns Bog (2023/12/16)
 
-## Measurement Procedures (2023/12/14-2023/12/15)
+Burns Bog is a raised ombrotrophic bog ecosystem located in the Fraser River delta between the south arm of the Fraser River and Boundary Bay. Prior to the late 1800s, the bog covered approximately 48 km^2^ [@hebda2000]. From mid 1800s to late 1900s, development activities like agriculture, peat mining, industry, and landfills had impacted 40% of the bog [@hebda2000]. Ditches were widely used to lower water levels, creating drier conditions needed for these activities, which accelerated the peat decomposition rates, and resulted in irreversible changes in bog hydrology, ecology, and structure [@mires:p1993]. In 2004, the local governments partnered with federal and provincial governments to purchase a large portion (approximately 20 km^2^) of the bog to establish the Burns Bog Ecological Conservancy Area (BBECA), which includes 14 km^2^ of the previously disturbed wetland ecosystem plus 6 km^2^ of the undisturbed ecosystem [@metrovancouver2007].  The primary objective of the BBECA is to conserve and restore ecosystem functioning of this large coastal raised bog through management and restoration activities such as ditch blocking [@metrovancouver2007]. 
+
+Burns Bog is a highly heterogeneous environment with 22 distinct ecosystem types, including 9 shrub-dominated ecosystems, 7 forested ecosystems, and 6 sparsely non-vegetated or human-modified ecosystems [@hebda2000]. The widespread plant communities are dominated by Sphagum mosses, lodgepole pine, Labrador tea (Ledum groenlandicum), bog cranberry, bog blueberry (Vaccinium uliginosum), and salal (Gaultheria shallon). The ecosystem types containing Lodgepole Pine-Sphagnum (PS) stands dominate the bog.
+
+The bog is highly sensitive to fire and experienced two wildfires since 2000, which occurred in 2005 and 2016. On September 11, 2005, a large fire broke out in the southeastern portion of the bog. The fire burned for ten days and consumed approximately 205 ha, almost 10% of the BBECA (Howie et al., 2020). The fire resulted in the incineration of up to 50 cm of the surface peat, lowering the bog surface elevation in those areas (Howie et al., 2020). Sphagnum  carpets were incinerated, and the area was subjected to massive seed releases from decades of accumulation of lodgepole pinecones. Densities of pine tree seedlings reached up to \~20,000 stems/ha just six years after the fire. The post-fire vegetation communities became tree-dominated, mainly comprising native and non-native tree species (e.g., Lodgepole pine and Silver birch, respectively) (Howie et al., 2020).  Another fire broke out in the north-western portion of the bog at the base of one of the Corus Entertainment radio towers on July 3, 2016. By July 11, the fire had been fully contained, but it had consumed up to 78 hectares of the bog area (Howie et al., 2020). The fire swept over the surface of the bog quickly so that the surface elevation didn\'t drop as significantly as in the 2005 fire (Howie et al., 2020). Consistent with observations from the 2005 burned zone, the 2016 burned zone also exhibited a notable increase in the density of pine tree seedlings following the fire event.  
+
+### Measurement Sites (2023/12/17)
+
+#### The 2005 Burned Zone
+
+#### The 2016 Burned Zone
+
+## Measurement Procedures (2023/12/18-2023/12/19)
 
 ### Chamber-Portable Analyzer Measurements of R~eco~ and F~CH4~
 
@@ -426,3 +460,5 @@ anova(M2)
 summary(M2)
 # the model suggests that trts and month are significant predictors of the log-transformed FCO2_EXP, with vegetation_type having a less significant effect. The low variance for collar_number suggests that the random effects structure is not explaining much of the variability in the data, which could be due to the grouping variable collar_number not having much influence on the outcome, or it could be that the variability is low between different collar_number groups.
 ```
+
+# Discussions

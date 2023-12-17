@@ -485,4 +485,59 @@ references:
     restoration through rewetting
   type: article-journal
   volume: 17
+- id: hebda2000
+  author:
+  - family: Hebda
+    given: Richard Joseph
+  - family: Gustavson
+    given: Kent
+  - family: Golinski
+    given: Karen
+  - family: Calder
+    given: Alan M.
+  ISBN: 978-0-7726-4191-5
+  issued: 2000
+  key: 6XX57R6E
+  language: en
+  libraryID: 1
+  number-of-pages: 271
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Environmental Assessment Office
+  publisher-place: Victoria, BC
+  source: K10plus ISBN
+  title: "Burns Bog ecosystem review: synthesis report"
+  title-short: Burns Bog ecosystem review
+  type: book
+- id: metrovancouver2007
+  author:
+  - family: Metro Vancouver
+  issued: 2007
+  key: 7LEZJXXJ
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher-place: Metro Vancouver, Burnaby, BC, Canada
+  title: Burns Bog Ecological Conservancy Area Management Plan
+  type: report
+  URL: "http://www.metrovancouver.org/services/
+    parks/ParksPublications/BurnsBogManagementP lan.pdf"
+- id: mires:p1993
+  call-number: GB621 .M6513 1993
+  editor:
+  - family: Heathwaite
+    given: A. L.
+  - family: Göttlich
+    given: Karlhans
+  ISBN: 978-0-471-93353-3
+  issued: 1993
+  key: VHRKPX72
+  language: eng
+  libraryID: 1
+  number-of-pages: 506
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Wiley
+  publisher-place: Chichester, West Sussex, England ; New York
+  source: Library of Congress ISBN
+  title: "Mires: process, exploitation, and conservation"
+  title-short: Mires
+  type: book
 ...
