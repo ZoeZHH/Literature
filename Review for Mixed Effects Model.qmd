@@ -193,4 +193,4 @@ There are two types of random effects:
 
 **1) Crossed random effects**: multiple observations on one examine sample, such as chamber flux measurements (multiple flux observations has been collected on a chamber across time)
 
-**2) Nested random effects:** there\'s often an element of scale, or sampling stratification in there (you have 6 collars in a study site)
+**2) Nested random effects:** there's often an element of scale, or sampling stratification in there (you have 6 collars in a study site)

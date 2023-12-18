@@ -540,4 +540,279 @@ references:
   title: "Mires: process, exploitation, and conservation"
   title-short: Mires
   type: book
+- id: howie2020
+  accessed: "01:00:38"
+  author:
+  - family: Howie
+    given: Sarah A.
+  - family: Whitfield
+    given: Paul H.
+  - family: Moore
+    given: R. Dan
+  container-title: Ecohydrology
+  container-title-short: Ecohydrology
+  DOI: 10.1002/eco.2209
+  ISSN: 1936-0584, 1936-0592
+  issue: 4
+  issued: 2020-06
+  key: 845JVAHD
+  language: en
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Plant community type is an indicator of the seasonal moisture
+    deficit in a disturbed raised bog
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/10.1002/eco.2209"
+  volume: 13
+- id: howie2020a
+  accessed: "01:00:38"
+  author:
+  - family: Howie
+    given: Sarah A.
+  - family: Whitfield
+    given: Paul H.
+  - family: Moore
+    given: R. Dan
+  container-title: Ecohydrology
+  container-title-short: Ecohydrology
+  DOI: 10.1002/eco.2209
+  ISSN: 1936-0584, 1936-0592
+  issue: 4
+  issued: 2020-06
+  key: 845JVAHD
+  language: en
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Plant community type is an indicator of the seasonal moisture
+    deficit in a disturbed raised bog
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/10.1002/eco.2209"
+  volume: 13
+- id: bönsel2011
+  author:
+  - family: Bönsel
+    given: André
+  - family: Sonneck
+    given: Anne-Gesine
+  container-title: Wetlands Ecology and Management
+  container-title-short: Wetlands Ecol Manage
+  DOI: 10.1007/s11273-011-9210-x
+  is-referenced-by-count: 9
+  ISSN: 0923-4861
+  issue: 2
+  issued: 2011-02-05
+  language: en
+  member: 297
+  page: 183-194
+  prefix: 10.1007
+  providerKey: doi
+  publisher: Springer Science and Business Media LLC
+  reference-count: 65
+  references-count: 65
+  score: 1
+  source: Crossref
+  subject: Management, Monitoring, Policy and Law
+  title: "Effects of a hydrological protection zone on the restoration
+    of a raised bog: a case study from Northeast-Germany 1997--2008"
+  type: article-journal
+  URL: "http://dx.doi.org/10.1007/s11273-011-9210-x"
+  volume: 19
+- id: bönsel2011a
+  author:
+  - family: Bönsel
+    given: André
+  - family: Sonneck
+    given: Anne-Gesine
+  container-title: Wetlands Ecology and Management
+  container-title-short: Wetlands Ecol Manage
+  DOI: 10.1007/s11273-011-9210-x
+  is-referenced-by-count: 9
+  ISSN: 0923-4861
+  issue: 2
+  issued: 2011-02-05
+  language: en
+  member: 297
+  page: 183-194
+  prefix: 10.1007
+  providerKey: doi
+  publisher: Springer Science and Business Media LLC
+  reference-count: 65
+  references-count: 65
+  score: 1
+  source: Crossref
+  subject: Management, Monitoring, Policy and Law
+  title: "Effects of a hydrological protection zone on the restoration
+    of a raised bog: a case study from Northeast-Germany 1997--2008"
+  type: article-journal
+  URL: "http://dx.doi.org/10.1007/s11273-011-9210-x"
+  volume: 19
+- id: bönsel2011b
+  author:
+  - family: Bönsel
+    given: André
+  - family: Sonneck
+    given: Anne-Gesine
+  container-title: Wetlands Ecology and Management
+  container-title-short: Wetlands Ecol Manage
+  DOI: 10.1007/s11273-011-9210-x
+  is-referenced-by-count: 9
+  ISSN: 0923-4861
+  issue: 2
+  issued: 2011-02-05
+  language: en
+  member: 297
+  page: 183-194
+  prefix: 10.1007
+  providerKey: doi
+  publisher: Springer Science and Business Media LLC
+  reference-count: 65
+  references-count: 65
+  score: 1
+  source: Crossref
+  subject: Management, Monitoring, Policy and Law
+  title: "Effects of a hydrological protection zone on the restoration
+    of a raised bog: a case study from Northeast-Germany 1997--2008"
+  type: article-journal
+  URL: "http://dx.doi.org/10.1007/s11273-011-9210-x"
+  volume: 19
+- id: kettridge2015
+  article-number: 8063
+  author:
+  - family: Kettridge
+    given: N.
+  - family: Turetsky
+    given: M. R.
+  - family: Sherwood
+    given: J. H.
+  - family: Thompson
+    given: D. K.
+  - family: Miller
+    given: C. A.
+  - family: Benscoter
+    given: B. W.
+  - family: Flannigan
+    given: M. D.
+  - family: Wotton
+    given: B. M.
+  - family: Waddington
+    given: J. M.
+  container-title: Scientific Reports
+  container-title-short: Sci Rep
+  DOI: 10.1038/srep08063
+  is-referenced-by-count: 115
+  ISSN: 2045-2322
+  issue: 1
+  issued: 2015-01-27
+  language: en
+  member: 297
+  prefix: 10.1038
+  providerKey: doi
+  publisher: Springer Science and Business Media LLC
+  reference-count: 27
+  references-count: 27
+  score: 1
+  source: Crossref
+  subject: Multidisciplinary
+  title: Moderate drop in water table increases peatland vulnerability
+    to post-fire regime shift
+  type: article-journal
+  update-policy: "http://dx.doi.org/10.1007/springer_crossmark_policy"
+  URL: "http://dx.doi.org/10.1038/srep08063"
+  volume: 5
+- id: kettridge2015a
+  article-number: 8063
+  author:
+  - family: Kettridge
+    given: N.
+  - family: Turetsky
+    given: M. R.
+  - family: Sherwood
+    given: J. H.
+  - family: Thompson
+    given: D. K.
+  - family: Miller
+    given: C. A.
+  - family: Benscoter
+    given: B. W.
+  - family: Flannigan
+    given: M. D.
+  - family: Wotton
+    given: B. M.
+  - family: Waddington
+    given: J. M.
+  container-title: Scientific Reports
+  container-title-short: Sci Rep
+  DOI: 10.1038/srep08063
+  is-referenced-by-count: 115
+  ISSN: 2045-2322
+  issue: 1
+  issued: 2015-01-27
+  language: en
+  member: 297
+  prefix: 10.1038
+  providerKey: doi
+  publisher: Springer Science and Business Media LLC
+  reference-count: 27
+  references-count: 27
+  score: 1
+  source: Crossref
+  subject: Multidisciplinary
+  title: Moderate drop in water table increases peatland vulnerability
+    to post-fire regime shift
+  type: article-journal
+  update-policy: "http://dx.doi.org/10.1007/springer_crossmark_policy"
+  URL: "http://dx.doi.org/10.1038/srep08063"
+  volume: 5
+- id: howie2020b
+  accessed: "01:00:38"
+  author:
+  - family: Howie
+    given: Sarah A.
+  - family: Whitfield
+    given: Paul H.
+  - family: Moore
+    given: R. Dan
+  container-title: Ecohydrology
+  container-title-short: Ecohydrology
+  DOI: 10.1002/eco.2209
+  ISSN: 1936-0584, 1936-0592
+  issue: 4
+  issued: 2020-06
+  key: 845JVAHD
+  language: en
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Plant community type is an indicator of the seasonal moisture
+    deficit in a disturbed raised bog
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/10.1002/eco.2209"
+  volume: 13
+- id: howie2020c
+  accessed: "01:00:38"
+  author:
+  - family: Howie
+    given: Sarah A.
+  - family: Whitfield
+    given: Paul H.
+  - family: Moore
+    given: R. Dan
+  container-title: Ecohydrology
+  container-title-short: Ecohydrology
+  DOI: 10.1002/eco.2209
+  ISSN: 1936-0584, 1936-0592
+  issue: 4
+  issued: 2020-06
+  key: 845JVAHD
+  language: en
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Plant community type is an indicator of the seasonal moisture
+    deficit in a disturbed raised bog
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/10.1002/eco.2209"
+  volume: 13
 ...

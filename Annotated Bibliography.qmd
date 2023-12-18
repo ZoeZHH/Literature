@@ -278,7 +278,7 @@ Small points:
 
 -   
 
-[@kettridge2015] Kettridge, N., Turetsky, M., Sherwood, J. *et al.* Moderate drop in water table increases peatland vulnerability to post-fire regime shift. *Sci Rep* **5**, 8063 (2015). https://doi.org/10.1038/srep08063
+## [@kettridge2015] Kettridge, N., Turetsky, M., Sherwood, J. *et al.* Moderate drop in water table increases peatland vulnerability to post-fire regime shift. *Sci Rep* 5, 8063 (2015). https://doi.org/10.1038/srep08063
 
 Type of the research: a unique long-term experiment
 
@@ -302,3 +302,17 @@ Discussion:
 -   The transition to a deciduous canopy also provided additional leaf litter and low light transmissivities that have been shown to restrict the establishment of moss species, reinforcing the observed change from a peatland to a shrub ecosystem.
 
 **Wildfire has been an important disturbance within the boreal region of North America throughout the Holocene** (Brandt, J. P., Flannigan, M. D., Maynard, D. G., Thompson, I. D. & Volney, W. J. A. An introduction to Canada's boreal zone: ecosystem processes, health, sustainability and environmental issues. Environ. Rev. 21, 207--226 (2013).)
+
+## Plant community type is an indicator of the seasonal moisture deficit in a disturbed raised bog [**https://doi.org/10.1002/eco.2209**](https://doi.org/10.1002/eco.2209)
+
+Purposes: 1) determine whether there's a relation between plant community type and a calculated moisture deficit related to residence time in a disturbed Burns Bog and 2) how WTMD (water moisture deficit) islinked to climate in Burns Bog, as well as how the relation variesamong different plant communities and as a function of proximity toditches and the bog's edge, historic disturbance and restorationactivities
+
+67 study sites (4 study sites in the 2005 fire site & two in the 2016 fire site)
+
+Source Text - Related to Fires:
+
+**For example, in a 15-year study of a cutover and drained raised bog in northeast Germany, ditch block-ing resulted in a water level increase of approximately 45 cm after10 years; restoration of the water table resulted in a loss of trees and increase in Sphagnumcover (Bönsel & Sonneck, 2011)**
+
+Fire can also impact the depth to water table and vegetation inpeatlands. Not only does fire burn surface vegetation, but any peatsituated above the water table may also burn, effectively lowering thesurface elevation and decreasing the depth to water table comparedto the prefire condition. The loss of the surface peat may result indenser and more humified (i.e., catotelmic) peat being exposed at thesurface (Sherwood et al., 2013), as well as near-surface water repel-lency due to the production of hydrophobic compounds (Mooreet al., 2017; Wilkinson, Verkaik, Moore, & Waddington, 2019). Firemay also increase nutrient supply in bogs (Depante et al., 2018). Dueto these effects, significant changes to bog vegetation can occur aftera fire, such as a reduction ofSphagnumcover and an increase in erica-ceous shrubs andCladoniaspecies (Damman, 1977).
+
+(Assessing the moisture deficit using resi-dence time, in addition to measuring the depth to water table, has thepotential to allow peatland managers to track how longer, drier sum-mers affect moisture availability for plants)
