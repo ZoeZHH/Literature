@@ -194,3 +194,19 @@ There are two types of random effects:
 **1) Crossed random effects**: multiple observations on one examine sample, such as chamber flux measurements (multiple flux observations has been collected on a chamber across time)
 
 **2) Nested random effects:** there's often an element of scale, or sampling stratification in there (you have 6 collars in a study site)
+
+<https://peerj.com/preprints/3113/> (Guide for the uninitiated through the model fitting and model selection processes when using LMMs) - 2023/12/18, haven't done
+
+Challenges of LMM:
+
+1\) They make additional assumptions about the data to those made in more standard statistical techniques such as general linear models (GLMs), and these assumptions are often violated
+
+2\) Interpreting model output correctly can be challenging, especially for the variance components of random effects
+
+3\) Model selection for LMMs presents a unique challenge.
+
+Key Points:
+
+-   Always fitting both random slopes and intercepts where possible
+
+chrome-[extension://efaidnbmnnnibpcajpcglclefindmkaj/https://bodowinter.com/tutorial/bw_LME_tutorial.pdf](extension://efaidnbmnnnibpcajpcglclefindmkaj/https://bodowinter.com/tutorial/bw_LME_tutorial.pdf)
