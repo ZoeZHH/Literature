@@ -815,4 +815,241 @@ references:
   type: article-journal
   URL: "https://onlinelibrary.wiley.com/doi/10.1002/eco.2209"
   volume: 13
+- id: holden2005a
+  author:
+  - family: Holden
+    given: Joseph
+  container-title: "Philosophical Transactions of the Royal Society A:
+    Mathematical, Physical and Engineering Sciences"
+  container-title-short: Phil. Trans. R. Soc. A.
+  DOI: 10.1098/rsta.2005.1671
+  is-referenced-by-count: 278
+  ISSN: 1364-503X
+  issue: 1837
+  issued: 2005-10-24
+  language: en
+  member: 175
+  page: 2891-2913
+  prefix: 10.1098
+  providerKey: doi
+  publisher: The Royal Society
+  reference-count: 61
+  references-count: 61
+  score: 1
+  source: Crossref
+  subject: General Physics and Astronomy
+  title: "Peatland hydrology and carbon release: why small-scale process
+    matters"
+  type: article-journal
+  URL: "http://dx.doi.org/10.1098/rsta.2005.1671"
+  volume: 363
+- id: lloyd2013
+  author:
+  - family: Lloyd
+    given: Colin R
+  - family: Rebelo
+    given: Lisa-Maria
+  - family: Max Finlayson
+    given: C
+  container-title: Environmental Research Letters
+  container-title-short: Environ. Res. Lett.
+  DOI: 10.1088/1748-9326/8/1/015010
+  is-referenced-by-count: 16
+  ISSN: 1748-9326
+  issue: 1
+  issued: 2013-02-12
+  member: 266
+  page: 015010
+  prefix: 10.1088
+  providerKey: doi
+  publisher: IOP Publishing
+  reference-count: 103
+  references-count: 103
+  score: 1
+  source: Crossref
+  subject: Public Health, Environmental and Occupational Health
+  title: Providing low-budget estimations of carbon sequestration and
+    greenhouse gas emissions in agricultural wetlands
+  type: article-journal
+  URL: "http://dx.doi.org/10.1088/1748-9326/8/1/015010"
+  volume: 8
+- id: rankin2023
+  author:
+  - family: Rankin
+    given: Tracy
+  - family: Roulet
+    given: Nigel
+  - family: Humphreys
+    given: Elyn
+  - family: Peichl
+    given: Matthias
+  - family: Jӓrveoja
+    given: Jӓrvi
+  container-title: Frontiers in Earth Science
+  container-title-short: Front. Earth Sci.
+  DOI: 10.3389/feart.2023.1263418
+  is-referenced-by-count: 0
+  ISSN: 2296-6463
+  issued: 2023-11-06
+  member: 1965
+  prefix: 10.3389
+  providerKey: doi
+  publisher: Frontiers Media SA
+  reference-count: 91
+  references-count: 91
+  score: 1
+  source: Crossref
+  subject: General Earth and Planetary Sciences
+  title: Partitioning autotrophic and heterotrophic respiration in an
+    ombrotrophic bog
+  type: article-journal
+  update-policy: "http://dx.doi.org/10.3389/crossmark-policy"
+  URL: "http://dx.doi.org/10.3389/feart.2023.1263418"
+  volume: 11
+- id: järveoja2018
+  author:
+  - family: Järveoja
+    given: Järvi
+  - family: Nilsson
+    given: Mats B.
+  - family: Gažovič
+    given: Michal
+  - family: Crill
+    given: Patrick M.
+  - family: Peichl
+    given: Matthias
+  container-title: Global Change Biology
+  container-title-short: Global Change Biology
+  DOI: 10.1111/gcb.14292
+  is-referenced-by-count: 36
+  ISSN: 1354-1013
+  issue: 8
+  issued: 2018-05-24
+  language: en
+  member: 311
+  page: 3436-3451
+  prefix: 10.1111
+  providerKey: doi
+  publisher: Wiley
+  reference-count: 84
+  references-count: 84
+  score: 1
+  source: Crossref
+  subject: General Environmental Science
+  title: Partitioning of the net \<scp\>CO\</scp\>~2~ exchange using an
+    automated chamber system reveals plant phenology as key control of
+    production and respiration fluxes in a boreal peatland
+  type: article-journal
+  update-policy: "http://dx.doi.org/10.1002/crossmark_policy"
+  URL: "http://dx.doi.org/10.1111/gcb.14292"
+  volume: 24
+- id: hickspries2015
+  author:
+  - family: Hicks Pries
+    given: Caitlin E.
+  - family: Logtestijn
+    given: Richard S. P.
+    non-dropping-particle: van
+  - family: Schuur
+    given: Edward A. G.
+  - family: Natali
+    given: Susan M.
+  - family: Cornelissen
+    given: Johannes H. C.
+  - family: Aerts
+    given: Rien
+  - family: Dorrepaal
+    given: Ellen
+  container-title: Global Change Biology
+  container-title-short: Global Change Biology
+  DOI: 10.1111/gcb.13032
+  is-referenced-by-count: 79
+  ISSN: 1354-1013
+  issue: 12
+  issued: 2015-09-22
+  language: en
+  member: 311
+  page: 4508-4519
+  prefix: 10.1111
+  providerKey: doi
+  publisher: Wiley
+  reference-count: 67
+  references-count: 67
+  score: 1
+  source: Crossref
+  subject: General Environmental Science
+  title: Decadal warming causes a consistent and persistent shift from
+    heterotrophic to autotrophic respiration in contrasting permafrost
+    ecosystems
+  type: article-journal
+  URL: "http://dx.doi.org/10.1111/gcb.13032"
+  volume: 21
+- id: moore2002
+  author:
+  - family: Moore
+    given: Tim R.
+  - family: Bubier
+    given: Jill L.
+  - family: Frolking
+    given: Steve E.
+  - family: Lafleur
+    given: Peter M.
+  - family: Roulet
+    given: Nigel T.
+  container-title: Journal of Ecology
+  container-title-short: Journal of Ecology
+  DOI: 10.1046/j.0022-0477.2001.00633.x
+  is-referenced-by-count: 283
+  ISSN: 0022-0477
+  issue: 1
+  issued: 2002-02
+  language: en
+  member: 311
+  page: 25-36
+  prefix: 10.1111
+  providerKey: doi
+  publisher: Wiley
+  reference-count: 47
+  references-count: 47
+  score: 1
+  source: Crossref
+  subject: Plant Science
+  title: Plant biomass and production and CO~**2**~ exchange in an
+    ombrotrophic bog
+  type: article-journal
+  URL: "http://dx.doi.org/10.1046/j.0022-0477.2001.00633.x"
+  volume: 90
+- id: rankin2023a
+  author:
+  - family: Rankin
+    given: Tracy
+  - family: Roulet
+    given: Nigel
+  - family: Humphreys
+    given: Elyn
+  - family: Peichl
+    given: Matthias
+  - family: Jӓrveoja
+    given: Jӓrvi
+  container-title: Frontiers in Earth Science
+  container-title-short: Front. Earth Sci.
+  DOI: 10.3389/feart.2023.1263418
+  is-referenced-by-count: 0
+  ISSN: 2296-6463
+  issued: 2023-11-06
+  member: 1965
+  prefix: 10.3389
+  providerKey: doi
+  publisher: Frontiers Media SA
+  reference-count: 91
+  references-count: 91
+  score: 1
+  source: Crossref
+  subject: General Earth and Planetary Sciences
+  title: Partitioning autotrophic and heterotrophic respiration in an
+    ombrotrophic bog
+  type: article-journal
+  update-policy: "http://dx.doi.org/10.3389/crossmark-policy"
+  URL: "http://dx.doi.org/10.3389/feart.2023.1263418"
+  volume: 11
 ...

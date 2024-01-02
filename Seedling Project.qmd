@@ -38,13 +38,11 @@ Wildfire:
 
 @chapin2006 proposed the term 'Net Ecosystem Carbon Balance' (NECB) to describe the overall carbon (C) balance in ecosystems from all sources, which represents the net rate of carbon accumulation in ecosystems. NECB includes carbon pathways between terrestrial and atmospheric systems, terrestrial and aquatic systems and particulate transport. In most peatlands, NECB can be simplified to encompass three main components: the Net Ecosystem Exchange/FCO2 (the net CO2 flux between terrestrial ecosystems and the atmosphere), FCH4 (the net CH4 flux between terrestrial ecosystems and the atmosphere), and FDOC (net dissolved organic carbon) [@strack2013; @dacunha2019]. The land-atmosphere exchange of carbon fluxes, defined solely with carbon pathways between terrestrial and atmospheric systems, includes two key components of the NECB in peatlands: FCO2 and FCH4.
 
-The land-atmosphere exchanges of carbon fluxes in peatlands can be described using the acrotelm-catotelm model (Figure 1). The balance between photosynthesis, respiration and diffusion mainly represents the net F~CO2~ between the bog and the atmosphere. Autotrophic organisms convert CO~2~ from the atmosphere into chemical energy through photosynthesis. CO~2~ is released from ecosystems by ecosystem respiration and diffusion. Ecosystem respiration (Reco) including above- and below-ground autotrophic and heterotrophic respiration (Ra and Rh, respectively). Ra represents the carbon dioxide released during the metabolic processes of photosynthetic organisms. Rh represents the carbon losses from the decomposition of litter detritus and soil organic matter by microorganisms.
-
-Both Ra and Rh in bogs involve the consumption of organic matter and oxygen to produce energy, water, and carbon dioxide. The CO~2~ produced by aerobic decomposition and methanotrophy, the oxidation of CH~4~ by methanotrophs, diffused into the atmosphere [@bridgham2013]. The F~CO2~ (NEE) represents the difference between Reco and Gross primary productivity by photosynthesis (GPP) between the bog and atmosphere. Negative NEE values indicate a carbon sink peatland, which takes up more CO~2~ from the atmosphere and accumulates in terrestrial ecosystems.
+The land-atmosphere exchanges of carbon fluxes in peatlands can be described using the acrotelm-catotelm model (Figure 1). The balance between photosynthesis, respiration and diffusion mainly represents the net F~CO2~ between the bog and the atmosphere. Autotrophic organisms convert CO~2~ from the atmosphere into chemical energy through photosynthesis. CO~2~ is released from ecosystems by ecosystem respiration and diffusion. Ecosystem respiration (Reco) including above- and below-ground autotrophic and heterotrophic respiration (Ra and Rh, respectively). Ra represents the carbon dioxide released during the metabolic processes of photosynthetic organisms. Rh represents the carbon losses from the decomposition of litter detritus and soil organic matter by microorganisms [@rankin2023]. Both Ra and Rh in bogs involve the consumption of organic matter and oxygen to produce energy, water, and carbon dioxide. The CO~2~ produced by methanotrophy, the oxidation of CH~4~ by methanotrophs, diffused into the atmosphere [@bridgham2013]. The F~CO2~ (NEE) represents the difference between Reco and Gross primary productivity by photosynthesis (GPP) between the bog and atmosphere. Negative NEE values indicate a carbon sink peatland, which takes up more CO~2~ from the atmosphere and accumulates in terrestrial ecosystems.
 
 CH~4~ is made in the saturated zone of peat soils by methanogenic microbes. There are two primary pathways for methanogenesis in wetlands: acetoclastic and hydrogenotrophic methanogenesis [@bridgham2013]. Acetoclastic methanogens utilize acetate as their primary electron acceptor during the methanogenesis process. Hydrogenotrophic methanogens rely on the utilization of hydrogen (H~2~) and CO~2~ as substrates for methanogenesis [@fenchel2012]. Ombrotrophic Bogs tend to be generally dominated by hydrogenotrophic methanogenesis [@bridgham2013]. F~CH4~ is emitted to the atmosphere through three main pathways: diffusion (driven by CH~4~ concentration gradients from the peat to the atmosphere), ebullition (gas bubbles released from saturated peat), and plants-mediated transport (through aerenchyma, the plants' internal gas-space ventilation system) [@holden2005]. F~CH4~ from peatlands are the net balance of CH~4~ production (methanogenesis) in the saturated zones of the peat and CH~4~ oxidation in the oxic peat layers (methanotrophy) [@bridgham2013; @white2008].
 
-![](images/Screen Shot 2023-12-30 at 5.40.09 PM.png)
+![Figure 1. A representation of land-atmosphere carbon fluxes cycle in peatland. Modified from [@holden2005a] and [@lloyd2013]. ](images/Screen Shot 2023-12-30 at 5.40.09 PM.png){fig-align="center"}
 
 ### Biophysical Controls of Ecosystem Respiration and F~CH4~
 
@@ -496,3 +494,28 @@ summary(M2)
 ```
 
 # Discussions
+
+## Ecosystem Respiration Partitioning
+
+HR (root respiration
+
+All the aboveground vegetation was removed
+
+| Ecosystem        | Site           | Ra    | Rh   | Methods                                        | Study             |
+|------------|------------|------------|------------|------------|--------------|
+|                  |                | 54    | 46   |                                                | [@moore2002]      |
+|                  |                | 82-94 | 6-18 |                                                | [@hickspries2015] |
+| Fen              | Degerö Stormyr | 50    | 50   |                                                | [@järveoja2018]   |
+| Ombrotrophic Bog | Mer Bleue      |       |      | continuous automatic chamber plot measurements | [@rankin2023a]    |
+|                  |                |       |      |                                                |                   |
+|                  |                |       |      |                                                |                   |
+|                  |                |       |      |                                                |                   |
+|                  |                |       |      |                                                |                   |
+|                  |                |       |      |                                                |                   |
+|                  |                |       |      |                                                |                   |
+
+# Others
+
+<https://www.sciencedirect.com/science/article/pii/S0921818106001202?casa_token=-a24f7tS21MAAAAA:Wh-9B4GCZX9kTMGc3WNfZ3gFZDE4BgpgvX11tiRMnquFt7RgicnIQdc_pF-UrAe8C6rxxxyGsEzA>
+
+bogs make up about 70% of peatlands in Canada
