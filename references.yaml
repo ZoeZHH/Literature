@@ -1052,4 +1052,98 @@ references:
   update-policy: "http://dx.doi.org/10.3389/crossmark-policy"
   URL: "http://dx.doi.org/10.3389/feart.2023.1263418"
   volume: 11
+- id: hermle2010
+  author:
+  - family: Hermle
+    given: S.
+  - family: Lavigne
+    given: M. B.
+  - family: Bernier
+    given: P. Y.
+  - family: Bergeron
+    given: O.
+  - family: Pare
+    given: D.
+  container-title: Tree Physiology
+  container-title-short: Tree Physiology
+  DOI: 10.1093/treephys/tpq002
+  is-referenced-by-count: 40
+  ISSN: 0829-318X
+  issue: 4
+  issued: 2010-03-08
+  language: en
+  member: 286
+  page: 527-540
+  prefix: 10.1093
+  providerKey: doi
+  publisher: Oxford University Press (OUP)
+  reference-count: 58
+  references-count: 58
+  score: 1
+  source: Crossref
+  subject: Plant Science
+  title: Component respiration, ecosystem respiration and net primary
+    production of a mature black spruce forest in northern Quebec
+  type: article-journal
+  URL: "http://dx.doi.org/10.1093/treephys/tpq002"
+  volume: 30
+- id: luo2006
+  author:
+  - family: Luo
+    given: Yiqi
+  - family: Zhou
+    given: Xuhui
+  container-title: Soil Respiration and the Environment
+  DOI: 10.1016/b978-012088782-8/50008-5
+  is-referenced-by-count: 2
+  issued: 2006
+  member: 78
+  page: 161-185
+  prefix: 10.1016
+  providerKey: doi
+  publisher: Elsevier
+  reference-count: 0
+  references-count: 0
+  score: 1
+  source: Crossref
+  title: Methods of Measurements and Estimations
+  type: chapter
+  URL: "http://dx.doi.org/10.1016/B978-012088782-8/50008-5"
+- id: tiwari2021a
+  article-number: 2640
+  author:
+  - family: Tiwari
+    given: Pankaj
+  - family: Bhattacharya
+    given: Pamela
+  - family: Rawat
+    given: Gopal Singh
+  - family: Rai
+    given: Ishwari Datt
+  - family: Talukdar
+    given: Gautam
+  container-title: Scientific Reports
+  container-title-short: Sci Rep
+  DOI: 10.1038/s41598-021-82065-y
+  is-referenced-by-count: 20
+  ISSN: 2045-2322
+  issue: 1
+  issued: 2021-01-29
+  language: en
+  member: 297
+  prefix: 10.1038
+  providerKey: doi
+  publisher: Springer Science and Business Media LLC
+  reference-count: 73
+  references-count: 73
+  score: 1
+  source: Crossref
+  subject: Multidisciplinary
+  title: Experimental warming increases ecosystem respiration by
+    increasing above-ground respiration in alpine meadows of Western
+    Himalaya
+  type: article-journal
+  update-policy: "http://dx.doi.org/10.1007/springer_crossmark_policy"
+  URL: "http://dx.doi.org/10.1038/s41598-021-82065-y"
+  volume: 11
 ...

@@ -38,11 +38,15 @@ Wildfire:
 
 @chapin2006 proposed the term 'Net Ecosystem Carbon Balance' (NECB) to describe the overall carbon (C) balance in ecosystems from all sources, which represents the net rate of carbon accumulation in ecosystems. NECB includes carbon pathways between terrestrial and atmospheric systems, terrestrial and aquatic systems and particulate transport. In most peatlands, NECB can be simplified to encompass three main components: the Net Ecosystem Exchange/FCO2 (the net CO2 flux between terrestrial ecosystems and the atmosphere), FCH4 (the net CH4 flux between terrestrial ecosystems and the atmosphere), and FDOC (net dissolved organic carbon) [@strack2013; @dacunha2019]. The land-atmosphere exchange of carbon fluxes, defined solely with carbon pathways between terrestrial and atmospheric systems, includes two key components of the NECB in peatlands: FCO2 and FCH4.
 
-The land-atmosphere exchanges of carbon fluxes in peatlands can be described using the acrotelm-catotelm model (Figure 1). The balance between photosynthesis, respiration and diffusion mainly represents the net F~CO2~ between the bog and the atmosphere. Autotrophic organisms convert CO~2~ from the atmosphere into chemical energy through photosynthesis. CO~2~ is released from ecosystems by ecosystem respiration and diffusion. Ecosystem respiration (Reco) including above- and below-ground autotrophic and heterotrophic respiration (Ra and Rh, respectively). Ra represents the carbon dioxide released during the metabolic processes of photosynthetic organisms. Rh represents the carbon losses from the decomposition of litter detritus and soil organic matter by microorganisms [@rankin2023]. Both Ra and Rh in bogs involve the consumption of organic matter and oxygen to produce energy, water, and carbon dioxide. The CO~2~ produced by methanotrophy, the oxidation of CH~4~ by methanotrophs, diffused into the atmosphere [@bridgham2013]. The F~CO2~ (NEE) represents the difference between Reco and Gross primary productivity by photosynthesis (GPP) between the bog and atmosphere. Negative NEE values indicate a carbon sink peatland, which takes up more CO~2~ from the atmosphere and accumulates in terrestrial ecosystems.
+The land-atmosphere exchanges of carbon fluxes in peatlands can be described using the acrotelm-catotelm model (Figure 1). The balance between photosynthesis, respiration and diffusion mainly represents the net F~CO2~ between the bog and the atmosphere. Autotrophic organisms convert CO~2~ from the atmosphere into chemical energy through photosynthesis. CO~2~ is released from ecosystems by ecosystem respiration and diffusion.
+
+Ecosystem respiration (Reco) encompasses both above- and below-ground autotrophic and heterotrophic respiration (Ra and Rh, respectively) [@hermle2010]. Ra represents the carbon dioxide released during the metabolic processes of photosynthetic organisms. Rh refers to carbon losses due to the decomposition of litter, detritus, and soil organic matter by microorganisms [@rankin2023]. The processes of Ra and Rh in bogs are characterized by the consumption of organic matter and oxygen, yielding energy, water, and carbon dioxide as byproducts. In addition to this partitioning, Reco can also be conceptualized as the sum of soil respiration (Rs) and aboveground plant respiration (Rp) [@luo2006; @tiwari2021a]. Rs accounts for both autotrophic respiration by root and root-associated microbes and heterotrophic respiration by free-living soil microbes that decompose plant litter and stored SOC. Rp represents respiration by above-ground biomass.
+
+The CO~2~ produced by methanotrophy, the oxidation of CH~4~ by methanotrophs, diffused into the atmosphere [@bridgham2013]. The F~CO2~ (NEE) represents the difference between Reco and Gross primary productivity by photosynthesis (GPP) between the bog and atmosphere. Negative NEE values indicate a carbon sink peatland, which takes up more CO~2~ from the atmosphere and accumulates in terrestrial ecosystems.
 
 CH~4~ is made in the saturated zone of peat soils by methanogenic microbes. There are two primary pathways for methanogenesis in wetlands: acetoclastic and hydrogenotrophic methanogenesis [@bridgham2013]. Acetoclastic methanogens utilize acetate as their primary electron acceptor during the methanogenesis process. Hydrogenotrophic methanogens rely on the utilization of hydrogen (H~2~) and CO~2~ as substrates for methanogenesis [@fenchel2012]. Ombrotrophic Bogs tend to be generally dominated by hydrogenotrophic methanogenesis [@bridgham2013]. F~CH4~ is emitted to the atmosphere through three main pathways: diffusion (driven by CH~4~ concentration gradients from the peat to the atmosphere), ebullition (gas bubbles released from saturated peat), and plants-mediated transport (through aerenchyma, the plants' internal gas-space ventilation system) [@holden2005]. F~CH4~ from peatlands are the net balance of CH~4~ production (methanogenesis) in the saturated zones of the peat and CH~4~ oxidation in the oxic peat layers (methanotrophy) [@bridgham2013; @white2008].
 
-![Figure 1. A representation of land-atmosphere carbon fluxes cycle in peatland. Modified from [@holden2005a] and [@lloyd2013]. ](images/Screen Shot 2023-12-30 at 5.40.09 PM.png){fig-align="center"}
+![Figure 1. A representation of land-atmosphere carbon fluxes cycle in peatland. Modified from [@holden2005a] and [@lloyd2013].](images/Screen%20Shot%202023-12-30%20at%205.40.09%20PM.png){fig-align="center"}
 
 ### Biophysical Controls of Ecosystem Respiration and F~CH4~
 
@@ -82,7 +86,7 @@ Burns Bog is a highly heterogeneous environment with 22 distinct ecosystem types
 
 The bog is highly sensitive to fire and experienced two wildfires since 2000, which occurred in 2005 and 2016. On September 11, 2005, a large fire broke out in the southeastern portion of the bog. The fire burned for ten days and consumed approximately 205 ha, almost 10% of the BBECA [@howie2020c]. The fire resulted in the incineration of up to 50 cm of the surface peat, lowering the bog surface elevation in those areas [@howie2020c]. Sphagnum  carpets were incinerated, and the area was subjected to massive seed releases from decades of accumulation of lodgepole pinecones. Densities of pine tree seedlings reached up to \~20,000 stems/ha just six years after the fire. The post-fire vegetation communities became tree-dominated, mainly comprising native and non-native tree species (e.g., Lodgepole pine and Silver birch, respectively) [@howie2020c].  Another fire broke out in the north-western portion of the bog at the base of one of the Corus Entertainment radio towers on July 3, 2016. By July 11, the fire had been fully contained, but it had consumed up to 78 hectares of the bog area [@howie2020c]. The fire swept over the surface of the bog quickly so that the surface elevation didn't drop as significantly as in the 2005 fire [@howie2020c]. Consistent with observations from the 2005 burned zone, the 2016 burned zone also exhibited a notable increase in the density of pine tree seedlings following the fire event.  
 
-### Measurement Sites 
+### Measurement Sites
 
 The study was conducted in the 2016 burned zone of BBECA in Delta, BC. The 2016 burned zone is located in the north-western, undisturbed part of BBECA. Six different sampling sites were selected for GHG flux measurements, encompassing three main ecosystem types with PS stands and a pair of treatments (seedling and seedling removal) within each ecosystem type. PS stands consist of a lodgepole pine canopy of varying structural stages above dense Labrador tea and a carpet of Sphagnum species.
 
@@ -497,12 +501,179 @@ summary(M2)
 
 ## Ecosystem Respiration Partitioning
 
+Twelve additional collars (six for the seedling site and six for the seedling-removed site) were installed at the PSLS ecosystem site, supplementing the existing collars designated for aboveground biomass (AGB) analysis. Live AGB was measured by clipping the green parts of the vegetation within each collar in mid-June 2023. Sphagnum mosses were clipped at the base of their capitulum. The clipped plant samples were then air-dried at 60 ℃ for 48 hours and subsequently weighed, with the dry weights recorded in grams.
+
+```{r}
+library(lubridate)
+library(dplyr)
+library(ggplot2)
+setwd("/Users/zoe/Desktop/seedling_analysis/Manual/ABM")
+abm <- read.csv("FCO2_ABM.csv", header = TRUE)
+```
+
+```{r}
+# Add the month column to the dataframe
+abm <- abm %>%
+  mutate(datetime = ymd_hms(datetime),  # Convert to datetime object
+         month = month(datetime, label = TRUE),
+         date = date(datetime))  %>%
+  filter(!month %in% c('Apr', 'May')) %>%
+  filter(!Collars %in% c('LS1C.FCO2_DRY', 'LS1.FCO2_DRY'))  #LS1C has high numbers, thus ignore it for analysis
+print(abm)
+
+abm_S <- abm %>%
+  filter(trts == "S")
+abm_R <- abm %>%
+  filter(trts == "R")
+
+# ScatterPlots
+ggplot(abm_S, aes(x = datetime, y = Fluxes)) +
+    geom_point(data = filter(abm_S, clip == "N"), aes(color = "N")) +
+    geom_point(data = filter(abm_S, clip == "C"), aes(color = "C")) +
+    labs(title = "DateTime vs. Fluxes", 
+         x = "Month", 
+         y = "FCO2 (µmol/m²/s)", 
+         color = "CLIP") +
+    theme_minimal()
+ggplot(abm_R, aes(x = datetime, y = Fluxes)) +
+    geom_point(data = filter(abm_R, clip == "N"), aes(color = "N")) +
+    geom_point(data = filter(abm_R, clip == "C"), aes(color = "C")) +
+    labs(title = "DateTime vs. Fluxes", 
+         x = "Month", 
+         y = "FCO2 (µmol/m²/s)", 
+         color = "CLIP") +
+    theme_minimal()
+# Now calculate the statistics
+abm_stats_S <- abm_S %>%
+  group_by(date, clip) %>%  # Group by the date and clip
+  summarize(mean_flux = mean(Fluxes, na.rm = TRUE),  # Calculate mean
+            sd_flux = sd(Fluxes, na.rm = TRUE)) 
+
+# Plots
+ggplot(abm_stats_S, aes(x=date, y=mean_flux, color=clip)) +
+  geom_point(size=3) +  # Increased size for visibility
+  geom_errorbar(aes(ymin=mean_flux-sd_flux, ymax=mean_flux+sd_flux), width=0.2) +
+  labs(title = "Impacts of ABM on Fluxes - Seedling Site", 
+       x = "Month", 
+       y = "FCO2 (µmol/m²/s)") +
+  scale_color_manual(values=c("blue", "red")) + # Manually set the colors
+  theme_minimal()
+
+  # Now calculate the statistics
+abm_stats_R <- abm_R %>%
+  group_by(date, clip) %>%  # Group by the new month column, sites, and clip
+  summarize(mean_flux = mean(Fluxes, na.rm = TRUE),  # Calculate mean
+            sd_flux = sd(Fluxes, na.rm = TRUE)) 
+
+ggplot(abm_stats_R, aes(x=date, y=mean_flux, color=clip)) +
+  geom_point(size=3) +  # Increased size for visibility
+  geom_errorbar(aes(ymin=mean_flux-sd_flux, ymax=mean_flux+sd_flux), width=0.2) +
+  labs(title = "Impacts of ABM on Fluxes - Seedling Removed Site", 
+       x = "Month", 
+       y = "FCO2 (µmol/m²/s)") +
+  scale_color_manual(values=c("blue", "red")) + # Manually set the colors
+  theme_minimal()
+```
+
+Rs contributions to Reco were 62.4% ± 3.5% and 66.8% ± 2.7% for seedling site and seedling removal site at PSLS ecosystem sites.
+
+```{r}
+library(dplyr)
+library(tidyr)
+abm_S$collar_num <- substr(abm_S$Collars, 1, 3)
+print(abm_S)
+
+# Pivot the data to wide format with 'Clip' as columns
+df_wide <- abm_S %>%
+  select(collar_num, datetime, clip, Fluxes) %>%
+  pivot_wider(names_from = clip, values_from = Fluxes)
+print(df_wide)
+
+# Convert datetime to Date object (ignoring time)
+df_wide$Date <- as.Date(df_wide$datetime)
+
+# Create two subsets: one for 'N' and one for 'C'
+df_N <- df_wide %>% filter(!is.na(N)) %>% select(collar_num, Date, N)
+df_C <- df_wide %>% filter(!is.na(C)) %>% select(collar_num, Date, C)
+
+# Perform an inner join on the subsets to only get pairs where both 'N' and 'C' exist for the same collar_num and Date
+df_pairs <- inner_join(df_N, df_C, by = c("collar_num", "Date"))
+
+# Now df_pairs will contain only the matched pairs, and calculate the ratio of 'C' to 'N'
+df_pairs <- df_pairs %>%
+  mutate(ratio_C_to_N = C / N)
+
+# Select the relevant columns to form the new dataset
+calculated_dataset_S <- df_pairs %>%
+  select(collar_num, Date, N, C, ratio_C_to_N)
+
+# Print the calculated dataset
+print(calculated_dataset_S)
+
+
+abm_R$collar_num <- substr(abm_R$Collars, 1, 3)
+print(abm_R)
+
+# Pivot the data to wide format with 'Clip' as columns
+df_wide_R <- abm_R %>%
+  select(collar_num, datetime, clip, Fluxes) %>%
+  pivot_wider(names_from = clip, values_from = Fluxes)
+print(df_wide_R)
+
+# Convert datetime to Date object (ignoring time)
+df_wide_R$Date <- as.Date(df_wide_R$datetime)
+
+# Create two subsets: one for 'N' and one for 'C'
+df_N_R <- df_wide_R %>% filter(!is.na(N)) %>% select(collar_num, Date, N)
+df_C_R <- df_wide_R %>% filter(!is.na(C)) %>% select(collar_num, Date, C)
+
+# Perform an inner join on the subsets to only get pairs where both 'N' and 'C' exist for the same collar_num and Date
+df_pairs_R <- inner_join(df_N_R, df_C_R, by = c("collar_num", "Date"))
+
+# Now df_pairs will contain only the matched pairs, and calculate the ratio of 'C' to 'N'
+df_pairs_R <- df_pairs_R %>%
+  mutate(ratio_C_to_N = C / N)
+
+# Select the relevant columns to form the new dataset
+calculated_dataset_R <- df_pairs_R %>%
+  select(collar_num, Date, N, C, ratio_C_to_N)
+
+# Print the calculated dataset
+print(calculated_dataset_R)
+
+df_ratio_S <- calculated_dataset_S %>%
+  filter(ratio_C_to_N < 1) %>%
+  group_by(Date) %>%
+  summarize(mean_ratio = mean(ratio_C_to_N))
+print(df_ratio_S)
+mean_S <- mean(df_ratio_S$mean_ratio)
+std_error_S <- sd(df_ratio_S$mean_ratio)/sqrt(length(df_ratio_S$mean_ratio))
+df_ratio_R <- calculated_dataset_R %>%
+  filter(ratio_C_to_N < 1) %>%
+  group_by(Date) %>%
+  summarize(mean_ratio = mean(ratio_C_to_N))
+print(df_ratio_R)
+mean_R <- mean(df_ratio_R$mean_ratio)
+std_error_R <- sd(df_ratio_R$mean_ratio)/sqrt(length(df_ratio_R$mean_ratio))
+mean_S
+mean_R
+std_error_S
+std_error_R
+```
+
+AGB (g dry weight m-2)\
+- mean Reco vs. AGB, scatterplots
+
+\- clipped vs. unclipped Reco
+
+\- AGB respiration take up how much of ecosystem respiration?
+
 HR (root respiration
 
 All the aboveground vegetation was removed
 
 | Ecosystem        | Site           | Ra    | Rh   | Methods                                        | Study             |
-|------------|------------|------------|------------|------------|--------------|
+|------------|------------|------------|------------|------------|------------|
 |                  |                | 54    | 46   |                                                | [@moore2002]      |
 |                  |                | 82-94 | 6-18 |                                                | [@hickspries2015] |
 | Fen              | Degerö Stormyr | 50    | 50   |                                                | [@järveoja2018]   |
@@ -520,4 +691,4 @@ All the aboveground vegetation was removed
 
 bogs make up about 70% of peatlands in Canada
 
-hhhhhhh
+±

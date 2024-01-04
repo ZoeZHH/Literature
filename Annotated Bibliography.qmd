@@ -316,3 +316,11 @@ Source Text - Related to Fires:
 Fire can also impact the depth to water table and vegetation inpeatlands. Not only does fire burn surface vegetation, but any peatsituated above the water table may also burn, effectively lowering thesurface elevation and decreasing the depth to water table comparedto the prefire condition. The loss of the surface peat may result indenser and more humified (i.e., catotelmic) peat being exposed at thesurface (Sherwood et al., 2013), as well as near-surface water repel-lency due to the production of hydrophobic compounds (Mooreet al., 2017; Wilkinson, Verkaik, Moore, & Waddington, 2019). Firemay also increase nutrient supply in bogs (Depante et al., 2018). Dueto these effects, significant changes to bog vegetation can occur aftera fire, such as a reduction ofSphagnumcover and an increase in erica-ceous shrubs andCladoniaspecies (Damman, 1977).
 
 (Assessing the moisture deficit using resi-dence time, in addition to measuring the depth to water table, has thepotential to allow peatland managers to track how longer, drier sum-mers affect moisture availability for plants)
+
+## **Experimental warming increases ecosystem respiration by increasing above-ground respiration in alpine meadows of Western Himalaya**
+
+<https://www.nature.com/articles/s41598-021-82065-y>
+
+Stored SOC is released as atmospheric CO~2~ by soil respiration (SR). SR accounts for both autotrophic respiration by root and root-associated microbes and heterotrophic respiration by free-living soil microbes that decompose plant litter and stored SOC.
+
+ER (contributed by above ground plant respiration and SR)
