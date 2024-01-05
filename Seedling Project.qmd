@@ -106,9 +106,11 @@ The PSW ecosystem, encompassing the pole sapling and young forest stages, featur
 
 #### The 2016 Burned Zone
 
-## Techniques for Measuring Carbon Fluxes
+## Instrumentation
 
-### Chamber Methods with Gas Chromatography and Portable Analyzer
+### Manual Measurements
+
+### Continuous Measurements
 
 ## Burns Bog Greenhouse Gas Budget
 
@@ -497,11 +499,47 @@ summary(M2)
 # the model suggests that trts and month are significant predictors of the log-transformed FCO2_EXP, with vegetation_type having a less significant effect. The low variance for collar_number suggests that the random effects structure is not explaining much of the variability in the data, which could be due to the grouping variable collar_number not having much influence on the outcome, or it could be that the variability is low between different collar_number groups.
 ```
 
+## Waterlevel refer to the ground
+
+Timeseries water level data
+
+```{r}
+library(ggplot2)
+library(reshape2)
+setwd("/Users/zoe/Desktop/seedling_analysis/Manual")
+wl <- read.csv("waterleveldata.csv", header = TRUE)
+head(wl)
+wl$Date <- as.Date(wl$Date)
+# Load the necessary library
+# Reshape the data from wide to long format
+wl_long <- melt(wl, id.vars = "Date", variable.name = "Type", value.name = "Water_Level")
+
+# Create a factor for the facet wrap
+wl_long$Site <- with(wl_long, factor(ifelse(grepl("PSW", Type), "PSW",
+                                      ifelse(grepl("PSLS", Type), "PSLS", "PSTS"))))
+
+# Plot using ggplot with facet_wrap
+ggplot(data = wl_long, aes(x = Date, y = Water_Level, color = Type)) +
+  geom_line() +
+  geom_point() +
+  scale_color_manual(values = c("PSW.S" = "blue", "PSW.R" = "red", "PSLS.S" = "blue", "PSLS.R" = "red", "PSTS.S" = "blue", "PSTS.R" = "red")) +
+  facet_wrap(~ Site, scales = "fixed", ncol = 3) + # Use ncol to specify the number of columns in the facet_wrap
+  ylim(0, 80) + # Set y-axis limits from 0 to 80
+  theme_minimal() +
+  labs(title = "Water Level Across Different Sites", x = "Date", y = "Water level (cm)") +
+  theme(legend.position = "bottom", legend.title = element_blank(), strip.background = element_blank())
+
+```
+
 # Discussions
 
 ## Ecosystem Respiration Partitioning
 
-Twelve additional collars (six for the seedling site and six for the seedling-removed site) were installed at the PSLS ecosystem site, supplementing the existing collars designated for aboveground biomass (AGB) analysis. Live AGB was measured by clipping the green parts of the vegetation within each collar in mid-June 2023. Sphagnum mosses were clipped at the base of their capitulum. The clipped plant samples were then air-dried at 60 ℃ for 48 hours and subsequently weighed, with the dry weights recorded in grams.
+**Reco partitioning methods:**
+
+Twelve additional collars (six for the seedling site and six for the seedling-removed site) were installed at the PSLS ecosystem site, supplementing the existing collars designated for Reco partitioning analysis. Live Above-ground biomass (AGB) was measured by clipping the green parts of the vegetation within each collar in mid-June 2023. Sphagnum mosses were clipped at the base of their capitulum. The clipped plant samples were then air-dried at 60 ℃ for 48 hours and subsequently weighed, with the dry weights recorded in grams.
+
+**Reco partitioning statistics:**
 
 ```{r}
 library(lubridate)
@@ -575,7 +613,7 @@ ggplot(abm_stats_R, aes(x=date, y=mean_flux, color=clip)) +
   theme_minimal()
 ```
 
-Rs contributions to Reco were 62.4% ± 3.5% and 66.8% ± 2.7% for seedling site and seedling removal site at PSLS ecosystem sites.
+Calculate the average proportions of Rs to Reco from six collars to represent the study site on each sampling date. For the PSLS ecosystem type, the contributions of Rs to Reco were 62.4% ± 8.9% for the seedling site and 66.8% ± 11.8% for the seedling removal site.
 
 ```{r}
 library(dplyr)
@@ -647,18 +685,18 @@ df_ratio_S <- calculated_dataset_S %>%
   summarize(mean_ratio = mean(ratio_C_to_N))
 print(df_ratio_S)
 mean_S <- mean(df_ratio_S$mean_ratio)
-std_error_S <- sd(df_ratio_S$mean_ratio)/sqrt(length(df_ratio_S$mean_ratio))
+sd_S <- sd(df_ratio_S$mean_ratio)
 df_ratio_R <- calculated_dataset_R %>%
   filter(ratio_C_to_N < 1) %>%
   group_by(Date) %>%
   summarize(mean_ratio = mean(ratio_C_to_N))
 print(df_ratio_R)
 mean_R <- mean(df_ratio_R$mean_ratio)
-std_error_R <- sd(df_ratio_R$mean_ratio)/sqrt(length(df_ratio_R$mean_ratio))
+sd_R <- sd(df_ratio_R$mean_ratio)
 mean_S
 mean_R
-std_error_S
-std_error_R
+sd_R
+sd_S
 ```
 
 AGB (g dry weight m-2)\
@@ -673,7 +711,7 @@ HR (root respiration
 All the aboveground vegetation was removed
 
 | Ecosystem        | Site           | Ra    | Rh   | Methods                                        | Study             |
-|------------|------------|------------|------------|------------|------------|
+|----------|----------|----------|----------|----------------------|----------|
 |                  |                | 54    | 46   |                                                | [@moore2002]      |
 |                  |                | 82-94 | 6-18 |                                                | [@hickspries2015] |
 | Fen              | Degerö Stormyr | 50    | 50   |                                                | [@järveoja2018]   |
