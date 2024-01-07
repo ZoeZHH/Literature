@@ -1473,4 +1473,262 @@ references:
   type: article-journal
   URL: "http://dx.doi.org/10.1029/2004GB002351"
   volume: 19
+- id: dorrepaal2009a
+  author:
+  - family: Dorrepaal
+    given: Ellen
+  - family: Toet
+    given: Sylvia
+  - family: Logtestijn
+    given: Richard S. P.
+    non-dropping-particle: van
+  - family: Swart
+    given: Elferra
+  - family: Weg
+    given: Martine J.
+    non-dropping-particle: van de
+  - family: Callaghan
+    given: Terry V.
+  - family: Aerts
+    given: Rien
+  container-title: Nature
+  container-title-short: Nature
+  DOI: 10.1038/nature08216
+  is-referenced-by-count: 561
+  ISSN: 0028-0836
+  issue: 7255
+  issued: 2009-07
+  language: en
+  member: 297
+  page: 616-619
+  prefix: 10.1038
+  providerKey: doi
+  publisher: Springer Science and Business Media LLC
+  reference-count: 34
+  references-count: 34
+  score: 1
+  source: Crossref
+  subject: Multidisciplinary
+  title: Carbon respiration from subsurface peat accelerated by climate
+    warming in the subarctic
+  type: article-journal
+  URL: "http://dx.doi.org/10.1038/nature08216"
+  volume: 460
+- id: järveoja2020
+  article-number: 4255
+  author:
+  - family: Järveoja
+    given: Järvi
+  - family: Nilsson
+    given: Mats B.
+  - family: Crill
+    given: Patrick M.
+  - family: Peichl
+    given: Matthias
+  container-title: Nature Communications
+  container-title-short: Nat Commun
+  DOI: 10.1038/s41467-020-18027-1
+  is-referenced-by-count: 21
+  ISSN: 2041-1723
+  issue: 1
+  issued: 2020-08-26
+  language: en
+  member: 297
+  prefix: 10.1038
+  providerKey: doi
+  publisher: Springer Science and Business Media LLC
+  reference-count: 59
+  references-count: 59
+  score: 1
+  source: Crossref
+  subject: General Physics and Astronomy
+  title: Bimodal diel pattern in peatland ecosystem respiration rebuts
+    uniform temperature response
+  type: article-journal
+  update-policy: "http://dx.doi.org/10.1007/springer_crossmark_policy"
+  URL: "http://dx.doi.org/10.1038/s41467-020-18027-1"
+  volume: 11
+- id: wang2014
+  author:
+  - family: Wang
+    given: Xin
+  - family: Liu
+    given: Lingli
+  - family: Piao
+    given: Shilong
+  - family: Janssens
+    given: Ivan A.
+  - family: Tang
+    given: Jianwu
+  - family: Liu
+    given: Weixing
+  - family: Chi
+    given: Yonggang
+  - family: Wang
+    given: Jing
+  - family: Xu
+    given: Shan
+  container-title: Global Change Biology
+  container-title-short: Global Change Biology
+  DOI: 10.1111/gcb.12620
+  is-referenced-by-count: 230
+  ISSN: 1354-1013
+  issue: 10
+  issued: 2014-05-26
+  language: en
+  member: 311
+  page: 3229-3237
+  prefix: 10.1111
+  providerKey: doi
+  publisher: Wiley
+  reference-count: 47
+  references-count: 47
+  score: 1
+  source: Crossref
+  subject: General Environmental Science
+  title: "Soil respiration under climate warming: differential response
+    of heterotrophic and autotrophic respiration"
+  type: article-journal
+  URL: "http://dx.doi.org/10.1111/gcb.12620"
+  volume: 20
+- id: lloyd1994
+  author:
+  - family: Lloyd
+    given: J.
+  - family: Taylor
+    given: J. A.
+  container-title: Functional Ecology
+  container-title-short: Functional Ecology
+  DOI: 10.2307/2389824
+  is-referenced-by-count: 3007
+  ISSN: 0269-8463
+  issue: 3
+  issued: 1994-06
+  member: 1121
+  page: 315
+  prefix: 10.2307
+  providerKey: doi
+  publisher: JSTOR
+  reference-count: 0
+  references-count: 0
+  score: 1
+  source: Crossref
+  subject: Ecology, Evolution, Behavior and Systematics
+  title: On the Temperature Dependence of Soil Respiration
+  type: article-journal
+  URL: "http://dx.doi.org/10.2307/2389824"
+  volume: 8
+- id: turetsky2008
+  author:
+  - family: Turetsky
+    given: M. R.
+  - family: Treat
+    given: C. C.
+  - family: Waldrop
+    given: M. P.
+  - family: Waddington
+    given: J. M.
+  - family: Harden
+    given: J. W.
+  - family: McGuire
+    given: A. D.
+  container-title: "Journal of Geophysical Research: Biogeosciences"
+  container-title-short: J. Geophys. Res.
+  DOI: 10.1029/2007jg000496
+  is-referenced-by-count: 165
+  ISSN: 0148-0227
+  issue: G3
+  issued: 2008-08-26
+  language: en
+  member: 13
+  prefix: 10.1029
+  providerKey: doi
+  publisher: American Geophysical Union (AGU)
+  reference-count: 86
+  references-count: 86
+  score: 1
+  source: Crossref
+  subject: Paleontology
+  title: Short‐term response of methane fluxes and methanogen activity
+    to water table and soil warming manipulations in an Alaskan peatland
+  type: article-journal
+  URL: "http://dx.doi.org/10.1029/2007JG000496"
+  volume: 113
+- id: peatland2016
+  DOI: 10.1017/cbo9781139177788
+  edition-number: 1
+  editor:
+  - family: Bonn
+    given: Aletta
+  - family: Allott
+    given: Tim
+  - family: Evans
+    given: Martin
+  - family: Joosten
+    given: Hans
+  - family: Stoneman
+    given: Rob
+  is-referenced-by-count: 72
+  ISBN: 9781107025189
+  issued: 2016-02-29
+  member: 56
+  prefix: 10.1017
+  providerKey: doi
+  publisher: Cambridge University Press
+  reference-count: 0
+  references-count: 0
+  score: 1
+  source: Crossref
+  subtitle: Science, Policy and Practice
+  title: Peatland Restoration and Ecosystem Services
+  type: book
+  URL: "http://dx.doi.org/10.1017/CBO9781139177788"
+- id: gorham1991
+  accessed: "22:07:09"
+  author:
+  - family: Gorham
+    given: Eville
+  container-title: Ecological Applications
+  DOI: 10.2307/1941811
+  ISSN: 10510761
+  issue: 2
+  issued: 1991-05
+  key: KVEFN5NV
+  language: en
+  libraryID: 1
+  page: 182-195
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Northern Peatlands: Role in the Carbon Cycle and Probable
+    Responses to Climatic Warming"
+  title-short: Northern Peatlands
+  type: article-journal
+  URL: "http://doi.wiley.com/10.2307/1941811"
+  volume: 1
+- id: topcuoglu2018
+  accessed: "20:14:13"
+  author:
+  - family: Topcuoğlu
+    given: Bülent
+  - family: Turan
+    given: Metin
+  container-title: Peat
+  DOI: 10.5772/intechopen.79418
+  editor:
+  - family: Topcuoğlu
+    given: Bülent
+  - family: Turan
+    given: Metin
+  ISBN: 978-1-78923-746-7 978-1-78923-747-4
+  issued: 2018-09-19
+  key: 4F2I6KRY
+  language: en
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: InTech
+  source: DOI.org (Crossref)
+  title: "Introductory Chapter: Introduction to Peat"
+  title-short: Introductory Chapter
+  type: chapter
+  URL: "http://www.intechopen.com/books/peat/introductory-chapter-introduction-to-peat"
 ...
