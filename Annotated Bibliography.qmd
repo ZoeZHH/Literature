@@ -324,3 +324,11 @@ Fire can also impact the depth to water table and vegetation inpeatlands. Not on
 Stored SOC is released as atmospheric CO~2~ by soil respiration (SR). SR accounts for both autotrophic respiration by root and root-associated microbes and heterotrophic respiration by free-living soil microbes that decompose plant litter and stored SOC.
 
 ER (contributed by above ground plant respiration and SR)
+
+## On the temperature dependence of soil respiration (2024/01/06)
+
+<https://www.jstor.org/stable/2389824?saml_data=eyJzYW1sVG9rZW4iOiJlYzQ5ODE4ZS05YjM1LTRlODEtYTAwOC1hMzY3YjQ2MWFiYTAiLCJpbnN0aXR1dGlvbklkcyI6WyIxMjJiMTFjOS00YWE5LTQzY2UtYWQzZS0xMmUyYTE4YmU3ZWUiXX0&seq=1>
+
+## Partitioning of the net CO2exchange using an automated chamber system reveals plant phenology as key control of production and respiration fluxes in a boreal peatland (2024/01/07)
+
+<https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.14292>

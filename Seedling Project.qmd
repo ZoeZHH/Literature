@@ -34,7 +34,7 @@ Wildfire:
 
 ## The Carbon Cycle in Peatlands
 
-Peatlands are wetland ecosystems with naturally accumulated peat layers (at least 30-40 cm thick) at the surface [@frolking2011]. Peat is a highly concentrated stockpile of C that forms and accumulates due to the slow decay of organic matter caused by the anaerobic and waterlogged environment that characterizes these ecosystems [@peatland2016]. As such, peatlands are significant terrestrial stocks of C, storing more than 30% of Earth\'s soil carbon despite only covering 3% of the world\'s land area [@gorham1991; @topcuoglu2018].
+Peatlands are wetland ecosystems with naturally accumulated peat layers (at least 30-40 cm thick) at the surface [@frolking2011]. Peat is a highly concentrated stockpile of C that forms and accumulates due to the slow decay of organic matter caused by the anaerobic and waterlogged environment that characterizes these ecosystems [@peatland2016]. As such, peatlands are significant terrestrial stocks of C, storing more than 30% of Earth's soil carbon despite only covering 3% of the world's land area [@gorham1991; @topcuoglu2018].
 
 ### Land-atmosphere Exchanges of Carbon Fluxes
 
@@ -46,33 +46,37 @@ F~CH4~ from peatlands are the net balance of CH~4~ production (methanogenesis) i
 
 ![Figure 1. A representation of land-atmosphere carbon fluxes cycle in peatland. Modified from [@holden2005a] and [@lloyd2013].](images/Screen%20Shot%202023-12-30%20at%205.40.09%20PM.png){fig-align="center"}
 
-### Biophysical Controls of Ecosystem Respiration and F~CH4~
+### Biophysical Controls of Reco and F~CH4~
 
-There are two categories of factors that influence the carbon fluxes: abiotic (temperature, light, water availability) and biotic factors (species composition and vegetation phenology).
+There are two categories of factors that influence the carbon fluxes: abiotic (peat tempearure, light, water availability) and biotic factors (vegetation communities and phenology). Reco is closely associated with surface soil temperature (Ts) and water table depth (WTD). Extensive research indicates a positive correlation between Ts and Reco [@järveoja2018; @lloyd1994; @wang2014]. Ts explains 43-74% of daily Reco variability, with WTD accounting for an additional 5-20% [@bubier1998a]. WTD regulates the aerobic zone's depth in peat soil profiles, where a lower water table and thicker aerobic zone can increase carbon mineralization rates [@blodau2004; @frolking2011]. WTD's impact on Reco is more significant on seasonal scales [@bubier1998a].
 
-There are two categories of factors that influence the carbon fluxes: abiotic (peat tempearure (Ts), water table depth (WTD)) and biotic factors (vegetation communities and phenology). Reco is closely associated with surface Ts and WTD . Extensive research indicates a positive correlation between Ts and Reco [@järveoja2018; @lloyd1994; @wang2014]; Ts explains 43-74% of daily Reco variability, with WTD accounting for an additional 5-20% [@bubier1998a]. WTD regulates the aerobic zone's depth in peat soil profiles, where a lower water table and thicker aerobic zone can increase carbon mineralization rates [@blodau2004; @frolking2011]. WTD's impact on Reco is more significant on seasonal scales [@bubier1998a].
+Water table depth was shown to have an interactive effect on the response of fluxes to increased temperatures ([Moore and Dalva 1993](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref157); [Turetsky et al. 2008](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref251)).
 
-[@blodau2004]：These studies documented that lower water tables increase C mineralization rates
-
-[@frolking2011]: Many studies related an increase in soil temperature with an increase in ecosystem respiration;
-
-[@bubier1998]: The bog, with lower nutrient availability has lower rates of photosynthesis and respiration.
-
-[@frolking2011]: Many studies related an increase in soil temperature with an increase in ecosystem respiration; Water table is known to exert a strong control on CH4 emissions from peatlands. Water table depth determines the extent of the saturated peat, where CH4 is generally produced, and the thickness of the overlying unsaturated portion, where CH4 is generally oxidized (Whalen 2005).
-
-Drier conditions generally lead to increased ER, although in some cases respiration is suppressed ([Aerts and Ludwig 1997](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref1)) or no change occurs ([Chivers et al. 2009](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref39); [Updegraff et al. 2001](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref254); [Wickland et al. 2006](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref273)). Water table depth was shown to have an interactive effect on the response of fluxes to increased temperatures ([Moore and Dalva 1993](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref157); [Turetsky et al. 2008](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref251)).
-
-Water table depth (WTD), peat temperature (Ts), peat acidity and vegetation communities are key factors influencing F~CH4~. Generally, deeper WTDs are associated with lower F~CH4~ due to a reduction in the depth of the methane production layer and an increase in the thickness of the methane oxidation layer [@lai2009; @whalen2005; @blodau2004b]. Over the long term, WTD strongly influences vegetation composition [@bubier2005]. Vegetation is a crucial factor in determining F~CH4~ from peatlands. The presence and type of vegetation influence CH~4~ production by providing organic substrates like root exudates and plant litter [@bridgham2013c]. Aerenchymatous peatland plants with developed deep roots that penetrate anoxic peat, increasing methane production via root exudation and its transport through root pathways [@lai2009a]. Ts is another significant driver of F~CH4~ through its influence on metabolic processes, with methanogenesis most efficient at peat temperatures ranging from 20 to 40 ℃ [@whalen2005a]. Consistent findings from both field and laboratory research indicate that higher peat temperatures (Ts) generally correlate with increased F~CH4~ [@turetsky2008]~.~
+WTD, Ts, peat acidity and vegetation communities are key factors influencing F~CH4~. Generally, deeper WTDs are associated with lower F~CH4~ due to a reduction in the depth of the methane production layer and an increase in the thickness of the methane oxidation layer [@lai2009; @whalen2005; @blodau2004b]. Over the long term, WTD strongly influences vegetation composition [@bubier2005]. Vegetation is a crucial factor in determining F~CH4~ from peatlands. The presence and type of vegetation influence CH~4~ production by providing organic substrates like root exudates and plant litter [@bridgham2013c]. Aerenchymatous peatland plants with developed deep roots that penetrate anoxic peat, increasing methane production via root exudation and its transport through root pathways [@lai2009a]. Ts is another significant driver of F~CH4~ through its influence on metabolic processes, with methanogenesis most efficient at peat temperatures ranging from 20 to 40 ℃ [@whalen2005a]. Consistent findings from both field and laboratory research indicate that higher peat temperatures (Ts) generally correlate with increased F~CH4~ [@turetsky2008]~.~
 
 The temperature coefficients, known as Q10 values, represent the factor by which a reaction rate increases for every 10℃ rise in temperature. These coefficients are commonly utilized to evaluate how sensitive microbial processes are to fluctuations in temperature.
 
-### Greenhouse Gas Budget in Burns Bog
+## The Impacts of Fires on Peatlands
 
-## The Burned Peatlands
+Under a warming climate, peatlands are facing increased frequency and extent of peat fires, which can turn peatlands from net C sinks to net sources (Turetsky et al., 2015; Waddington et al., 2015).
 
-### Findings in Burned Peatlands
+### Types of Peatland Fires
 
-### Greenhouse Gas Budget in Burned Peatlands
+Compared with other wildland fires, peat fires are more damaging because they comprise flaming and smouldering combustion (Che Azmi et al., 2021).
+
+Flaming scorched the trees and consumed part of ground-covering vegetation, the smouldering fire burned the peat down and remove large quantities of the organic soil
+
+The dominant smouldering combustion is flameless, slow-moving, and persistent combustion that can burn beneath the ground surface in wet conditions for long periods and is hard to extinguish (Bonn et al., 2016).
+
+In pristine peatlands, most of the peat stock is protected from peat fires, resulting in the build-up of stored C. However, drainage and climate change are resulting in peatlands becoming more susceptible to fire.
+
+### Impacts of Fires on the Carbon Cycle
+
+Fires can have profound impacts on C cycling in peatlands, leading to the release of large quantities of C to the atmosphere in the form of CO2 (Bonn et al., 2016). The effects of fires on the C cycle in peatlands can be evaluated by examining the impacts during the combustion phase, and the short-term and long-term consequences that occur after the fire event (Zoltai et al., 1998). Peat fires can burn off the top of peat layer during combustion, immediately releasing the stored C as CO2 to the atmosphere (Zoltai et al., 1998). Near-term postburn effects include the immediate loss of C due to the destruction of peatland vegetation and increased peat decomposition rates due to the increase in peat temperature and nutrient availability (Zoltai et al., 1998).
+
+The long-term changes in nutrients and distribution of water in burned peatlands can significantly impact GHG emissions (Zoltai et al., 1998). The drop in water table position triggers a shift in vegetation composition for most northern regions [@kettridge2015b]. @howie2020b investigated the relationship between plant community types and calculated moisture deficits across 67 BBECA study sites, revealing that lower water tables are associated with higher moisture deficits, leading to the absence of Sphagnum and the presence of taller shrubs and trees. Another 15-year study on examining changes in water level and vegetation in a restored German bog noted a comparable trend: increased water table levels resulted in reduced tree cover and enhanced Sphagnum growth [@bönsel2011b]. **Additionally, ecosystem shifts can be triggered in burned peatlands, leading to modifications in the peatland's ecohydrological structure and function, and thus GHG fluxes  (Wilkinson et al., 2018).** 
+
+### Postfire GHG fluxes in Peatlands
 
 ## Current Study
 
@@ -737,7 +741,7 @@ HR (root respiration
 All the aboveground vegetation was removed
 
 | Ecosystem        | Site           | Ra    | Rh   | Methods                                        | Study             |
-|------------|------------|------------|------------|------------|------------|
+|----------|----------|----------|----------|----------------------|----------|
 |                  |                | 54    | 46   |                                                | [@moore2002]      |
 |                  |                | 82-94 | 6-18 |                                                | [@hickspries2015] |
 | Fen              | Degerö Stormyr | 50    | 50   |                                                | [@järveoja2018]   |
