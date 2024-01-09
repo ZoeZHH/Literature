@@ -332,3 +332,7 @@ ER (contributed by above ground plant respiration and SR)
 ## Partitioning of the net CO2exchange using an automated chamber system reveals plant phenology as key control of production and respiration fluxes in a boreal peatland (2024/01/07)
 
 <https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.14292>
+
+## **Smouldering Fires and Natural Fuels (2024/01/08)**
+
+<https://onlinelibrary.wiley.com/doi/epdf/10.1002/9781118529539.ch2>
