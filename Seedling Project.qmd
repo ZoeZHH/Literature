@@ -62,13 +62,11 @@ Under a warming climate, peatlands are facing increased frequency and extent of 
 
 ### Types of Peatland Fires
 
-Compared with other wildland fires, peat fires are more damaging because they comprise flaming and smouldering combustion (Che Azmi et al., 2021).
+Pyrolysis, defined as the chemical decomposition of solid organic material (biomass), occurs when heated in an oxygen-free environment (Figure 2). The resulting combustion type, whether flaming or smouldering, is determined by the specific pyrolysis product that oxidizes [@hadden2013]. In flaming combustion, a flame represents a thin layer of gas where the combustion of pyrolysate takes place, yielding high-temperature gaseous and particulate products. In contrast, smouldering combustion involves the in-situ oxidation of char, a flameless, slow-moving, and persistent process [@rein2013]. This type of combustion can persist beneath the ground surface in wet conditions for extended periods, making it challenging to extinguish [@peatland2016]. Compared to flaming combustion, smouldering more severely affects soil properties and microorganisms. In burned peat, smouldering combustion releases over 90% of organic content as gas emissions, primarily CO~2~, resulting in a void and a thin ash layer. Furthermore, smouldering's extended duration enables deeper soil heat penetration, unlike the impact of quick-moving surface flaming fires [@hartford1992; @hadden2013; @rein2013].
 
-Flaming scorched the trees and consumed part of ground-covering vegetation, the smouldering fire burned the peat down and remove large quantities of the organic soil
+Peat fires, in comparison to other flaming wildland fires, are more damaging because they dominated by smouldering combustion [@cheazmi2021a]. In typical peat fires, flaming combustion harms above-ground ecosystems by scorching trees and consuming ground-cover vegetation, while smouldering combustion extensively burns the peat, resulting in significant loss of organic soil [@rein2008; @rein2013]. In pristine peatlands, where water availability is higher, most of the peat stock remains protected from pyrolysis and peat fires . However, factors such as drainage and climate change are increasing the susceptibility of peatlands to fire [@cheazmi2021; @landuse2000].
 
-The dominant smouldering combustion is flameless, slow-moving, and persistent combustion that can burn beneath the ground surface in wet conditions for long periods and is hard to extinguish (Bonn et al., 2016).
-
-In pristine peatlands, most of the peat stock is protected from peat fires, resulting in the build-up of stored C. However, drainage and climate change are resulting in peatlands becoming more susceptible to fire.
+![Figure 2. Snapshot showing the flaming and smouldering combustion. Modified from [@rein2009]and [@rein2013].](images/Screen Shot 2024-01-09 at 3.18.12 PM-02.png){fig-align="center" width="404"}
 
 ### Impacts of Fires on the Carbon Cycle
 
@@ -741,7 +739,7 @@ HR (root respiration
 All the aboveground vegetation was removed
 
 | Ecosystem        | Site           | Ra    | Rh   | Methods                                        | Study             |
-|----------|----------|----------|----------|----------------------|----------|
+|------------|------------|------------|------------|---------------|------------|
 |                  |                | 54    | 46   |                                                | [@moore2002]      |
 |                  |                | 82-94 | 6-18 |                                                | [@hickspries2015] |
 | Fen              | Degerö Stormyr | 50    | 50   |                                                | [@järveoja2018]   |

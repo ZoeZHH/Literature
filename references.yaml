@@ -1731,4 +1731,209 @@ references:
   title-short: Introductory Chapter
   type: chapter
   URL: "http://www.intechopen.com/books/peat/introductory-chapter-introduction-to-peat"
+- id: rein2009
+  author:
+  - family: Rein
+    given: Guillermo
+  issued: 2009
+  key: Y6MMQVTE
+  language: en
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: Zotero
+  title: Smouldering Combustion Phenomena in Science and Technology
+  type: article-journal
+  volume: 1
+- id: rein2013
+  accessed: "00:31:50"
+  author:
+  - family: Rein
+    given: Guillermo
+  container-title: Fire Phenomena and the Earth System
+  DOI: 10.1002/9781118529539.ch2
+  edition: 1
+  editor:
+  - family: Belcher
+    given: Claire M.
+  ISBN: 978-0-470-65748-5 978-1-118-52953-9
+  issued: 2013-05-20
+  key: PHUYI5R9
+  language: en
+  libraryID: 1
+  page: 15-33
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Wiley
+  source: DOI.org (Crossref)
+  title: Smouldering Fires and Natural Fuels
+  type: chapter
+  URL: "https://onlinelibrary.wiley.com/doi/10.1002/9781118529539.ch2"
+- id: hadden2013
+  author:
+  - family: Hadden
+    given: Rory M.
+  - family: Rein
+    given: Guillermo
+  - family: Belcher
+    given: Claire M.
+  container-title: Proceedings of the Combustion Institute
+  container-title-short: Proceedings of the Combustion Institute
+  DOI: 10.1016/j.proci.2012.05.060
+  is-referenced-by-count: 81
+  ISSN: 1540-7489
+  issue: 2
+  issued: 2013
+  language: en
+  member: 78
+  page: 2547-2553
+  prefix: 10.1016
+  providerKey: doi
+  publisher: Elsevier BV
+  reference-count: 18
+  references-count: 18
+  score: 1
+  source: Crossref
+  subject: Physical and Theoretical Chemistry
+  title: Study of the competing chemical reactions in the initiation and
+    spread of smouldering combustion in peat
+  type: article-journal
+  update-policy: "http://dx.doi.org/10.1016/elsevier_cm_policy"
+  URL: "http://dx.doi.org/10.1016/j.proci.2012.05.060"
+  volume: 34
+- id: hartford1992
+  author:
+  - family: Hartford
+    given: RA
+  - family: Frandsen
+    given: WH
+  container-title: International Journal of Wildland Fire
+  container-title-short: Int. J. Wildland Fire
+  DOI: 10.1071/wf9920139
+  is-referenced-by-count: 149
+  ISSN: 1049-8001
+  issue: 3
+  issued: 1992
+  language: en
+  member: 67
+  page: 139
+  prefix: 10.1071
+  providerKey: doi
+  publisher: CSIRO Publishing
+  reference-count: 0
+  references-count: 0
+  score: 1
+  source: Crossref
+  subject: Ecology
+  title: When It's Hot, It's Hot\... Or Maybe It's Not! (Surface Flaming
+    May Not Portend Extensive Soil Heating)
+  type: article-journal
+  URL: "http://dx.doi.org/10.1071/WF9920139"
+  volume: 2
+- id: cheazmi2021a
+  author:
+  - family: Che Azmi
+    given: Nor Azizah
+  - family: Mohd Apandi
+    given: Nazirah
+  - family: A. Rashid
+    given: Ahmad Safuan
+  container-title: Environmental Science and Pollution Research
+  container-title-short: Environ Sci Pollut Res
+  DOI: 10.1007/s11356-021-12886-x
+  is-referenced-by-count: 8
+  ISSN: 0944-1344
+  issue: 14
+  issued: 2021-02-27
+  language: en
+  member: 297
+  page: 16948-16961
+  prefix: 10.1007
+  providerKey: doi
+  publisher: Springer Science and Business Media LLC
+  reference-count: 96
+  references-count: 96
+  score: 1
+  source: Crossref
+  subject: Health, Toxicology and Mutagenesis
+  title: Carbon emissions from the peat fire problem---a review
+  type: article-journal
+  update-policy: "http://dx.doi.org/10.1007/springer_crossmark_policy"
+  URL: "http://dx.doi.org/10.1007/s11356-021-12886-x"
+  volume: 28
+- id: rein2008
+  author:
+  - family: Rein
+    given: Guillermo
+  - family: Cleaver
+    given: Natalie
+  - family: Ashton
+    given: Clare
+  - family: Pironi
+    given: Paolo
+  - family: Torero
+    given: José L.
+  container-title: CATENA
+  container-title-short: CATENA
+  DOI: 10.1016/j.catena.2008.05.008
+  is-referenced-by-count: 239
+  ISSN: 0341-8162
+  issue: 3
+  issued: 2008-08
+  language: en
+  member: 78
+  page: 304-309
+  prefix: 10.1016
+  providerKey: doi
+  publisher: Elsevier BV
+  reference-count: 27
+  references-count: 27
+  score: 1
+  source: Crossref
+  subject: Earth-Surface Processes
+  title: The severity of smouldering peat fires and damage to the forest
+    soil
+  type: article-journal
+  URL: "http://dx.doi.org/10.1016/j.catena.2008.05.008"
+  volume: 74
+- id: cheazmi2021
+  accessed: "00:10:16"
+  author:
+  - family: Che Azmi
+    given: Nor Azizah
+  - family: Mohd Apandi
+    given: Nazirah
+  - family: A. Rashid
+    given: Ahmad Safuan
+  container-title: Environmental Science and Pollution Research
+  container-title-short: Environ Sci Pollut Res
+  DOI: 10.1007/s11356-021-12886-x
+  ISSN: 0944-1344, 1614-7499
+  issue: 14
+  issued: 2021-04
+  key: XYQW6ZNW
+  language: en
+  libraryID: 1
+  page: 16948-16961
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Carbon emissions from the peat fire problem---a review
+  type: article-journal
+  URL: "https://link.springer.com/10.1007/s11356-021-12886-x"
+  volume: 28
+- id: landuse2000
+  ISBN: 978-92-9169-114-2
+  issued: 2000
+  key: 3W99BPRM
+  language: en
+  libraryID: 1
+  OCLC: 716493724
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: "WMO (World Meteorological Organization) : UNEP (United
+    Nations Environment Programme)"
+  publisher-place: Geneva
+  source: Open WorldCat
+  title: "Land use, land-use change, and forestry: summary for
+    policymakers : a special report of the Intergovernmental Panel on
+    Climate Change"
+  title-short: Land use, land-use change, and forestry
+  type: book
 ...
