@@ -335,4 +335,6 @@ ER (contributed by above ground plant respiration and SR)
 
 ## **Smouldering Fires and Natural Fuels (2024/01/08)**
 
-<https://onlinelibrary.wiley.com/doi/epdf/10.1002/9781118529539.ch2>
+[https://onlinelibrary.wiley.com/doi/epdf/10.1002/9781118529539.ch](https://onlinelibrary.wiley.com/doi/epdf/10.1002/9781118529539.ch2){.uri}2
+
+@howie2020b investigated the relationship between plant community types and calculated moisture deficits across 67 BBECA study sites, revealing that lower water tables are associated with higher moisture deficits, leading to the absence of Sphagnum and the presence of taller shrubs and trees. Another 15-year study on examining changes in water level and vegetation in a restored German bog noted a comparable trend: increased water table levels resulted in reduced tree cover and enhanced Sphagnum growth [@bönsel2011b].

@@ -1936,4 +1936,167 @@ references:
     Climate Change"
   title-short: Land use, land-use change, and forestry
   type: book
+- id: frandsen1997
+  author:
+  - family: Frandsen
+    given: W H
+  container-title: Canadian Journal of Forest Research
+  container-title-short: Can. J. For. Res.
+  DOI: 10.1139/x97-106
+  is-referenced-by-count: 137
+  ISSN: 0045-5067
+  issue: 9
+  issued: 1997-09-01
+  language: en
+  member: 155
+  page: 1471-1477
+  prefix: 10.1139
+  providerKey: doi
+  publisher: Canadian Science Publishing
+  reference-count: 4
+  references-count: 4
+  score: 1
+  source: Crossref
+  subject: Ecology
+  title: Ignition probability of organic soils
+  type: article-journal
+  URL: "http://dx.doi.org/10.1139/x97-106"
+  volume: 27
+- id: lukenbach2017
+  author:
+  - family: Lukenbach
+    given: M.C.
+  - family: Hokanson
+    given: K.J.
+  - family: Devito
+    given: K.J.
+  - family: Kettridge
+    given: N.
+  - family: Petrone
+    given: R.M.
+  - family: Mendoza
+    given: C.A.
+  - family: Granath
+    given: G.
+  - family: Waddington
+    given: J.M.
+  container-title: Journal of Hydrology
+  container-title-short: Journal of Hydrology
+  DOI: 10.1016/j.jhydrol.2017.03.034
+  is-referenced-by-count: 25
+  ISSN: 0022-1694
+  issued: 2017-05
+  language: en
+  member: 78
+  page: 741-753
+  prefix: 10.1016
+  providerKey: doi
+  publisher: Elsevier BV
+  reference-count: 67
+  references-count: 67
+  score: 1
+  source: Crossref
+  subject: Water Science and Technology
+  title: Post-fire ecohydrological conditions at peatland margins in
+    different hydrogeological settings of the Boreal Plain
+  type: article-journal
+  update-policy: "http://dx.doi.org/10.1016/elsevier_cm_policy"
+  URL: "http://dx.doi.org/10.1016/j.jhydrol.2017.03.034"
+  volume: 548
+- id: sherwood2013
+  author:
+  - family: Sherwood
+    given: J. H.
+  - family: Kettridge
+    given: N.
+  - family: Thompson
+    given: D. K.
+  - family: Morris
+    given: P. J.
+  - family: Silins
+    given: U.
+  - family: Waddington
+    given: J. M.
+  container-title: Hydrological Processes
+  container-title-short: Hydrological Processes
+  DOI: 10.1002/hyp.9820
+  is-referenced-by-count: 51
+  ISSN: 0885-6087
+  issue: 13
+  issued: 2013-04-19
+  language: en
+  member: 311
+  page: 1866-1874
+  prefix: 10.1002
+  providerKey: doi
+  publisher: Wiley
+  reference-count: 35
+  references-count: 35
+  score: 1
+  source: Crossref
+  subject: Water Science and Technology
+  title: Effect of drainage and wildfire on peat hydrophysical
+    properties
+  type: article-journal
+  URL: "http://dx.doi.org/10.1002/hyp.9820"
+  volume: 27
+- id: thompson2013
+  author:
+  - family: Thompson
+    given: Dan K.
+  - family: Benscoter
+    given: Brian W.
+  - family: Waddington
+    given: James M.
+  container-title: Hydrological Processes
+  container-title-short: Hydrological Processes
+  DOI: 10.1002/hyp.10074
+  is-referenced-by-count: 31
+  ISSN: 0885-6087
+  issue: 24
+  issued: 2013-11-11
+  language: en
+  member: 311
+  page: 5954-5964
+  prefix: 10.1002
+  providerKey: doi
+  publisher: Wiley
+  reference-count: 59
+  references-count: 59
+  score: 1
+  source: Crossref
+  subject: Water Science and Technology
+  title: Water balance of a burned and unburned forested boreal peatland
+  type: article-journal
+  URL: "http://dx.doi.org/10.1002/hyp.10074"
+  volume: 28
+- id: wilkinson2018
+  accessed: "01:05:57"
+  author:
+  - family: Wilkinson
+    given: S L
+  - family: Moore
+    given: P A
+  - family: Flannigan
+    given: M D
+  - family: Wotton
+    given: B M
+  - family: Waddington
+    given: J M
+  container-title: Environmental Research Letters
+  container-title-short: Environ. Res. Lett.
+  DOI: 10.1088/1748-9326/aaa136
+  ISSN: 1748-9326
+  issue: 1
+  issued: 2018-01-01
+  key: BCPQQGKN
+  libraryID: 1
+  page: 014018
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Did enhanced afforestation cause high severity peat burn in the
+    Fort McMurray Horse River wildfire?
+  type: article-journal
+  URL: "https://iopscience.iop.org/article/10.1088/1748-9326/aaa136"
+  volume: 13
 ...
