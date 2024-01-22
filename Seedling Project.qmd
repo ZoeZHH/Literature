@@ -112,7 +112,7 @@ The bog is highly sensitive to fire and experienced two wildfires since 2000, wh
 
 Another fire broke out in the north-western portion of the bog at the base of one of the Corus Entertainment radio towers on July 3, 2016. By July 11, the fire had been fully contained, but it had consumed up to 78 hectares of the bog area [@howie2020c]. The fire swept over the surface of the bog quickly so that the surface elevation didn't drop as significantly as in the 2005 fire [@howie2020c]. Consistent with observations from the 2005 burned zone, the 2016 burned zone also exhibited a notable increase in the density of pine tree seedlings following the fire event.
 
-## Measurement Sites and Instrumentation
+## Measurement Sites, Instrumentation and Data Processing
 
 ### Project I - Greenhouse Gas Flux Across Diverse Bog Vegetation Types in Three Study Sites
 
@@ -126,9 +126,11 @@ Chambers were designed following @terry1981. Briefly, chambers are composed of t
 
 #### Manual Measurements
 
-CO2, CH4, and N2O fluxes were measured using transparent covers\' chambers to measure the net ecosystem exchange (NEE, i.e., ecosystem respiration minus gross ecosystem photosynthesis) over a period of 30 minutes following a procedure described by Jassal et al. (2011). Transparent lids covered collars with fan batteries plugged in for each sampling cycle. Five 12 ml chamber air samples were manually extracted using a syringe at 0, 5, 10, 20, and 30 minutes after chamber lid deployment. The samples were immediately injected into evacuated 12 ml vials (Exetainers®, Labco Ltd., Buckinghamshire, UK). Vials were stored upside down to prevent gas leakage before analysis in the laboratory and transported in a box. Soil temperature and moisture were also measured beside each collar using TEROS 11 (Meter Group, Inc., Pullman, WA, USA) and a ProCheck Handheld Readout unit (Meter Group, Inc.) at the start and end of each 30 minutes. Each collar\'s height was recorded and measured by using tape.
+CO2, CH4, and N2O fluxes were measured using transparent covers' chambers to measure the net ecosystem exchange (NEE, i.e., ecosystem respiration minus gross ecosystem photosynthesis) over a period of 30 minutes following a procedure described by Jassal et al. (2011). Transparent lids covered collars with fan batteries plugged in for each sampling cycle. Five 12 ml chamber air samples were manually extracted using a syringe at 0, 5, 10, 20, and 30 minutes after chamber lid deployment. The samples were immediately injected into evacuated 12 ml vials (Exetainers®, Labco Ltd., Buckinghamshire, UK). Vials were stored upside down to prevent gas leakage before analysis in the laboratory and transported in a box. Soil temperature and moisture were also measured beside each collar using TEROS 11 (Meter Group, Inc., Pullman, WA, USA) and a ProCheck Handheld Readout unit (Meter Group, Inc.) at the start and end of each 30 minutes. Each collar's height was recorded and measured by using tape.
 
 CO2, CH4, and N2O concentrations from samples were analyzed using a GC (7890A, Agilent Technologies, Santa Clara, California, USA). A Combi-Pal autosampler (CTC Analytics, Zwingen, Switzerland) was injected into samples, drawn flux from the vials using a 2.5 ml N2 purged glass syringe with an HD-Type PTFE tipped syringe plunger and a 23-gauge needle (CTC Analytics AG, Zwingen, Switzerland). And the drawn flux was injected into the GC stainless steel, heated (110 ºC) purged-packed inlet using N2 (99.999 %) as carrier gas. Then, CO2, CH4, and N2O gases were detected with a flame ionization detector (FID, 250 ºC, for CH4) and a micro-electron capture detector (μECD, 300 ºC, for N2O). 
+
+#### Data Processing
 
 ### Project II - Respiration Study in Seedling-Managed Burned Bog Areas
 
@@ -158,25 +160,7 @@ Twelve additional collars (six for the seedling site and six for the seedling-re
 
 Live Above-ground biomass (AGB) was measured by clipping the green parts of the vegetation within each collar in mid-June 2023. Sphagnum mosses were clipped at the base of their capitulum. The clipped plant samples were then air-dried at 60 ℃ for 48 hours and subsequently weighed, with the dry weights recorded in grams.
 
-## Data Processing
-
-## 
-
-#### Burns Bog Greenhouse Gas Budget
-
-@lee2017 examined the year-round greenhouse gas budget (16 June 2015 to 15 June 2016) in a center area of BBECA which has been harvested, disturbed and rewetted using eddy covariance technique. The annual Reco in this area is 236±16.4 gCO~2~-Cm^-2^yr^-1^, with higher values during the growing season (\>20 gCO~2~-Cm^-2^month^-1^).The study revealed that T~s,5cm~, WTH and Ta are three controls on Reco. The relationship between Reco and T~s,5cm~ varies with season: it is non-significant in winter, logistic in spring, constant Reco over the early summer, and exponential in fall. Ta is correlated with Reco when Ta \< 16 ℃ and had the similar impact as T~s,5cm.~ The higher WTH in winter suppress the Reco. Similarly, F~CH4~ are higher in the growing season (\>1000 mgCH~4~-Cm^-2^month^-1^) and lower in the non-growing season, leading to an annual CH~4~-C budget was 17±1.0 gCH~4~-Cm^-2^yr^-1^. WTH and Ts are primary controls on FCH4, with WTH positively correlating with FCH4. However, the summer months exhibit higher FCH4 despite lower WTH, likely due to: 1) peat sustaining anaerobic conditions above the water table, and 2) sedges providing an efficient diffusion pathway for FCH4 via plant aerenchyma.
-
-@christen2016 examined summertime greenhouse gas fluxes (June to August 2014) from undisturbed, disturbed and rewetted soils in BBECA. It found the site with lower respiration fluxes experienced the lowest soil temperature and shallowest water table, the site with highest respiration flux had the warmest average soil temperature over the study period.
-
-## Measurement Procedures
-
-### Chamber-Portable Analyzer Measurements of R~eco~ and F~CH4~
-
-Respiration rates (R~eco~ and F~CH4~) were measured over 150-s intervals with an infrared gas analyser (LI-7810) coupled to the non-transparent smart chamber (LI-8200-01S) placed on permanently installed collars, during the daytime on two to four occasions per month in the growing season (April--September) and one occasion per month in the non-growing season (October-March) from April 2023 to March 2024. The LI-7810 Trace Gas Analyzer is a high-precision, laser-based instrument employing Optical Feedback---Cavity-Enhanced Absorption Spectroscopy (OF-CEAS) for measuring gases in the air. It draws air from the chamber into the analyzer through an air inlet. This air then passes through the optical bench and a phase adjuster for flux measurements before being exhausted through the air outlet. The Smart Chamber, LI-8200-01S, is a portable, self-powered survey chamber with a 20-cm diameter. It features an embedded microprocessor and internal storage for real-time flux calculations when connected to the gas analyzer. The flux data can be monitored in real time or stored in the Smart Chamber for later retrieval. Additionally, the Smart Chamber is equipped with a Stevens HydraProbe soil moisture and temperature probe. This probe, placed at approximately 0.05m depth just outside the collar, is used for measuring soil temperature and volumetric water content.
-
-### EC Measurements of Ecosystem CO2 Exchange
-
-### Climate Measurements
+#### Data Processing
 
 1.  Finding the ideal window of the time series for the flux calculation
 
@@ -193,6 +177,12 @@ Respiration rates (R~eco~ and F~CH4~) were measured over 150-s intervals with an
 -   ***Checking standard error of the dc/dt**: Export the dataset and use R programming to graphically represent the standard error of dc/dt for all collars (collar number as the x-axis and standard error values as the y-axis), comparing linear and exponential models. Establishing a threshold (\~0.001) for the standard error and recompute the flux calculations for any collars that exceed this threshold.*
 
 4.  Export the final dataset for statistical analysis
+
+#### Burns Bog Greenhouse Gas Budget
+
+@lee2017 examined the year-round greenhouse gas budget (16 June 2015 to 15 June 2016) in a center area of BBECA which has been harvested, disturbed and rewetted using eddy covariance technique. The annual Reco in this area is 236±16.4 gCO~2~-Cm^-2^yr^-1^, with higher values during the growing season (\>20 gCO~2~-Cm^-2^month^-1^).The study revealed that T~s,5cm~, WTH and Ta are three controls on Reco. The relationship between Reco and T~s,5cm~ varies with season: it is non-significant in winter, logistic in spring, constant Reco over the early summer, and exponential in fall. Ta is correlated with Reco when Ta \< 16 ℃ and had the similar impact as T~s,5cm.~ The higher WTH in winter suppress the Reco. Similarly, F~CH4~ are higher in the growing season (\>1000 mgCH~4~-Cm^-2^month^-1^) and lower in the non-growing season, leading to an annual CH~4~-C budget was 17±1.0 gCH~4~-Cm^-2^yr^-1^. WTH and Ts are primary controls on FCH4, with WTH positively correlating with FCH4. However, the summer months exhibit higher FCH4 despite lower WTH, likely due to: 1) peat sustaining anaerobic conditions above the water table, and 2) sedges providing an efficient diffusion pathway for FCH4 via plant aerenchyma.
+
+@christen2016 examined summertime greenhouse gas fluxes (June to August 2014) from undisturbed, disturbed and rewetted soils in BBECA. It found the site with lower respiration fluxes experienced the lowest soil temperature and shallowest water table, the site with highest respiration flux had the warmest average soil temperature over the study period.
 
 ## Data Analysis
 
