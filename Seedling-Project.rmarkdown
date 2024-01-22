@@ -1,5 +1,5 @@
 ---
-title: Investigating Impacts of Seedling Removal on Soil and Ground-level Vegetation Respiration (CO2 and CH4) in a Restored Peatland Ecosystem
+title: "Investigating Impacts of Seedling Removal on Soil and Ground-level Vegetation Respiration (CO~2~ and CH~4~) in a Restored Peatland Ecosystem"
 format: docx
 editor: visual
 author: Hehan (Zoe) Zhang
@@ -7,6 +7,7 @@ toc: true
 number-sections: true
 bibliography: references.yaml
 ---
+
 
 # Introduction
 
@@ -90,79 +91,47 @@ In this study, we aim to test the hypothesis: that the removal of seedlings can 
 
 With the hypothesis, the specific research objectives:
 
-1\) compare manual measurements of soil and near-surface respiration fluxes (CO2 & CH4) and environmental variables (WTD and Ts) between seedling and non-seedling treatments in three ecosystem types in the 2016 Burned Zone in the BBECA to assess impacts of seedling removal onReco and methane fluxes (FCH4)\
+1\) compare manual measurements of soil and near-surface respiration fluxes (CO2 & CH4) and environmental variables (WTD and Ts) between seedling and non-seedling treatments in three ecosystem types in the 2016 Burned Zone in the BBECA to assess impacts of seedling removal onReco and methane fluxes (FCH4)
 
-# Methods
+\
 
-## Study Area Details
+## Study area
 
-### Burns Bog and The Burns Bog Ecological Conservancy Area (BBECA)
+### Burns Bog (2023/12/16)
 
 Burns Bog is a raised ombrotrophic bog ecosystem located in the Fraser River delta between the south arm of the Fraser River and Boundary Bay. Prior to the late 1800s, the bog covered approximately 48 km^2^ [@hebda2000]. From mid 1800s to late 1900s, development activities like agriculture, peat mining, industry, and landfills had impacted 40% of the bog [@hebda2000]. Ditches were widely used to lower water levels, creating drier conditions needed for these activities, which accelerated the peat decomposition rates, and resulted in irreversible changes in bog hydrology, ecology, and structure [@mires:p1993]. In 2004, the local governments partnered with federal and provincial governments to purchase a large portion (approximately 20 km^2^) of the bog to establish the Burns Bog Ecological Conservancy Area (BBECA), which includes 14 km^2^ of the previously disturbed wetland ecosystem plus 6 km^2^ of the undisturbed ecosystem [@metrovancouver2007].  The primary objective of the BBECA is to conserve and restore ecosystem functioning of this large coastal raised bog through management and restoration activities such as ditch blocking [@metrovancouver2007]. 
 
-#### Ecosystem Types
+Burns Bog is a highly heterogeneous environment with 22 distinct ecosystem types, including 9 shrub-dominated ecosystems, 7 forested ecosystems, and 6 sparsely non-vegetated or human-modified ecosystems [@hebda2000]. The widespread plant communities are dominated by Sphagum mosses, lodgepole pine, Labrador tea (Ledum groenlandicum), bog cranberry, bog blueberry (Vaccinium uliginosum), and salal (Gaultheria shallon). The ecosystem types containing Lodgepole Pine-Sphagnum (PS) stands dominate the bog, cover about 45% of the bog area .
 
-Burns Bog is a highly heterogeneous environment with 22 distinct ecosystem types, including 9 shrub-dominated ecosystems, 7 forested ecosystems, and 6 sparsely non-vegetated or human-modified ecosystems [@hebda2000]. The widespread plant communities are dominated by Sphagnum mosses, lodgepole pine, Labrador tea (Ledum groenlandicum), bog cranberry, bog blueberry (Vaccinium uliginosum), and salal (Gaultheria shallon). Notably, the ecosystem types containing Lodgepole Pine-Sphagnum (PS) stands are predominant, covering about 45% of the bog area. These are further subdivided into three specific sub-ecosystems: Pine Sphagnum Low Shrub (PSLS), Pine Sphagnum Tall Shrub (PSTS), and Pine Sphagnum Woodland (PSW), each distinguished by their unique characteristics.
+The bog is highly sensitive to fire and experienced two wildfires since 2000, which occurred in 2005 and 2016. On September 11, 2005, a large fire broke out in the southeastern portion of the bog. The fire burned for ten days and consumed approximately 205 ha, almost 10% of the BBECA [@howie2020c]. The fire resulted in the incineration of up to 50 cm of the surface peat, lowering the bog surface elevation in those areas [@howie2020c]. Sphagnum  carpets were incinerated, and the area was subjected to massive seed releases from decades of accumulation of lodgepole pinecones. Densities of pine tree seedlings reached up to \~20,000 stems/ha just six years after the fire. The post-fire vegetation communities became tree-dominated, mainly comprising native and non-native tree species (e.g., Lodgepole pine and Silver birch, respectively) [@howie2020c].  Another fire broke out in the north-western portion of the bog at the base of one of the Corus Entertainment radio towers on July 3, 2016. By July 11, the fire had been fully contained, but it had consumed up to 78 hectares of the bog area [@howie2020c]. The fire swept over the surface of the bog quickly so that the surface elevation didn't drop as significantly as in the 2005 fire [@howie2020c]. Consistent with observations from the 2005 burned zone, the 2016 burned zone also exhibited a notable increase in the density of pine tree seedlings following the fire event.  
 
-PSLS is marked by abundant bog blueberry and Labrador tea, with shrubby heath species and large hummocks of common red Sphagnum. This ecosystem is crucial for peat formation and closely mirrors the bog's original vegetation. PSTS, in contrast, features taller pines forming a canopy over dense, tall Labrador tea and bog blueberry, with fewer open heath species and more prominence of velvet-leaf blueberry and salal. It includes mixed stands with birches in disturbed areas. PSW is characterized by a dense canopy of lodgepole pine, western hemlock, and birches, illustrating its ecological succession towards a forested stage. Beneath this canopy, salal and Labrador tea dominate the understory, complemented by a diverse ground layer of mosses, including step moss and red-stemmed feather moss.
+### Measurement Sites
 
-#### Burned Zones
+The study was conducted in the 2016 burned zone of BBECA in Delta, BC. The 2016 burned zone is located in the north-western, undisturbed part of BBECA. Six different sampling sites were selected for GHG flux measurements, encompassing three main ecosystem types with PS stands and a pair of treatments (seedling and seedling removal) within each ecosystem type. PS stands consist of a lodgepole pine canopy of varying structural stages above dense Labrador tea and a carpet of Sphagnum species.
 
-The bog is highly sensitive to fire and experienced two wildfires since 2000, which occurred in 2005 and 2016. On September 11, 2005, a large fire broke out in the southeastern portion of the bog. The fire burned for ten days and consumed approximately 205 ha, almost 10% of the BBECA [@howie2020c]. The fire resulted in the incineration of up to 50 cm of the surface peat, lowering the bog surface elevation in those areas [@howie2020c]. Sphagnum  carpets were incinerated, and the area was subjected to massive seed releases from decades of accumulation of lodgepole pinecones. Densities of pine tree seedlings reached up to \~20,000 stems/ha just six years after the fire. The post-fire vegetation communities became tree-dominated, mainly comprising native and non-native tree species (e.g., Lodgepole pine and Silver birch, respectively) [@howie2020c]. 
+**Pine Sphagnum Low Shrub (PSLS) Sites**
 
-Another fire broke out in the north-western portion of the bog at the base of one of the Corus Entertainment radio towers on July 3, 2016. By July 11, the fire had been fully contained, but it had consumed up to 78 hectares of the bog area [@howie2020c]. The fire swept over the surface of the bog quickly so that the surface elevation didn't drop as significantly as in the 2005 fire [@howie2020c]. Consistent with observations from the 2005 burned zone, the 2016 burned zone also exhibited a notable increase in the density of pine tree seedlings following the fire event.
+The PSLS ecosystem is characterized by abundant bog blueberry and Labrador tea, along with shrubby heath species like bog-rosemary (Andromeda polifolia) and bog laurel. This ecosystem features common red Sphagnum (Sphagnum capillifolium), forming large hummocks, and patches of maritime reindeer lichen (Cladina portentosa ssp. pacifica) on dry microsites. The wetter areas of PSLS are crucial for peat formation, closely resembling the bog's original vegetation as described by historical studies. In this ecosystem, two closely situated sites represent different conditions of the PSLS ecosystem: PSLS-R, where seedlings were removed in 2022, and PSLS-S, which retains its seedlings.
 
-## Measurement Sites and Instrumentation
+**Pine Sphagnum Tall Shrub (PSTS) Sites**
 
-### Project I - Greenhouse Gas Flux Across Diverse Bog Vegetation Types in Three Study Sites
+The PSTS ecosystem is dominated by taller pines that form a canopy over a rampant growth of tall Labrador tea, with bog blueberry also being abundant. Unlike the low shrub stage, open heath species are less common, and instead, velvet-leaf blueberry (Vaccinium myrtilloides) and salal are prominent in the shrub stratum. Ground cover is primarily Sphagnum hummocks, similar to PSLS, but the ecosystem can also include mixed stands with paper birch and European birch in areas disturbed by peat mining or fire. Similarly, PSTS-R and PSTS-S are two closely situated sites depicting different stages of PSTS: one with removed seedlings and the other retaining them in 2022.
 
-Fluxes of greenhouse gases were measured using static chamber and gas chromatography techniques.
+**Pine Sphagnum Woodland (PSW) Sites**
 
-#### Measurement Sites and Chamber Set-up
+The PSW ecosystem, encompassing the pole sapling and young forest stages, features salal as a more abundant component under tall pine trees, along with Labrador tea. Lodgepole pine, western hemlock, and birches contribute to an open tree stratum, with bog blueberry growing beneath the Labrador tea. The ground layer is diverse, covered by mosses like step moss (Hylocomium splendens) and red-stemmed feather moss (Pleurozium schreberi), alongside Sphagnum hummocks, which underscore the PSLS designation of the plant community. The PSW-R and PSW-S sites, situated at a distance within the PSW ecosystem, showcase the contrasting conditions of seedling removal and retention in 2022.
 
-Nine sites from the BBECA were chosen for GHG flux measurements. Three study zones include one unburned (control) zone and two burned zones (2005 and 2016). Each zone includes areas that were classified into three ecosystem types: PSLS, PSTS and PSW. Four cylindrical PVC collars were installed in each of the nine chamber sites. Collars were distributed in a square or straight line to gain more spatial coverage. Soil cover within the collars included small ground vegetation or grasses but no tall grasses or trees.
+#### The 2005 Burned Zone
 
-Chambers were designed following @terry1981. Briefly, chambers are composed of two parts, including the collars and the covers. Cylindrical shape collars with a height of \~0.2m were cut off from an 8-feet Polyvinylchloride (PVC) pipe (0.203 m internal diameter, 0.0323 m2 surface area), and each collar was chamfered on one side for easier to insert into the soil. The chamfered side of each chamber was inserted into the soil to a depth of 0.05 to 0.15 m 14 days before the fluxes measurements and will remain in place throughout the study. Disturbances were minimized to the soil and the plants within them during collar installation with a sharp knife to cut the roots of mosses or small shrubs. Plexiglas transparent circular covers, each designed with a vent tube and silicon rubber septum at the top, fitted with a small fan underneath and a 9-V battery secured at the top. Also, each cover was sealed by a circular rubber seal to allow the cover to fit the collar firmly.
+#### The 2016 Burned Zone
 
-#### Manual Measurements
+## Instrumentation
 
-CO2, CH4, and N2O fluxes were measured using transparent covers\' chambers to measure the net ecosystem exchange (NEE, i.e., ecosystem respiration minus gross ecosystem photosynthesis) over a period of 30 minutes following a procedure described by Jassal et al. (2011). Transparent lids covered collars with fan batteries plugged in for each sampling cycle. Five 12 ml chamber air samples were manually extracted using a syringe at 0, 5, 10, 20, and 30 minutes after chamber lid deployment. The samples were immediately injected into evacuated 12 ml vials (Exetainers®, Labco Ltd., Buckinghamshire, UK). Vials were stored upside down to prevent gas leakage before analysis in the laboratory and transported in a box. Soil temperature and moisture were also measured beside each collar using TEROS 11 (Meter Group, Inc., Pullman, WA, USA) and a ProCheck Handheld Readout unit (Meter Group, Inc.) at the start and end of each 30 minutes. Each collar\'s height was recorded and measured by using tape.
+### Manual Measurements
 
-CO2, CH4, and N2O concentrations from samples were analyzed using a GC (7890A, Agilent Technologies, Santa Clara, California, USA). A Combi-Pal autosampler (CTC Analytics, Zwingen, Switzerland) was injected into samples, drawn flux from the vials using a 2.5 ml N2 purged glass syringe with an HD-Type PTFE tipped syringe plunger and a 23-gauge needle (CTC Analytics AG, Zwingen, Switzerland). And the drawn flux was injected into the GC stainless steel, heated (110 ºC) purged-packed inlet using N2 (99.999 %) as carrier gas. Then, CO2, CH4, and N2O gases were detected with a flame ionization detector (FID, 250 ºC, for CH4) and a micro-electron capture detector (μECD, 300 ºC, for N2O). 
+### Continuous Measurements
 
-### Project II - Respiration Study in Seedling-Managed Burned Bog Areas
-
-Fluxes of greenhouse gases were measured using static chamber and portable analyzer techniques.
-
-#### Measurement Sites and Chamber Set-up
-
-The study was conducted in the 2016 burned zone of BBECA. Six different sampling sites were selected for GHG flux measurements, encompassing three main ecosystem types with PS stands (PSLS, PSTS and PSW) and a pair of treatments (seedling and seedling removal) within each ecosystem type. Six cylindrical PVC collars were installed in each of the six chamber sites. Collars were distributed in a hexagon or straight line to gain more spatial coverage and to capture a diverse range of environmental variables, including water content, microtopographical features and vegetation density. Soil cover within the collars includes small ground vegetation or grasses or short shrubs and seedlings.
-
-#### Manual Fluxes and Biophysical Measurements
-
-Respiration rates (R~eco~ and F~CH4~) were measured over 150-s intervals with an infrared gas analyser (LI-7810) coupled to the non-transparent smart chamber (LI-8200-01S) placed on permanently installed collars, during the daytime on two to four occasions per month in the growing season (April--September) and one occasion per month in the non-growing season (October-March) from April 2023 to March 2024. The LI-7810 Trace Gas Analyzer is a high-precision, laser-based instrument employing Optical Feedback---Cavity-Enhanced Absorption Spectroscopy (OF-CEAS) for measuring gases in the air. It draws air from the chamber into the analyzer through an air inlet. This air then passes through the optical bench and a phase adjuster for flux measurements before being exhausted through the air outlet. The Smart Chamber, LI-8200-01S, is a portable, self-powered survey chamber with a 20-cm diameter. It features an embedded microprocessor and internal storage for real-time flux calculations when connected to the gas analyzer. The fluxes were monitored in real time and stored in the Smart Chamber for later retrieval.
-
-The Smart Chamber is equipped with a Stevens HydraProbe soil moisture and temperature probe. This probe, placed at approximately 0.05m depth just outside the collar, measured soil temperature and volumetric water content at the time of fluxes measurements. Additionally, soil temperature (T) and moisture at a 10cm depth were assessed using a 15-cm long temperature probe attached to a Digi-sense thermocouple thermometer sensor and a Campbell Hydrosense soil water content reflectometer, equipped with 12-cm long rods.
-
-#### Continuous Biophysical Measurements
-
-To obtain continuous flux measurements and estimate annual Reco and FCH4 budgets, we continuously monitored environmental variables including soil temperature (Ts), water table depth (WTD), and volumetric water content (VWC). We used custom-made Type T (copper-constantan) thermocouples connected to a data logger, installed at depths of 5, 10, and 30 cm below the peat surface at each study site, to capture comprehensive soil temperature gradients.
-
-In September 2021, Metro Vancouver installed four water level monitoring wells in the 2016 burned zone to facilitate continuous WTD measurements. Of these, two wells located proximal to our study plots are relevant for this study. These include one well at the Pine Sphagnum Tall Shrub (PSTS) seedling removal site and another at the Pine Sphagnum Low Shrub (PSLS) seedling removal site. To complement these measurements and address potential WTD variations across different vegetation types and treatments, we installed an additional continuous monitoring well equipped with a pressure transducer (CS400, Campbell Scientific Inc.) at the Pine Sphagnum Woodland (PSW) seedling site.
-
-Furthermore, soil water content at the PSW sites was assessed using CS616 sensors (Campbell Scientific Inc.). These sensors were installed vertically to integrate the volumetric water content from the surface to a depth of 0.30 meters.
-
-#### Biomass Measurements
-
-Twelve additional collars (six for the seedling site and six for the seedling-removed site) were installed at the PSLS ecosystem site on June 20, 2023, supplementing the existing collars designated for Reco partitioning (Rs+Rp) analysis.
-
-Live Above-ground biomass (AGB) was measured by clipping the green parts of the vegetation within each collar in mid-June 2023. Sphagnum mosses were clipped at the base of their capitulum. The clipped plant samples were then air-dried at 60 ℃ for 48 hours and subsequently weighed, with the dry weights recorded in grams.
-
-## Data Processing
-
-## 
-
-#### Burns Bog Greenhouse Gas Budget
+## Burns Bog Greenhouse Gas Budget
 
 @lee2017 examined the year-round greenhouse gas budget (16 June 2015 to 15 June 2016) in a center area of BBECA which has been harvested, disturbed and rewetted using eddy covariance technique. The annual Reco in this area is 236±16.4 gCO~2~-Cm^-2^yr^-1^, with higher values during the growing season (\>20 gCO~2~-Cm^-2^month^-1^).The study revealed that T~s,5cm~, WTH and Ta are three controls on Reco. The relationship between Reco and T~s,5cm~ varies with season: it is non-significant in winter, logistic in spring, constant Reco over the early summer, and exponential in fall. Ta is correlated with Reco when Ta \< 16 ℃ and had the similar impact as T~s,5cm.~ The higher WTH in winter suppress the Reco. Similarly, F~CH4~ are higher in the growing season (\>1000 mgCH~4~-Cm^-2^month^-1^) and lower in the non-growing season, leading to an annual CH~4~-C budget was 17±1.0 gCH~4~-Cm^-2^yr^-1^. WTH and Ts are primary controls on FCH4, with WTH positively correlating with FCH4. However, the summer months exhibit higher FCH4 despite lower WTH, likely due to: 1) peat sustaining anaerobic conditions above the water table, and 2) sedges providing an efficient diffusion pathway for FCH4 via plant aerenchyma.
 
@@ -194,11 +163,12 @@ Respiration rates (R~eco~ and F~CH4~) were measured over 150-s intervals with an
 
 4.  Export the final dataset for statistical analysis
 
-## Data Analysis
+# Data Analysis
 
-### Temperature Sensitivity of Reco and F~CH4~
+Temperature Sensitivity of Reco and F~CH4~
 
 ## PART1 - Anova
+
 
 ```{r}
 library(tidyverse)
@@ -245,7 +215,9 @@ model_averagecollar_FCO2_anova <- aov(FCO2_EXP_avg ~ vegetation_type + trts + ve
 summary(model_averagecollar_FCO2_anova)
 ```
 
+
 **`trts`**: p-value of 0.00436 (indicated by **`**`**), suggests that the treatment factor significantly affects the FCO2. No further post-hoc tests conduct because we only has a pair of trts, which anova tests already tell us there's significant differences between them.
+
 
 ```{r}
 collar_fluxes <- collar_fluxes[collar_fluxes$label != "LS5", ]
@@ -270,7 +242,9 @@ plot(resid.2~yhat.2, data = collar_fluxes, xlab = "Predicted", ylab = "Residuals
 abline(a=0, b=0, col = "red")
 ```
 
+
 This will be problematic, because the equal variance and normality assumption didn't meet, it yields for unreliable anova results.
+
 
 ```{r}
 # Anova test
@@ -279,7 +253,9 @@ model_averagecollar_FCH4_anova <- aov(FCH4_EXP_avg ~ vegetation_type + trts + ve
 summary(model_averagecollar_FCH4_anova)
 ```
 
+
 Transform FCH4_EXP_avg to log(FCH4_EXP_avg+10) and perform anova
+
 
 ```{r}
 # Anova test
@@ -288,7 +264,9 @@ model_averagecollar_FCH4_anova <- aov(log(FCH4_EXP_avg+10) ~ vegetation_type + t
 summary(model_averagecollar_FCH4_anova)
 ```
 
+
 Performing two-way ANOVA on the rank-transformed data. Ranking is one of many procedures used to transform data that do not meet the assumptions of normality. However, the equal variance assumption is violated.
+
 
 ```{r}
 collar_fluxes <- collar_fluxes[collar_fluxes$label != "LS5", ]
@@ -319,18 +297,22 @@ model_averagecollar_FCH4_anova.rnk <- aov(rank(FCH4_EXP_avg) ~ vegetation_type +
 summary(model_averagecollar_FCH4_anova.rnk)
 ```
 
+
 There's a significant differences between vegetation types.
+
 
 ```{r}
 library(emmeans)
 emmeans(model_averagecollar_FCH4_anova.rnk, pairwise ~ vegetation_type | trts)
 ```
 
+
 There're significant differences between PSW and the other two vegetation types (PSLS/PSTS) in both R and S treatment site; there's no significant differences between PSLS and PSTS.
 
 ## PART2 - Q10
 
 Plot raw data for TS_5 vs. FCO2 & TS_5 vs. FCH4 by **treatments**
+
 
 ```{r}
 plot_flux_by_month <- function(data, x_var, y_var, y_label) {
@@ -354,7 +336,9 @@ er_flux_vwc_plot
 ch4_flux_vwc_plot
 ```
 
+
 Plot raw data for TS_5 vs. FCO2 & TS_5 vs. FCH4 by **ecosystem types**
+
 
 ```{r}
 plot_flux_by_month <- function(data, x_var, y_var, y_label) {
@@ -384,6 +368,7 @@ df$study_site <- substr(df$label, 1, 2)
 print(df)
 ```
 
+
 Temperatures sensitivity (Q10) analyses how C fluxes respond to variations in soil temperature. Q10 describes the relative increase in daily Reco or CH4 flux per 10 °C increase in daily soil temperature.
 
 CO2-Step 1: $ln(Reco) = A + b_{Reco}T_{s,5cm}$
@@ -393,6 +378,7 @@ CO2-Step 2: $Q10_{Reco} = e^{10b_{R_{eco}}}$
 CH4-Step 1: $FCH_4 = ae^{b_{FCH4}T_{s,5cm}}$
 
 CH4-Step 2: $Q10_{FCH4} = e^{10b_{FCH_4}}$
+
 
 ```{r}
 exp_model <- function(temp, a, b) {
@@ -450,11 +436,13 @@ for (ss_plot in plot_list) {
 }
 ```
 
+
 | FCH4-Q10 Values | Seedling Area | Seedling Removal Area |
 |-----------------|---------------|-----------------------|
 | PSLS            | 1.10          | 0.32                  |
 | PSTS            | 0.29          | 0.45                  |
 | PSW             | 0.79          | 0.16                  |
+
 
 ```{r}
 exp_model <- function(temp, a, b) {
@@ -514,6 +502,7 @@ for (ss_plot in plot_list) {
 
 ```
 
+
 | FCO2-Q10 Values | Seedling Area | Seedling Removal Area |
 |-----------------|---------------|-----------------------|
 | PSLS            | 8.33          | 7.77                  |
@@ -523,6 +512,7 @@ for (ss_plot in plot_list) {
 ## PART3 - Mixed Effects Model
 
 Refer to the paper \[Wildfire overrides hydrological controls on boreal peatland methane emissions\], model tests on seeing vegetation types and trts as fixed factor, collar ID as a random effect to take into account repeated measures.
+
 
 ```{r}
 df1 <- df %>% 
@@ -567,9 +557,11 @@ summary(M2)
 # the model suggests that trts and month are significant predictors of the log-transformed FCO2_EXP, with vegetation_type having a less significant effect. The low variance for collar_number suggests that the random effects structure is not explaining much of the variability in the data, which could be due to the grouping variable collar_number not having much influence on the outcome, or it could be that the variability is low between different collar_number groups.
 ```
 
+
 ## Waterlevel refer to the ground
 
 Timeseries water level data
+
 
 ```{r}
 library(ggplot2)
@@ -599,6 +591,7 @@ ggplot(data = wl_long, aes(x = Date, y = Water_Level, color = Type)) +
 
 ```
 
+
 # Discussions
 
 ## Ecosystem Respiration Partitioning
@@ -610,6 +603,7 @@ Trench + clipped for hetero+autro[@dorrepaal2009a; ]
 Twelve additional collars (six for the seedling site and six for the seedling-removed site) were installed at the PSLS ecosystem site, supplementing the existing collars designated for Reco partitioning analysis. Live Above-ground biomass (AGB) was measured by clipping the green parts of the vegetation within each collar in mid-June 2023. Sphagnum mosses were clipped at the base of their capitulum. The clipped plant samples were then air-dried at 60 ℃ for 48 hours and subsequently weighed, with the dry weights recorded in grams.
 
 **Reco partitioning statistics:**
+
 
 ```{r}
 library(lubridate)
@@ -683,7 +677,9 @@ ggplot(abm_stats_R, aes(x=date, y=mean_flux, color=clip)) +
   theme_minimal()
 ```
 
+
 Calculate the average proportions of Rs to Reco from six collars to represent the study site on each sampling date. For the PSLS ecosystem type, the contributions of Rs to Reco were 62.4% ± 8.9% for the seedling site and 66.8% ± 11.8% for the seedling removal site.
+
 
 ```{r}
 library(dplyr)
@@ -838,6 +834,7 @@ ggplot(abmFCH4_stats_R, aes(x=date, y=meanFCH4_flux, color=clip)) +
   theme_minimal()
 ```
 
+
 AGB (g dry weight m-2)\
 - mean Reco vs. AGB, scatterplots
 
@@ -869,3 +866,4 @@ All the aboveground vegetation was removed
 bogs make up about 70% of peatlands in Canada
 
 ±
+
