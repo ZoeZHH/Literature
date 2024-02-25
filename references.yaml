@@ -2132,4 +2132,37 @@ references:
   type: article-journal
   URL: "http://dx.doi.org/10.1080/00022470.1981.10465342"
   volume: 31
+- id: jassal2011
+  author:
+  - family: Jassal
+    given: Rachhpal S.
+  - family: Black
+    given: T. Andrew
+  - family: Roy
+    given: Real
+  - family: Ethier
+    given: Gilbert
+  container-title: Geoderma
+  container-title-short: Geoderma
+  DOI: 10.1016/j.geoderma.2011.02.002
+  is-referenced-by-count: 79
+  ISSN: 0016-7061
+  issue: 1-2
+  issued: 2011-04
+  language: en
+  member: 78
+  page: 182-186
+  prefix: 10.1016
+  providerKey: doi
+  publisher: Elsevier BV
+  reference-count: 41
+  references-count: 41
+  score: 1
+  source: Crossref
+  subject: Soil Science
+  title: Effect of nitrogen fertilization on soil CH4 and N2O fluxes,
+    and soil and bole respiration
+  type: article-journal
+  URL: "http://dx.doi.org/10.1016/j.geoderma.2011.02.002"
+  volume: 162
 ...

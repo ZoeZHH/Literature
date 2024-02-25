@@ -120,17 +120,15 @@ Fluxes of greenhouse gases were measured using static chamber and gas chromatogr
 
 #### Measurement Sites and Chamber Set-up
 
-Nine sites from the BBECA were chosen for GHG flux measurements. Three study zones include one unburned (control) zone and two burned zones (2005 and 2016). Each zone includes areas that were classified into three ecosystem types: PSLS, PSTS and PSW. Four cylindrical PVC collars were installed in each of the nine chamber sites. Collars were distributed in a square or straight line to gain more spatial coverage. Soil cover within the collars included small ground vegetation or grasses but no tall grasses or trees.
+Nine sites from the BBECA were chosen for GHG flux measurements. Three study zones include one unburned (control) zone and two burned zones (2005 and 2016). Each zone includes areas that were classified into three ecosystem types: PSLS, PSTS and PSW. Four cylindrical Polyvinylchloride (PVC) collars were installed in each of the nine chamber sites. Collars were distributed in a square or straight line to gain more spatial coverage. Soil cover within the collars included small ground vegetation or grasses but no tall grasses or trees.
 
-Chambers were designed following @terry1981. Briefly, chambers are composed of two parts, including the collars and the covers. Cylindrical shape collars with a height of \~0.2m were cut off from an 8-feet Polyvinylchloride (PVC) pipe (0.203 m internal diameter, 0.0323 m2 surface area), and each collar was chamfered on one side for easier to insert into the soil. The chamfered side of each chamber was inserted into the soil to a depth of 0.05 to 0.15 m 14 days before the fluxes measurements and will remain in place throughout the study. Disturbances were minimized to the soil and the plants within them during collar installation with a sharp knife to cut the roots of mosses or small shrubs. Plexiglas transparent circular covers, each designed with a vent tube and silicon rubber septum at the top, fitted with a small fan underneath and a 9-V battery secured at the top. Also, each cover was sealed by a circular rubber seal to allow the cover to fit the collar firmly.
+Chambers were designed following the methodology of @terry1981. Briefly, each chamber comprises two main components: the collar and the cover. Cylindrical collars, approximately 0.2m in height, were fashioned from an 8-feet PVC pipe (0.203 m internal diameter, yielding a surface area of 0.0323 m²). One side of each collar was chamfered to facilitate easier insertion into the soil. These chamfered collars were then embedded into the soil to a depth ranging from 0.05 to 0.15 m, 14 days prior to the flux measurements. They will remain in place for the duration of the study. Care was taken to minimize soil and plant disturbance during the installation process, using a sharp knife to trim the roots of mosses or small shrubs as necessary. The covers, made of transparent Plexiglas, are circular in shape and each is equipped with a vent tube and a silicone rubber septum at the top. Additionally, each cover incorporates a small fan on the underside and a 9-V battery secured at the top. A circular rubber seal ensures a tight fit between each cover and its corresponding collar.
 
 #### Manual Measurements
 
-CO2, CH4, and N2O fluxes were measured using transparent covers' chambers to measure the net ecosystem exchange (NEE, i.e., ecosystem respiration minus gross ecosystem photosynthesis) over a period of 30 minutes following a procedure described by Jassal et al. (2011). Transparent lids covered collars with fan batteries plugged in for each sampling cycle. Five 12 ml chamber air samples were manually extracted using a syringe at 0, 5, 10, 20, and 30 minutes after chamber lid deployment. The samples were immediately injected into evacuated 12 ml vials (Exetainers®, Labco Ltd., Buckinghamshire, UK). Vials were stored upside down to prevent gas leakage before analysis in the laboratory and transported in a box. Soil temperature and moisture were also measured beside each collar using TEROS 11 (Meter Group, Inc., Pullman, WA, USA) and a ProCheck Handheld Readout unit (Meter Group, Inc.) at the start and end of each 30 minutes. Each collar's height was recorded and measured by using tape.
+CO~2~, CH~4~, and N~2~O fluxes were measured using transparent covers' chambers to measure the net ecosystem exchange (NEE, i.e., ecosystem respiration minus gross ecosystem photosynthesis) over a period of 30 minutes following a procedure described by @jassal2011. Transparent lids covered collars with fan batteries plugged in for each sampling cycle. Five 12 ml chamber air samples were manually extracted using a syringe at 0, 5, 10, 20, and 30 minutes after chamber lid deployment. The samples were immediately injected into evacuated 12 ml vials (Exetainers®, Labco Ltd., Buckinghamshire, UK). Vials were stored upside down to prevent gas leakage before analysis in the laboratory and transported in a box. Soil temperature and moisture were also measured beside each collar using TEROS 11 (Meter Group, Inc., Pullman, WA, USA) and a ProCheck Handheld Readout unit (Meter Group, Inc.) at the start and end of each 30 minutes. Each collar's height was recorded and measured by using tape.
 
-CO2, CH4, and N2O concentrations from samples were analyzed using a GC (7890A, Agilent Technologies, Santa Clara, California, USA). A Combi-Pal autosampler (CTC Analytics, Zwingen, Switzerland) was injected into samples, drawn flux from the vials using a 2.5 ml N2 purged glass syringe with an HD-Type PTFE tipped syringe plunger and a 23-gauge needle (CTC Analytics AG, Zwingen, Switzerland). And the drawn flux was injected into the GC stainless steel, heated (110 ºC) purged-packed inlet using N2 (99.999 %) as carrier gas. Then, CO2, CH4, and N2O gases were detected with a flame ionization detector (FID, 250 ºC, for CH4) and a micro-electron capture detector (μECD, 300 ºC, for N2O). 
-
-#### Data Processing
+CO~2~, CH~4~, and N~2~O concentrations from samples were analyzed using a GC (7890A, Agilent Technologies, Santa Clara, California, USA). A Combi-Pal autosampler (CTC Analytics, Zwingen, Switzerland) was injected into samples, drawn flux from the vials using a 2.5 ml N~2~ purged glass syringe with an HD-Type PTFE tipped syringe plunger and a 23-gauge needle (CTC Analytics AG, Zwingen, Switzerland). And the drawn flux was injected into the GC stainless steel, heated (110 ºC) purged-packed inlet using N~2~ (99.999 %) as carrier gas. Then, CO~2~, CH~4~, and N~2~O fluxes were detected with a flame ionization detector (FID, 250 ºC, for CH~4~ and CO~2~) and a micro-electron capture detector (μECD, 300 ºC, for N~2~O).
 
 ### Project II - Respiration Study in Seedling-Managed Burned Bog Areas
 
@@ -138,25 +136,25 @@ Fluxes of greenhouse gases were measured using static chamber and portable analy
 
 #### Measurement Sites and Chamber Set-up
 
-The study was conducted in the 2016 burned zone of BBECA. Six different sampling sites were selected for GHG flux measurements, encompassing three main ecosystem types with PS stands (PSLS, PSTS and PSW) and a pair of treatments (seedling and seedling removal) within each ecosystem type. Six cylindrical PVC collars were installed in each of the six chamber sites. Collars were distributed in a hexagon or straight line to gain more spatial coverage and to capture a diverse range of environmental variables, including water content, microtopographical features and vegetation density. Soil cover within the collars includes small ground vegetation or grasses or short shrubs and seedlings.
+The study was conducted in the 2016 burned zone of BBECA. Six different sampling sites were selected for GHG flux measurements, encompassing three main ecosystem types with PS stands (PSLS, PSTS and PSW) and a pair of treatments (seedling and seedling removal) within each ecosystem type. Six cylindrical PVC collars were installed in each of the six chamber sites. Collars were distributed in a hexagon or straight line to gain more spatial coverage and to capture a diverse range of environmental variables, including water content, micro-topographical features and vegetation density. Soil cover within the collars includes small ground vegetation or grasses or short shrubs and seedlings.
 
 #### Manual Fluxes and Biophysical Measurements
 
-Respiration rates (R~eco~ and F~CH4~) were measured over 150-s intervals with an infrared gas analyser (LI-7810) coupled to the non-transparent smart chamber (LI-8200-01S) placed on permanently installed collars, during the daytime on two to four occasions per month in the growing season (April--September) and one occasion per month in the non-growing season (October-March) from April 2023 to March 2024. The LI-7810 Trace Gas Analyzer is a high-precision, laser-based instrument employing Optical Feedback---Cavity-Enhanced Absorption Spectroscopy (OF-CEAS) for measuring gases in the air. It draws air from the chamber into the analyzer through an air inlet. This air then passes through the optical bench and a phase adjuster for flux measurements before being exhausted through the air outlet. The Smart Chamber, LI-8200-01S, is a portable, self-powered survey chamber with a 20-cm diameter. It features an embedded microprocessor and internal storage for real-time flux calculations when connected to the gas analyzer. The fluxes were monitored in real time and stored in the Smart Chamber for later retrieval.
+Respiration rates (R~eco~ and F~CH4~) were measured over 150-s intervals with an infrared gas analyser (LI-7810, LI-COR, Lincoln, United States) coupled to the non-transparent smart chamber (LI-8200-01S, LI-COR, Lincoln, United States) placed on permanently installed collars, during the daytime on two to four occasions per month in the growing season (April--September) and one occasion per month in the non-growing season (October-March) from April 2023 to March 2024. The LI-7810 Trace Gas Analyzer is a high-precision, laser-based instrument employing Optical Feedback---Cavity-Enhanced Absorption Spectroscopy (OF-CEAS) for measuring gases in the air. It draws air from the chamber into the analyzer through an air inlet. This air then passes through the optical bench and a phase adjuster for flux measurements before being exhausted through the air outlet. The Smart Chamber, LI-8200-01S, is a portable, self-powered survey chamber with a 20-cm diameter. It features an embedded microprocessor and internal storage for real-time flux calculations when connected to the gas analyzer. The fluxes were monitored in real time and stored in the Smart Chamber for later retrieval.
 
-The Smart Chamber is equipped with a Stevens HydraProbe soil moisture and temperature probe. This probe, placed at approximately 0.05m depth just outside the collar, measured soil temperature and volumetric water content at the time of fluxes measurements. Additionally, soil temperature (T) and moisture at a 10cm depth were assessed using a 15-cm long temperature probe attached to a Digi-sense thermocouple thermometer sensor and a Campbell Hydrosense soil water content reflectometer, equipped with 12-cm long rods.
+The Smart Chamber is equipped with a soil moisture and temperature probe (Hydraprobe, STEVENS, Portland, United States). This probe was placed at approximately 0.05 m depth, just outside the collar, to measure soil temperature and volumetric water content concurrent with flux measurements. Additionally, soil temperature and moisture at a depth of 10 cm were assessed using a 15-cm long temperature probe connected to a thermocouple thermometer sensor (8582-10, Digi-sense), and a soil water content reflectometer with 12-cm long rods (CS655, Campbell Scientific, Edmonton, Canada).
 
 #### Continuous Biophysical Measurements
 
 To obtain continuous flux measurements and estimate annual Reco and FCH4 budgets, we continuously monitored environmental variables including soil temperature (Ts), water table depth (WTD), and volumetric water content (VWC). We used custom-made Type T (copper-constantan) thermocouples connected to a data logger, installed at depths of 5, 10, and 30 cm below the peat surface at each study site, to capture comprehensive soil temperature gradients.
 
-In September 2021, Metro Vancouver installed four water level monitoring wells in the 2016 burned zone to facilitate continuous WTD measurements. Of these, two wells located proximal to our study plots are relevant for this study. These include one well at the Pine Sphagnum Tall Shrub (PSTS) seedling removal site and another at the Pine Sphagnum Low Shrub (PSLS) seedling removal site. To complement these measurements and address potential WTD variations across different vegetation types and treatments, we installed an additional continuous monitoring well equipped with a pressure transducer (CS400, Campbell Scientific Inc.) at the Pine Sphagnum Woodland (PSW) seedling site.
+In September 2021, Metro Vancouver installed four water level monitoring wells in the 2016 burned zone to facilitate continuous WTD measurements. Of these, two wells located proximal to our study plots are relevant for this study. These include one well at the PSTS seedling removal site and another at the PSLS seedling removal site. To complement these measurements and address potential WTD variations across different vegetation types and treatments, we installed an additional continuous monitoring well equipped with a pressure transducer (CS400, Campbell Scientific, Edmonton, Canada) at the PSW seedling site.
 
-Furthermore, soil water content at the PSW sites was assessed using CS616 sensors (Campbell Scientific Inc.). These sensors were installed vertically to integrate the volumetric water content from the surface to a depth of 0.30 meters.
+Furthermore, soil water content at the PSW sites was assessed using 30cm water content reflectometers (CS616, Campbell Scientific, Edmonton, Canada). These sensors were installed vertically to integrate the volumetric water content from the surface to a depth of 0.30 meters.
 
 #### Biomass Measurements
 
-Twelve additional collars (six for the seedling site and six for the seedling-removed site) were installed at the PSLS ecosystem site on June 20, 2023, supplementing the existing collars designated for Reco partitioning (Rs+Rp) analysis.
+Twelve additional collars (six for the seedling site and six for the seedling-removed site) were added at the PSLS ecosystem site on June 20, 2023, supplementing the existing collars designated for Reco partitioning (Rs+Rp) analysis.
 
 Live Above-ground biomass (AGB) was measured by clipping the green parts of the vegetation within each collar in mid-June 2023. Sphagnum mosses were clipped at the base of their capitulum. The clipped plant samples were then air-dried at 60 ℃ for 48 hours and subsequently weighed, with the dry weights recorded in grams.
 
@@ -192,7 +190,7 @@ Live Above-ground biomass (AGB) was measured by clipping the green parts of the 
 
 ```{r}
 library(tidyverse)
-setwd("/Users/zoe/desktop/Rplots/Data")
+setwd("/Users/zoe/desktop/Rplots/Data/")
 df <- read.csv("growinganalysis.csv", header = TRUE)
 df$peat_temp_5cm[df$peat_temp_5cm < -30] <- NA
 df$peat_vwc_5cm[df$peat_vwc_5cm < -100] <- NA
@@ -566,23 +564,23 @@ library(ggplot2)
 library(reshape2)
 setwd("/Users/zoe/Desktop/seedling_analysis/Manual")
 wl <- read.csv("waterleveldata.csv", header = TRUE)
-head(wl)
 wl$Date <- as.Date(wl$Date)
 # Load the necessary library
 # Reshape the data from wide to long format
 wl_long <- melt(wl, id.vars = "Date", variable.name = "Type", value.name = "Water_Level")
-
 # Create a factor for the facet wrap
 wl_long$Site <- with(wl_long, factor(ifelse(grepl("PSW", Type), "PSW",
                                       ifelse(grepl("PSLS", Type), "PSLS", "PSTS"))))
+wl_long <- wl_long %>%
+  mutate(wl=-Water_Level)
 
 # Plot using ggplot with facet_wrap
-ggplot(data = wl_long, aes(x = Date, y = Water_Level, color = Type)) +
+ggplot(data = wl_long, aes(x = Date, y = wl, color = Type)) +
   geom_line() +
   geom_point() +
   scale_color_manual(values = c("PSW.S" = "blue", "PSW.R" = "red", "PSLS.S" = "blue", "PSLS.R" = "red", "PSTS.S" = "blue", "PSTS.R" = "red")) +
-  facet_wrap(~ Site, scales = "fixed", ncol = 3) + # Use ncol to specify the number of columns in the facet_wrap
-  ylim(0, 80) + # Set y-axis limits from 0 to 80
+  facet_wrap(~ Site, scales = "fixed", ncol = 3) + 
+  ylim(0, 80) + 
   theme_minimal() +
   labs(title = "Water Level Across Different Sites", x = "Date", y = "Water level (cm)") +
   theme(legend.position = "bottom", legend.title = element_blank(), strip.background = element_blank())
@@ -840,7 +838,7 @@ HR (root respiration
 All the aboveground vegetation was removed
 
 | Ecosystem        | Site           | Ra    | Rh   | Methods                                        | Study             |
-|------------|------------|------------|------------|------------|------------|
+|------------|------------|------------|------------|---------------|------------|
 |                  |                | 54    | 46   |                                                | [@moore2002]      |
 |                  |                | 82-94 | 6-18 |                                                | [@hickspries2015] |
 | Fen              | Degerö Stormyr | 50    | 50   |                                                | [@järveoja2018]   |
