@@ -338,3 +338,17 @@ ER (contributed by above ground plant respiration and SR)
 [https://onlinelibrary.wiley.com/doi/epdf/10.1002/9781118529539.ch](https://onlinelibrary.wiley.com/doi/epdf/10.1002/9781118529539.ch2){.uri}2
 
 @howie2020b investigated the relationship between plant community types and calculated moisture deficits across 67 BBECA study sites, revealing that lower water tables are associated with higher moisture deficits, leading to the absence of Sphagnum and the presence of taller shrubs and trees. Another 15-year study on examining changes in water level and vegetation in a restored German bog noted a comparable trend: increased water table levels resulted in reduced tree cover and enhanced Sphagnum growth [@bönsel2011b].
+
+## Overriding Importance of water table in the greenhouse gas balance of managed peatlands
+
+(<https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/78060/Heppell%20Overriding%20water%20table%202022%20Accepted.pdf;jsessionid=2DA2E43942518E03DB9E0818137AC12F?sequence=2>)
+
+However, a range of previous studies have identified mean water-table depth (WTD) as an important influence on the emissions of all three major GHGs, with deeper water tables favouring CO2 and N2O emissions, and shallow water tables favouring CH4 emissions
+
+(Tiemeyer, B. et al. High emissions of greenhouse gases from grasslands on peat and other
+organic soils. Glob. Change Biol. 22, 4134--4149 (2016).; Couwenberg, J. et al. Assessing greenhouse gas emissions from peatlands using vegetation as a
+proxy. Hydrobiologia 674, 67-89 (2011).)
+
+Methods: Water-table depths were measured manually at all sites using PVC dipwells using a dip-meter, and then corrected to the distance from the peat surface (data were recorded as positive distance below the surface, with negative values indicating ponding above the peat surface).
+
+At most sites a calibrated water-level sensor (pressure transducer) and integrated logger was also used to record water table depth in at least one dipwell, at a minimum one-hour frequency
