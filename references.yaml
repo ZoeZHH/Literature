@@ -2165,4 +2165,206 @@ references:
   type: article-journal
   URL: "http://dx.doi.org/10.1016/j.geoderma.2011.02.002"
   volume: 162
+- id: edvardsson2016
+  accessed: "05:07:07"
+  author:
+  - family: Edvardsson
+    given: Johannes
+  - family: Stoffel
+    given: Markus
+  - family: Corona
+    given: Christophe
+  - family: Bragazza
+    given: Luca
+  - family: Leuschner
+    given: Hanns Hubert
+  - family: Charman
+    given: Dan J.
+  - family: Helama
+    given: Samuli
+  container-title: Earth-Science Reviews
+  container-title-short: Earth-Science Reviews
+  DOI: 10.1016/j.earscirev.2016.10.005
+  ISSN: 00128252
+  issued: 2016-12
+  key: 2GLGMTKN
+  language: en
+  libraryID: 1
+  page: 118-140
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Subfossil peatland trees as proxies for Holocene
+    palaeohydrology and palaeoclimate
+  type: article-journal
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/S0012825216303609"
+  volume: 163
+- id: rydin2013
+  accessed: "05:49:20"
+  author:
+  - family: Rydin
+    given: Håkan
+  - family: Jeglum
+    given: John K.
+  DOI: "10.1093/acprof:osobl/9780199602995.001.0001"
+  ISBN: 978-0-19-960299-5
+  issued: 2013-07-18
+  key: YDYJNF9M
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Oxford University Press
+  source: DOI.org (Crossref)
+  title: The Biology of Peatlands
+  type: book
+  URL: "https://academic.oup.com/book/5054"
+- id: bonn2016
+  author:
+  - family: Bonn
+    given: Aletta
+  - family: Cambridge Core All Books
+  - family: British Ecological Society
+  - family: Cambridge Core EBA eBooks Complete Collection
+  collection-editor:
+  - family: Bonn
+    given: Aletta
+  - family: Allott
+    given: Tim
+  - family: Evans
+    given: Martin
+  - family: Joosten
+    given: Hans
+  - family: Stoneman
+    given: Rob
+  collection-number: Book, Whole
+  DOI: 10.1017/CBO9781139177788
+  ISBN: 1107025184;110761970X;9781107619708;9781107025189;
+  issued: 2016
+  key: QZZKUVVY
+  language: English
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: "Peatland restoration and ecosystem services: science, policy,
+    and practice"
+  type: book
+  URL: "https://go.exlibris.link/dbh0RDyt"
+- id: damman1987
+  author:
+  - family: Damman
+    given: Antoni W. H.
+  issued: 1987
+  key: GPUN4HM4
+  language: English
+  libraryID: 1
+  note: Report
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: "Fish and Wildlife Service, U.S. Dept. of the Interior :
+    U.S. Environmental Protection Agency"
+  publisher-place: District of Columbia
+  title: "The ecology of peat bogs of the glaciated northeastern United
+    States : a community profile / by Antoni W.H. Damman and Thomas W.
+    French"
+  type: report
+  URL: "https://go.exlibris.link/vcXDhL3M"
+- id: edvardsson2016a
+  accessed: "05:07:07"
+  author:
+  - family: Edvardsson
+    given: Johannes
+  - family: Stoffel
+    given: Markus
+  - family: Corona
+    given: Christophe
+  - family: Bragazza
+    given: Luca
+  - family: Leuschner
+    given: Hanns Hubert
+  - family: Charman
+    given: Dan J.
+  - family: Helama
+    given: Samuli
+  container-title: Earth-Science Reviews
+  container-title-short: Earth-Science Reviews
+  DOI: 10.1016/j.earscirev.2016.10.005
+  ISSN: 00128252
+  issued: 2016-12
+  key: 2GLGMTKN
+  language: en
+  libraryID: 1
+  page: 118-140
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Subfossil peatland trees as proxies for Holocene
+    palaeohydrology and palaeoclimate
+  type: article-journal
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/S0012825216303609"
+  volume: 163
+- id: damman1987a
+  author:
+  - family: Damman
+    given: Antoni W. H.
+  issued: 1987
+  key: GPUN4HM4
+  language: English
+  libraryID: 1
+  note: Report
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: "Fish and Wildlife Service, U.S. Dept. of the Interior :
+    U.S. Environmental Protection Agency"
+  publisher-place: District of Columbia
+  title: "The ecology of peat bogs of the glaciated northeastern United
+    States : a community profile / by Antoni W.H. Damman and Thomas W.
+    French"
+  type: report
+  URL: "https://go.exlibris.link/vcXDhL3M"
+- id: rydin2013a
+  accessed: "05:49:20"
+  author:
+  - family: Rydin
+    given: Håkan
+  - family: Jeglum
+    given: John K.
+  DOI: "10.1093/acprof:osobl/9780199602995.001.0001"
+  ISBN: 978-0-19-960299-5
+  issued: 2013-07-18
+  key: YDYJNF9M
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Oxford University Press
+  source: DOI.org (Crossref)
+  title: The Biology of Peatlands
+  type: book
+  URL: "https://academic.oup.com/book/5054"
+- id: bonn2016a
+  author:
+  - family: Bonn
+    given: Aletta
+  - family: Cambridge Core All Books
+  - family: British Ecological Society
+  - family: Cambridge Core EBA eBooks Complete Collection
+  collection-editor:
+  - family: Bonn
+    given: Aletta
+  - family: Allott
+    given: Tim
+  - family: Evans
+    given: Martin
+  - family: Joosten
+    given: Hans
+  - family: Stoneman
+    given: Rob
+  collection-number: Book, Whole
+  DOI: 10.1017/CBO9781139177788
+  ISBN: 1107025184;110761970X;9781107619708;9781107025189;
+  issued: 2016
+  key: QZZKUVVY
+  language: English
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: "Peatland restoration and ecosystem services: science, policy,
+    and practice"
+  type: book
+  URL: "https://go.exlibris.link/dbh0RDyt"
 ...

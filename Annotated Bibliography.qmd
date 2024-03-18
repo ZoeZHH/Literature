@@ -345,10 +345,30 @@ ER (contributed by above ground plant respiration and SR)
 
 However, a range of previous studies have identified mean water-table depth (WTD) as an important influence on the emissions of all three major GHGs, with deeper water tables favouring CO2 and N2O emissions, and shallow water tables favouring CH4 emissions
 
-(Tiemeyer, B. et al. High emissions of greenhouse gases from grasslands on peat and other
-organic soils. Glob. Change Biol. 22, 4134--4149 (2016).; Couwenberg, J. et al. Assessing greenhouse gas emissions from peatlands using vegetation as a
-proxy. Hydrobiologia 674, 67-89 (2011).)
+(Tiemeyer, B. et al. High emissions of greenhouse gases from grasslands on peat and other organic soils. Glob. Change Biol. 22, 4134--4149 (2016).; Couwenberg, J. et al. Assessing greenhouse gas emissions from peatlands using vegetation as a proxy. Hydrobiologia 674, 67-89 (2011).)
 
 Methods: Water-table depths were measured manually at all sites using PVC dipwells using a dip-meter, and then corrected to the distance from the peat surface (data were recorded as positive distance below the surface, with negative values indicating ponding above the peat surface).
 
 At most sites a calibrated water-level sensor (pressure transducer) and integrated logger was also used to record water table depth in at least one dipwell, at a minimum one-hour frequency
+
+## Peat Deposits Store More Carbon than Trees in Forested Peatlands of the Boreal Biome
+
+<https://www.nature.com/articles/s41598-021-82004-x>
+
+Take-away points:
+
+1\) Tree growth rates vary according to the degree of paludification. The diameter at breast height (DBH) values decrease along the transect with the organic layer thickening. Trees from sites CAS0, CAS50 and CAS100 have a mean DBH of 10.0, 9.1 and 5.6 cm, respectively
+
+# **Recent paludification rates and effects on total ecosystem carbon storage in two boreal peatlands of Northeast European Russia**
+
+Objective: This study describes the rates of late-Holocene paludification and the effects of shifting forest to peatland on total ecosystem C storage, including both aboveground phytomass and belowground soil/peat C pools, at two sites in the taiga of Northeast European Russia.
+
+**The relationship between lateral peatland expansion and ecosystem C storage remains largely unexplored.**
+
+**Take-away Points:**
+
+The total ecosystem carbon storage (sum of phytomass, top soil organics or peat, and 30 cm of underlying mineral soil) showed a long-term trend toward increased ecosystem C storage following the replacement of forest (mean value = 20.8 kg C/m^2^, range = 13.0--43.4 kg C/m^2^) by peatland (\>100 kg C/m^2^ in the deepest peat deposits).
+
+Two studies in forested margins of Canadian peatlands suggest a continuous increase in total ecosystem C storage from upland margin to peatland ([Bauer et al., 2009](https://journals.sagepub.com/doi/10.1177/0959683614523803#bibr4-0959683614523803); [Bhatti et al., 2006](https://journals.sagepub.com/doi/10.1177/0959683614523803#bibr6-0959683614523803)).
+
+The transitional stage from forest to peatland leads to a loss of C from the ecosystem, before renewed peat accumulation compensates for the initial phytomass and soil C losses.

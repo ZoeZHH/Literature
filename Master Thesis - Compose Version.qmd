@@ -8,14 +8,96 @@ number-sections: true
 bibliography: references.yaml
 ---
 
-## Burns Bog
+Others:
 
-### Vegetation
+Peatlands cover an estimated 24% of the boreal region, and boreal peatlands represent 80% of the world's peatlands ([Wieder et al., 2006](https://journals.sagepub.com/doi/10.1177/0959683614523803#bibr45-0959683614523803)).
 
-### Drainage
+## Introduction
 
-### Disturbances
+Peatlands are significant terrestrial stocks of C, which encompass 3% of the world's land area but storing more than 30% of Earth's soil carbon in the form of peat [@gorham1991; @topcuoglu2018].
+
+### Peatlands Ecosystem Components
+
+#### Peatland Classification
+
+Northern peatlands are commonly classified as fens and bogs based on water sources and chemistry, peat and vegetation composition [@bonn2016; @damman1987; @edvardsson2016a]. Fens receive their nutrients and water from groundwater influx and atmospheric deposition, leading to higher pH levels and nutrient availability. Conversely, bogs are primarily sustained by precipitation, leading to more acidic conditions and lower nutrient concentrations [@bonn2016; @damman1987; @rydin2013]. Compared to fens, bogs are more efficient at storing C, attributable to slower decomposition rates stemming from their limited nutrient content and reliance on precipitation for water input [@bonn2016]. The geochemical distinctions between fens and bogs lead to distinct plant compositions: fens mainly host vascular plants, like sedges, and brown mosses from the Amblystegiaceae family, while bogs are primarily occupied by peat mosses from the Sphagnaceae family with fewer vascular plants [@rydin2013].
+
+**Check -** Bogs comprise two layers: a porous, less decomposed surface layer called the acrotelm, and a saturated, more decomposed deeper layer called the catotelm. This two-layer structure regulates the movement and storage of water and nutrients in the bog (Nungesser, 2003). During precipitation, the water table rises, and water starts to flow laterally and can flood the peat surface. During moisture deficits, water levels drop, and little to no water moves from the saturated underlying catotelm to the upper acrotelm due to the low hydraulic conductivity of peat (Nungesser, 2003).
+
+#### Bog Vegetation
+
+**(need evidence of sphagnum grow a lot in bog and it can compete out other plants)** The acidic and low-nutrient environment in bogs provides the ideal conditions for Sphagnum moss to grow, which is the primary peat-forming vegetation in bogs. Sphagnum moss, characterized by its hanging branches around the stem, possesses an efficient capillary network that functions like a wick to draw water upward, facilitating hydration above the water table level. Additionally, the moss's unique anatomy, which includes dead hyaline cells in the leaves and stem cortex, allows for considerable water storage, predominantly between the leaves. Together, these mechanisms contribute to the waterlogged conditions conducive to peat accumulation.
+
+**Check -** Other common bog plant groups include ericaceous shrubs, herbs and mosses. Ericaceous shrubs are a type of heath vegetation specially adapted to live in acidic conditions. Herb species are generally less tolerant of low nutrient environments and in peatlands there is a low diversity of herbs. Moss species other than Sphagnum usually first colonize bare peat stabilizing the ground, moderating ground temperature and nutrients thus making the environment hospitable for Sphagnum moss establishment
+
+#### Peat and Peat Processes
+
+Peatlands are wetlands ecosystems with the presence of naturally accumulated peat layers (at least 30-40 cm thick) at the surface [@frolking2011]. Peat is an organic material composed the incomplete and partially decomposed plant and animal material. In an undisturbed peatland, peat is composed of 88-97% water, 2-10% dry matter and 1-7% gases.
+
+Peat formation is a slow geologic process where partially decomposed plant material accumulates in waterlogged conditions. The high water content creates an anaerobic environment, limiting the activity of decomposing microorganisms and thus slowing down decomposition. This leads to the accumulation of organic matter, primarily from mosses like Sphagnum, along with other vegetation and sometimes animal material. Over time, layers of this organic matter compress and form peat, which is rich in carbon and can vary in depth. Peatlands, as a result, become significant carbon sinks, contributing to long-term carbon sequestration and playing a vital role in the global carbon cycle [@peatland2016]. Northern peatlands have been documented to accumulate peat at a rate of 1 mm/year.
+
+Peat is a highly concentrated stockpile of C that forms and accumulates due to the slow decay of organic matter caused by the anaerobic and waterlogged environment that characterizes these ecosystems [@peatland2016].
+
+#### Microtopography
+
+#### Bog Hydrology
+
+### The Carbon Cycle in Peatlands
+
+#### Land-atmosphere Exchanges of Carbon Fluxes
+
+@chapin2006 proposed the term 'Net Ecosystem Carbon Balance' (NECB) to describe the overall carbon (C) balance in ecosystems from all sources, which represents the net rate of carbon accumulation in ecosystems. NECB includes carbon pathways between terrestrial and atmospheric systems, terrestrial and aquatic systems and particulate transport. In most peatlands, NECB can be simplified to encompass three main components: the Net Ecosystem Exchange/FCO2 (the net CO2 flux between terrestrial ecosystems and the atmosphere), FCH4 (the net CH4 flux between terrestrial ecosystems and the atmosphere), and FDOC (net dissolved organic carbon) [@strack2013; @dacunha2019]. The land-atmosphere exchange of carbon fluxes, defined solely with carbon pathways between terrestrial and atmospheric systems, includes two key components of the NECB in peatlands: FCO2 and FCH4.
+
+The land-atmosphere exchanges of carbon fluxes in peatlands can be described using the acrotelm-catotelm model (Figure 1). The balance between photosynthesis, respiration and diffusion mainly represents the net F~CO2~ between the bog and the atmosphere. Autotrophic organisms convert CO~2~ from the atmosphere into chemical energy through photosynthesis. CO~2~ is released from ecosystems by ecosystem respiration and diffusion. Ecosystem respiration (Reco) encompasses both above- and below-ground autotrophic and heterotrophic respiration (Ra and Rh, respectively) [@dorrepaal2009a; @hermle2010; @järveoja2020; @poczta2023]. Ra represents the carbon dioxide released during the metabolic processes of photosynthetic organisms. Rh refers to carbon losses due to the decomposition of litter, detritus, and soil organic matter by microorganisms [@rankin2023]. The processes of Ra and Rh in bogs are characterized by the consumption of organic matter and oxygen, yielding energy, water, and carbon dioxide as byproducts. In addition to this partitioning, Reco can also be conceptualized as the sum of soil respiration (Rs) and aboveground plant respiration (Rp) [@luo2006; @tiwari2021a]. Rs accounts for both autotrophic respiration by root and root-associated microbes and heterotrophic respiration by free-living soil microbes that decompose plant litter and stored SOC. Rp represents respiration by above-ground biomass. The CO~2~ produced by methanotrophy, the oxidation of CH~4~ by methanotrophs, diffused into the atmosphere [@bridgham2013]. The F~CO2~ (NEE) represents the difference between Reco and Gross primary productivity by photosynthesis (GPP) between the bog and atmosphere. Negative NEE values indicate a carbon sink peatland, which takes up more CO~2~ from the atmosphere and accumulates in terrestrial ecosystems.
+
+F~CH4~ from peatlands are the net balance of CH~4~ production (methanogenesis) in the saturated zones of the peat and its subsequent release to the atmosphere through diffusion, ebullition, and plant-mediated transport [@bridgham2013; @white2008]. CH~4~ is made in the saturated zone of peat soils by methanogenic microbes. There are two primary pathways for methanogenesis in wetlands: acetoclastic and hydrogenotrophic methanogenesis [@bridgham2013]. Acetoclastic methanogens utilize acetate as their primary electron acceptor during the methanogenesis process. Hydrogenotrophic methanogens rely on the utilization of hydrogen (H~2~) and CO~2~ as substrates for methanogenesis [@fenchel2012]. Ombrotrophic Bogs tend to be generally dominated by hydrogenotrophic methanogenesis [@bridgham2013]. F~CH4~ is emitted to the atmosphere through three main pathways: diffusion (driven by CH~4~ concentration gradients from the peat to the atmosphere), ebullition (gas bubbles released from saturated peat), and plants-mediated transport (through aerenchyma, the plants' internal gas-space ventilation system) [@holden2005].
+
+![Figure 1. A representation of land-atmosphere carbon fluxes cycle in peatland. Modified from [@holden2005] and [@lloyd2013].](images/Screen%20Shot%202023-12-30%20at%205.40.09%20PM.png){fig-align="center"}
+
+#### Biophysical Controls of Reco and F~CH4~
+
+There are two categories of factors that influence the carbon fluxes: abiotic (peat tempearure, light, water availability) and biotic factors (vegetation communities and phenology). Reco is closely associated with surface soil temperature (Ts) and water table depth (WTD). Extensive research indicates a positive correlation between Ts and Reco [@järveoja2018; @lloyd1994; @wang2014]. Ts explains 43-74% of daily Reco variability, with WTD accounting for an additional 5-20% [@bubier1998a]. WTD regulates the aerobic zone's depth in peat soil profiles, where a lower water table and thicker aerobic zone can increase carbon mineralization rates [@blodau2004; @frolking2011]. WTD's impact on Reco is more significant on seasonal scales [@bubier1998a].
+
+Water table depth was shown to have an interactive effect on the response of fluxes to increased temperatures ([Moore and Dalva 1993](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref157); [Turetsky et al. 2008](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref251)).
+
+WTD, Ts, peat acidity and vegetation communities are key factors influencing F~CH4~. Generally, deeper WTDs are associated with lower F~CH4~ due to a reduction in the depth of the methane production layer and an increase in the thickness of the methane oxidation layer [@lai2009; @whalen2005; @blodau2004b]. Over the long term, WTD strongly influences vegetation composition [@bubier2005]. Vegetation is a crucial factor in determining F~CH4~ from peatlands. The presence and type of vegetation influence CH~4~ production by providing organic substrates like root exudates and plant litter [@bridgham2013c]. Aerenchymatous peatland plants with developed deep roots that penetrate anoxic peat, increasing methane production via root exudation and its transport through root pathways [@lai2009a]. Ts is another significant driver of F~CH4~ through its influence on metabolic processes, with methanogenesis most efficient at peat temperatures ranging from 20 to 40 ℃ [@whalen2005a]. Consistent findings from both field and laboratory research indicate that higher peat temperatures (Ts) generally correlate with increased F~CH4~ [@turetsky2008]~.~
+
+The temperature coefficients, known as Q10 values, represent the factor by which a reaction rate increases for every 10℃ rise in temperature. These coefficients are commonly utilized to evaluate how sensitive microbial processes are to fluctuations in temperature.
+
+### The Impacts of Fires on Peatlands
+
+Under a warming climate, peatlands are facing increased frequency and extent of peat fires, which can turn peatlands from net C sinks to net sources (Turetsky et al., 2015; Waddington et al., 2015).
+
+### Types of Peat Fires
+
+Pyrolysis, the precursor reaction to combustion, is defined as the chemical decomposition of solid organic material (biomass), occurring upon heating in an oxygen-limited environment (Chemical Equations shown in Figure 2). The resulting combustion type, whether flaming or smouldering, is determined by the specific pyrolysis product that oxidizes [@hadden2013]. In flaming combustion, a flame represents a thin layer of gas where the combustion of pyrolysate takes place, yielding high-temperature gaseous and particulate products. In contrast, smouldering combustion involves the in-situ oxidation of char, a flameless, slow-moving, and persistent process [@rein2013]. This type of combustion can persist beneath the ground surface in wet conditions for extended periods, making it challenging to extinguish [@peatland2016]. Compared to flaming combustion, smouldering more severely affects soil properties and microorganisms. In burned peat, smouldering combustion releases over 90% of organic content as gas emissions, primarily CO~2~, resulting in a void and a thin ash layer. Furthermore, smouldering's extended duration enables deeper soil heat penetration, unlike the impact of quick-moving surface flaming fires [@hartford1992; @hadden2013; @rein2013].
+
+Peat fires, in comparison to other flaming wildland fires, are more damaging because they dominated by smouldering combustion [@cheazmi2021a; @frandsen1997]. In typical peat fires, flaming combustion harms above-ground ecosystems by scorching trees and consuming ground-cover vegetation, while smouldering combustion extensively burns the peat, resulting in significant loss of organic soil [@rein2008; @rein2013]. In pristine peatlands, where water availability is higher, most of the peat stock remains protected from pyrolysis and subsequent combustion. However, factors such as drainage and climate change are increasing the susceptibility of peatlands to fire [@cheazmi2021; @landuse2000].
+
+![Figure 2. Snapshot showing the flaming and smouldering combustion. Modified from \[\@rein2009\]and \[\@rein2013\].](images/Screen%20Shot%202024-01-09%20at%203.18.12%20PM-02.png){fig-align="center" width="404"}
+
+### Impacts of Peat Fires
+
+Fires significantly affect carbon (C) cycling in peatlands, resulting in substantial releases of carbon to the atmosphere as CO2 (Bonn et al., 2016). The impact of fires on peatland carbon cycles can be assessed by examining both the combustion phase impacts and the subsequent near-term and long-term consequences (Zoltai et al., 1998). During peat fires, both the flaming and smouldering phases contribute to the carbon release. Flaming combustion primarily impacts surface vegetation, while smouldering combustion burns deeper peat layers, directly emitting stored carbon as CO2 (Zoltai et al., 1998). Recent studies suggest that peat fire emissions account for approximately 15% of anthropogenic carbon emissions (Poulter, 2006). With an average combustion rate of 2.4 kg C per square meter in peat fires, this equates to the carbon stored over 100 to 140 years (Turetsky et al., 2011a; Benscoter and Wieder, 2003; Turetsky and Weider, 2001). In the near-term postburn phase, carbon losses are seen due to the destruction of peatland vegetation and increased rates of peat decomposition, a result of elevated peat temperatures and nutrient availability (Zoltai et al., 1998) (Wieder et al., 2009).
+
+Peat fires may lead to either positive or negative feedback responses in relation to the post-fire hydrological conditions of the peatland. If peatlands are undrained or well-connected to groundwater sources, the post-fire water tables may remain stable at levels similar to those before the fire, promoting recovery and moss regeneration [@kettridge2015; @lukenbach2017]. Conversely, in peatlands that are not well-connected to groundwater sources or have been drained, peat fires can result in a lowered and more fluctuating water table in the subsequent years [@lukenbach2017; @sherwood2013; @thompson2013]. Such lowered water tables, along with increased fluctuations, can trigger a shift in vegetation composition, leading to the disappearance of Sphagnum moss and the emergence of taller shrubs and trees [@howie2020; @bönsel2011]. @kettridge2015 quantified the post-wildfire recovery of a northern peatland subjected to decades of drainage and found that the combined impact of moderate drainage and wildfire transformed the low-productivity, moss-dominated peatland into a non-carbon accumulating shrub-grass ecosystem. These ecosystem shifts can further alter the peatland's ecohydrological structure and function, impacting GHG fluxes [@wilkinson2018].  
 
 ### Restoration
 
-### Carbon Fluxes
+### Burns Bog
+
+#### Vegetation
+
+#### Drainage
+
+#### Disturbances and Restoration
+
+#### Carbon Fluxes
+
+### Research Objectives
+
+The overall goal of this study is to investigate how seedling removal as a postfire management impacts soil GHG fluxes and whether this strategy can help promote soil C sequestration following peat fires. This research aims to improve our understanding of C cycling in peatlands following fire, and how post-fire management strategies can enhance C sequestration. Peat fires lead to drier soil conditions, which in turn promote seed germination and seedling growth. The increase in tree cover is expected to result in lower WTD and subsequently higher Reco, but lower CH4 emissions. In this study, I aim to test the hypothesis (Figure 4): that the removal of seedlings can help restore the ecosystem by increasing the volumetric water content and raising the water table, thereby lowering Reco and increasing CH4 emissions.
+
+To investigate this hypothesis, the study will compare manual measurements of soil and near-surface respiration fluxes (CO2 & CH4) and environmental variables (WTD and Ts) between seedling and non-seedling treatments in three ecosystem types in the 2016 Burned Zone in the BBECA to assess impacts of seedling removal onReco and methane fluxes (FCH4). Also, year-round Reco & FCH4 at each study site will be modelled based on manual measurements of fluxes and continuous measurements of environmental variables (WTD and Ts ).  
+
+Here we focus on respiration fluxes for two main reasons: 1) respiration represents a crucial C pathway in peatland ecosystems, and 2) our aim is to examine the effects of seedling removal on peatland soil fluxes. Consequently, examining aboveground productivity may not yield accurate insights into the desired research question, since while the growth of seedlings can potentially increase GPP, this may not result in enhanced soil C sequestration. By concentrating on respiration fluxes, we can better understand the impacts of seedling removal on soil C dynamics within the peatland. 

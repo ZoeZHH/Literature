@@ -1,0 +1,859 @@
+---
+title: Investigating Impacts of Seedling Removal on Soil and Ground-level Vegetation Respiration (CO2 and CH4) in a Restored Peatland Ecosystem
+format: docx
+editor: visual
+author: Hehan (Zoe) Zhang
+toc: true
+number-sections: true
+bibliography: references.yaml
+---
+
+# Introduction
+
+The drop in water table position triggers a shift in vegetation composition for most northern regions [@kettridge2015b]. @howie2020b investigated the relationship between plant community types and calculated moisture deficits across 67 BBECA study sites, revealing that lower water tables are associated with higher moisture deficits, leading to the absence of Sphagnum and the presence of taller shrubs and trees. Another 15-year study on examining changes in water level and vegetation in a restored German bog noted a comparable trend: increased water table levels resulted in reduced tree cover and enhanced Sphagnum growth [@bönsel2011b].
+
+(<https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2486.2008.01756.x?saml_referrer>) Description of burned areas: Fires burn the needles and lichen-covered branches of black spruce trees, leaving behind standing dead boles. Aboveground vas-cular vegetation, almost exclusively ericaceous shrubsin Alberta bogs (mostlyLedum groenlandicumwith someChamaedaphne calyculataat our sites; Table 1), also burnsuch that after fire the leafless scattered main branchesof shrubs that remain are extensively burned or charred.
+
+**Postfire vegetation changes appear to play a major role in driving the course of postfire C balance.**
+
+(Metrovancouver, 2007):
+
+-   If water level fall, the composition of these remaining bog communities will change. Peat-forming species will recede and species adapted to drier conditions in advance. The drier growing conditions support the establishment of woody shrubs and trees like short shrubs -\> woody plants grow, transpiration rates increase significantly -\> the overall water loss from the bog increases
+
+-   Low water table conditions support the broader establishment of woody shrubs and trees, like shore Pine. As water level rises, the growth and spread of Pines will likely moderate and be controlled
+
+-   Pine communities have extensive well-established root systems that will likely compromise the re-establishment of peat-forming plant communities
+
+Wildfire:
+
+-   Destroy the peat-forming plant communities at the surface of the bog and take decades to recover
+
+-   Wildfires release unwanted nutrients into the nutrient-poor bog environment
+
+-   Wildfires threaten wildlife, people and the properties surrounding the Bog, and impact air quality for the residents of the Region
+
+## Peatlands and Vegetation
+
+The ecophysiological traits of *Sphagnum* mosses that carpet most peatland surfaces lead to an array of negative feedbacks^[3](https://www.nature.com/articles/srep08063#ref-CR3 "Waddington, J. M. et al. Hydrological feedbacks in northern peatlands. Ecohydrol; 10.1002/eco.1493 (2014).")^ that have enabled peatlands to persist for millennia.
+
+## The Carbon Cycle in Peatlands
+
+Peatlands are wetland ecosystems with naturally accumulated peat layers (at least 30-40 cm thick) at the surface [@frolking2011]. Peat is a highly concentrated stockpile of C that forms and accumulates due to the slow decay of organic matter caused by the anaerobic and waterlogged environment that characterizes these ecosystems [@peatland2016]. As such, peatlands are significant terrestrial stocks of C, storing more than 30% of Earth's soil carbon despite only covering 3% of the world's land area [@gorham1991; @topcuoglu2018].
+
+### Land-atmosphere Exchanges of Carbon Fluxes
+
+@chapin2006 proposed the term 'Net Ecosystem Carbon Balance' (NECB) to describe the overall carbon (C) balance in ecosystems from all sources, which represents the net rate of carbon accumulation in ecosystems. NECB includes carbon pathways between terrestrial and atmospheric systems, terrestrial and aquatic systems and particulate transport. In most peatlands, NECB can be simplified to encompass three main components: the Net Ecosystem Exchange/FCO2 (the net CO2 flux between terrestrial ecosystems and the atmosphere), FCH4 (the net CH4 flux between terrestrial ecosystems and the atmosphere), and FDOC (net dissolved organic carbon) [@strack2013; @dacunha2019]. The land-atmosphere exchange of carbon fluxes, defined solely with carbon pathways between terrestrial and atmospheric systems, includes two key components of the NECB in peatlands: FCO2 and FCH4.
+
+The land-atmosphere exchanges of carbon fluxes in peatlands can be described using the acrotelm-catotelm model (Figure 1). The balance between photosynthesis, respiration and diffusion mainly represents the net F~CO2~ between the bog and the atmosphere. Autotrophic organisms convert CO~2~ from the atmosphere into chemical energy through photosynthesis. CO~2~ is released from ecosystems by ecosystem respiration and diffusion. Ecosystem respiration (Reco) encompasses both above- and below-ground autotrophic and heterotrophic respiration (Ra and Rh, respectively) [@dorrepaal2009a; @hermle2010; @järveoja2020; @poczta2023]. Ra represents the carbon dioxide released during the metabolic processes of photosynthetic organisms. Rh refers to carbon losses due to the decomposition of litter, detritus, and soil organic matter by microorganisms [@rankin2023]. The processes of Ra and Rh in bogs are characterized by the consumption of organic matter and oxygen, yielding energy, water, and carbon dioxide as byproducts. In addition to this partitioning, Reco can also be conceptualized as the sum of soil respiration (Rs) and aboveground plant respiration (Rp) [@luo2006; @tiwari2021a]. Rs accounts for both autotrophic respiration by root and root-associated microbes and heterotrophic respiration by free-living soil microbes that decompose plant litter and stored SOC. Rp represents respiration by above-ground biomass. The CO~2~ produced by methanotrophy, the oxidation of CH~4~ by methanotrophs, diffused into the atmosphere [@bridgham2013]. The F~CO2~ (NEE) represents the difference between Reco and Gross primary productivity by photosynthesis (GPP) between the bog and atmosphere. Negative NEE values indicate a carbon sink peatland, which takes up more CO~2~ from the atmosphere and accumulates in terrestrial ecosystems.
+
+F~CH4~ from peatlands are the net balance of CH~4~ production (methanogenesis) in the saturated zones of the peat and its subsequent release to the atmosphere through diffusion, ebullition, and plant-mediated transport [@bridgham2013; @white2008]. CH~4~ is made in the saturated zone of peat soils by methanogenic microbes. There are two primary pathways for methanogenesis in wetlands: acetoclastic and hydrogenotrophic methanogenesis [@bridgham2013]. Acetoclastic methanogens utilize acetate as their primary electron acceptor during the methanogenesis process. Hydrogenotrophic methanogens rely on the utilization of hydrogen (H~2~) and CO~2~ as substrates for methanogenesis [@fenchel2012]. Ombrotrophic Bogs tend to be generally dominated by hydrogenotrophic methanogenesis [@bridgham2013]. F~CH4~ is emitted to the atmosphere through three main pathways: diffusion (driven by CH~4~ concentration gradients from the peat to the atmosphere), ebullition (gas bubbles released from saturated peat), and plants-mediated transport (through aerenchyma, the plants' internal gas-space ventilation system) [@holden2005].
+
+![Figure 1. A representation of land-atmosphere carbon fluxes cycle in peatland. Modified from [@holden2005a] and [@lloyd2013].](images/Screen%20Shot%202023-12-30%20at%205.40.09%20PM.png){fig-align="center"}
+
+### Biophysical Controls of Reco and F~CH4~
+
+There are two categories of factors that influence the carbon fluxes: abiotic (peat tempearure, light, water availability) and biotic factors (vegetation communities and phenology). Reco is closely associated with surface soil temperature (Ts) and water table depth (WTD). Extensive research indicates a positive correlation between Ts and Reco [@järveoja2018; @lloyd1994; @wang2014]. Ts explains 43-74% of daily Reco variability, with WTD accounting for an additional 5-20% [@bubier1998a]. WTD regulates the aerobic zone's depth in peat soil profiles, where a lower water table and thicker aerobic zone can increase carbon mineralization rates [@blodau2004; @frolking2011]. WTD's impact on Reco is more significant on seasonal scales [@bubier1998a].
+
+Water table depth was shown to have an interactive effect on the response of fluxes to increased temperatures ([Moore and Dalva 1993](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref157); [Turetsky et al. 2008](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref251)).
+
+WTD, Ts, peat acidity and vegetation communities are key factors influencing F~CH4~. Generally, deeper WTDs are associated with lower F~CH4~ due to a reduction in the depth of the methane production layer and an increase in the thickness of the methane oxidation layer [@lai2009; @whalen2005; @blodau2004b]. Over the long term, WTD strongly influences vegetation composition [@bubier2005]. Vegetation is a crucial factor in determining F~CH4~ from peatlands. The presence and type of vegetation influence CH~4~ production by providing organic substrates like root exudates and plant litter [@bridgham2013c]. Aerenchymatous peatland plants with developed deep roots that penetrate anoxic peat, increasing methane production via root exudation and its transport through root pathways [@lai2009a]. Ts is another significant driver of F~CH4~ through its influence on metabolic processes, with methanogenesis most efficient at peat temperatures ranging from 20 to 40 ℃ [@whalen2005a]. Consistent findings from both field and laboratory research indicate that higher peat temperatures (Ts) generally correlate with increased F~CH4~ [@turetsky2008]~.~
+
+The temperature coefficients, known as Q10 values, represent the factor by which a reaction rate increases for every 10℃ rise in temperature. These coefficients are commonly utilized to evaluate how sensitive microbial processes are to fluctuations in temperature.
+
+## The Impacts of Fires on Peatlands
+
+Under a warming climate, peatlands are facing increased frequency and extent of peat fires, which can turn peatlands from net C sinks to net sources (Turetsky et al., 2015; Waddington et al., 2015).
+
+### Types of Peat Fires
+
+Pyrolysis, the precursor reaction to combustion, is defined as the chemical decomposition of solid organic material (biomass), occurring upon heating in an oxygen-limited environment (Chemical Equations shown in Figure 2). The resulting combustion type, whether flaming or smouldering, is determined by the specific pyrolysis product that oxidizes [@hadden2013]. In flaming combustion, a flame represents a thin layer of gas where the combustion of pyrolysate takes place, yielding high-temperature gaseous and particulate products. In contrast, smouldering combustion involves the in-situ oxidation of char, a flameless, slow-moving, and persistent process [@rein2013]. This type of combustion can persist beneath the ground surface in wet conditions for extended periods, making it challenging to extinguish [@peatland2016]. Compared to flaming combustion, smouldering more severely affects soil properties and microorganisms. In burned peat, smouldering combustion releases over 90% of organic content as gas emissions, primarily CO~2~, resulting in a void and a thin ash layer. Furthermore, smouldering's extended duration enables deeper soil heat penetration, unlike the impact of quick-moving surface flaming fires [@hartford1992; @hadden2013; @rein2013].
+
+Peat fires, in comparison to other flaming wildland fires, are more damaging because they dominated by smouldering combustion [@cheazmi2021a; @frandsen1997]. In typical peat fires, flaming combustion harms above-ground ecosystems by scorching trees and consuming ground-cover vegetation, while smouldering combustion extensively burns the peat, resulting in significant loss of organic soil [@rein2008; @rein2013]. In pristine peatlands, where water availability is higher, most of the peat stock remains protected from pyrolysis and subsequent combustion. However, factors such as drainage and climate change are increasing the susceptibility of peatlands to fire [@cheazmi2021; @landuse2000].
+
+![Figure 2. Snapshot showing the flaming and smouldering combustion. Modified from [@rein2009]and [@rein2013].](images/Screen%20Shot%202024-01-09%20at%203.18.12%20PM-02.png){fig-align="center" width="404"}
+
+### Impacts of Peat Fires
+
+Fires significantly affect carbon (C) cycling in peatlands, resulting in substantial releases of carbon to the atmosphere as CO2 (Bonn et al., 2016). The impact of fires on peatland carbon cycles can be assessed by examining both the combustion phase impacts and the subsequent near-term and long-term consequences (Zoltai et al., 1998). During peat fires, both the flaming and smouldering phases contribute to the carbon release. Flaming combustion primarily impacts surface vegetation, while smouldering combustion burns deeper peat layers, directly emitting stored carbon as CO2 (Zoltai et al., 1998). Recent studies suggest that peat fire emissions account for approximately 15% of anthropogenic carbon emissions (Poulter, 2006). With an average combustion rate of 2.4 kg C per square meter in peat fires, this equates to the carbon stored over 100 to 140 years (Turetsky et al., 2011a; Benscoter and Wieder, 2003; Turetsky and Weider, 2001). In the near-term postburn phase, carbon losses are seen due to the destruction of peatland vegetation and increased rates of peat decomposition, a result of elevated peat temperatures and nutrient availability (Zoltai et al., 1998) (Wieder et al., 2009).
+
+Peat fires may lead to either positive or negative feedback responses in relation to the post-fire hydrological conditions of the peatland. If peatlands are undrained or well-connected to groundwater sources, the post-fire water tables may remain stable at levels similar to those before the fire, promoting recovery and moss regeneration [@kettridge2015; @lukenbach2017]. Conversely, in peatlands that are not well-connected to groundwater sources or have been drained, peat fires can result in a lowered and more fluctuating water table in the subsequent years [@lukenbach2017; @sherwood2013; @thompson2013]. Such lowered water tables, along with increased fluctuations, can trigger a shift in vegetation composition, leading to the disappearance of Sphagnum moss and the emergence of taller shrubs and trees [@howie2020; @bönsel2011]. @kettridge2015 quantified the post-wildfire recovery of a northern peatland subjected to decades of drainage and found that the combined impact of moderate drainage and wildfire transformed the low-productivity, moss-dominated peatland into a non-carbon accumulating shrub-grass ecosystem. These ecosystem shifts can further alter the peatland's ecohydrological structure and function, impacting GHG fluxes [@wilkinson2018].  
+
+## Current Study
+
+### Burned Zone and Knowledge Gaps
+
+Burns Bog is a raised ombrotrophic bog ecosystem located in the Fraser River delta between the south arm of the Fraser River and Boundary Bay. The Burns Bog Ecological Conservancy Area (BBECA) was established in 2004 to maintain the largest remaining undisturbed area and restore disturbed locations to a raised bog. Since the 2000s, BBECA has experienced two significant wildfires, occurring in 2005 and 2016, respectively. Post-fire observations indicated an increased density of lodge pole pine seedlings in the burned zones. It is hypothesized that effective postfire management, specifically the removal of these seedlings, is crucial for protecting the carbon sequestration capabilities of peatlands by preventing their transition into forest-like ecosystems. Danyluk (2012) researched on the 2005 burned zone of BBECA demonstrated that removing pine seedlings positively impacts bog hydrology and plant communities, enhancing soil moisture, water levels, and the health of the moss stratum. However, the impacts of seedlings and their removal on greenhouse gas (GHG) fluxes in burned peatlands remain poorly understood. This study aims to build on Danyluk's findings by investigating how seedling removal as a postfire management technique affects soil GHG fluxes and whether this strategy aids in promoting soil carbon sequestration after peat fires. The research focuses on deepening our understanding of carbon cycling in peatlands following fires and exploring how post-fire management strategies might bolster carbon sequestration.
+
+### Research Objectives
+
+In this study, we aim to test the hypothesis: that the removal of seedlings can help restore the ecosystem by increasing the volumetric water content and raising the water table, thereby lowering Reco and increasing CH4 emissions.
+
+With the hypothesis, the specific research objectives:
+
+1\) compare manual measurements of soil and near-surface respiration fluxes (CO2 & CH4) and environmental variables (WTD and Ts) between seedling and non-seedling treatments in three ecosystem types in the 2016 Burned Zone in the BBECA to assess impacts of seedling removal onReco and methane fluxes (FCH4)\
+
+# Methods
+
+## Study Area Details
+
+### Burns Bog and The Burns Bog Ecological Conservancy Area (BBECA)
+
+Burns Bog is a raised ombrotrophic bog ecosystem located in the Fraser River delta between the south arm of the Fraser River and Boundary Bay. Prior to the late 1800s, the bog covered approximately 48 km^2^ [@hebda2000]. From mid 1800s to late 1900s, development activities like agriculture, peat mining, industry, and landfills had impacted 40% of the bog [@hebda2000]. Ditches were widely used to lower water levels, creating drier conditions needed for these activities, which accelerated the peat decomposition rates, and resulted in irreversible changes in bog hydrology, ecology, and structure [@mires:p1993]. In 2004, the local governments partnered with federal and provincial governments to purchase a large portion (approximately 20 km^2^) of the bog to establish the Burns Bog Ecological Conservancy Area (BBECA), which includes 14 km^2^ of the previously disturbed wetland ecosystem plus 6 km^2^ of the undisturbed ecosystem [@metrovancouver2007].  The primary objective of the BBECA is to conserve and restore ecosystem functioning of this large coastal raised bog through management and restoration activities such as ditch blocking [@metrovancouver2007]. 
+
+#### Ecosystem Types
+
+Burns Bog is a highly heterogeneous environment with 22 distinct ecosystem types, including 9 shrub-dominated ecosystems, 7 forested ecosystems, and 6 sparsely non-vegetated or human-modified ecosystems [@hebda2000]. The widespread plant communities are dominated by Sphagnum mosses, lodgepole pine, Labrador tea (Ledum groenlandicum), bog cranberry, bog blueberry (Vaccinium uliginosum), and salal (Gaultheria shallon). Notably, the ecosystem types containing Lodgepole Pine-Sphagnum (PS) stands are predominant, covering about 45% of the bog area. These are further subdivided into three specific sub-ecosystems: Pine Sphagnum Low Shrub (PSLS), Pine Sphagnum Tall Shrub (PSTS), and Pine Sphagnum Woodland (PSW), each distinguished by their unique characteristics.
+
+PSLS is marked by abundant bog blueberry and Labrador tea, with shrubby heath species and large hummocks of common red Sphagnum. This ecosystem is crucial for peat formation and closely mirrors the bog's original vegetation. PSTS, in contrast, features taller pines forming a canopy over dense, tall Labrador tea and bog blueberry, with fewer open heath species and more prominence of velvet-leaf blueberry and salal. It includes mixed stands with birches in disturbed areas. PSW is characterized by a dense canopy of lodgepole pine, western hemlock, and birches, illustrating its ecological succession towards a forested stage. Beneath this canopy, salal and Labrador tea dominate the understory, complemented by a diverse ground layer of mosses, including step moss and red-stemmed feather moss.
+
+#### Burned Zones
+
+The bog is highly sensitive to fire and experienced two wildfires since 2000, which occurred in 2005 and 2016. On September 11, 2005, a large fire broke out in the southeastern portion of the bog. The fire burned for ten days and consumed approximately 205 ha, almost 10% of the BBECA [@howie2020c]. The fire resulted in the incineration of up to 50 cm of the surface peat, lowering the bog surface elevation in those areas [@howie2020c]. Sphagnum  carpets were incinerated, and the area was subjected to massive seed releases from decades of accumulation of lodgepole pinecones. Densities of pine tree seedlings reached up to \~20,000 stems/ha just six years after the fire. The post-fire vegetation communities became tree-dominated, mainly comprising native and non-native tree species (e.g., Lodgepole pine and Silver birch, respectively) [@howie2020c]. 
+
+Another fire broke out in the north-western portion of the bog at the base of one of the Corus Entertainment radio towers on July 3, 2016. By July 11, the fire had been fully contained, but it had consumed up to 78 hectares of the bog area [@howie2020c]. The fire swept over the surface of the bog quickly so that the surface elevation didn't drop as significantly as in the 2005 fire [@howie2020c]. Consistent with observations from the 2005 burned zone, the 2016 burned zone also exhibited a notable increase in the density of pine tree seedlings following the fire event.
+
+## Measurement Sites, Instrumentation and Data Processing
+
+### Project I - Greenhouse Gas Flux Across Diverse Bog Vegetation Types in Three Study Sites
+
+Fluxes of greenhouse gases were measured using static chamber and gas chromatography techniques.
+
+#### Measurement Sites and Chamber Set-up
+
+Nine sites from the BBECA were chosen for GHG flux measurements. Three study zones include one unburned (control) zone and two burned zones (2005 and 2016). Each zone includes areas that were classified into three ecosystem types: PSLS, PSTS and PSW. Four cylindrical Polyvinylchloride (PVC) collars were installed in each of the nine chamber sites. Collars were distributed in a square or straight line to gain more spatial coverage. Soil cover within the collars included small ground vegetation or grasses but no tall grasses or trees.
+
+Chambers were designed following the methodology of @terry1981. Briefly, each chamber comprises two main components: the collar and the cover. Cylindrical collars, approximately 0.2m in height, were fashioned from an 8-feet PVC pipe (0.203 m internal diameter, yielding a surface area of 0.0323 m²). One side of each collar was chamfered to facilitate easier insertion into the soil. These chamfered collars were then embedded into the soil to a depth ranging from 0.05 to 0.15 m, 14 days prior to the flux measurements. They will remain in place for the duration of the study. Care was taken to minimize soil and plant disturbance during the installation process, using a sharp knife to trim the roots of mosses or small shrubs as necessary. The covers, made of transparent Plexiglas, are circular in shape and each is equipped with a vent tube and a silicone rubber septum at the top. Additionally, each cover incorporates a small fan on the underside and a 9-V battery secured at the top. A circular rubber seal ensures a tight fit between each cover and its corresponding collar.
+
+#### Manual Measurements
+
+CO~2~, CH~4~, and N~2~O fluxes were measured using transparent covers' chambers to measure the net ecosystem exchange (NEE, i.e., ecosystem respiration minus gross ecosystem photosynthesis) over a period of 30 minutes following a procedure described by @jassal2011. Transparent lids covered collars with fan batteries plugged in for each sampling cycle. Five 12 ml chamber air samples were manually extracted using a syringe at 0, 5, 10, 20, and 30 minutes after chamber lid deployment. The samples were immediately injected into evacuated 12 ml vials (Exetainers®, Labco Ltd., Buckinghamshire, UK). Vials were stored upside down to prevent gas leakage before analysis in the laboratory and transported in a box. Soil temperature and moisture were also measured beside each collar using TEROS 11 (Meter Group, Inc., Pullman, WA, USA) and a ProCheck Handheld Readout unit (Meter Group, Inc.) at the start and end of each 30 minutes. Each collar's height was recorded and measured by using tape.
+
+CO~2~, CH~4~, and N~2~O concentrations from samples were analyzed using a GC (7890A, Agilent Technologies, Santa Clara, California, USA). A Combi-Pal autosampler (CTC Analytics, Zwingen, Switzerland) was injected into samples, drawn flux from the vials using a 2.5 ml N~2~ purged glass syringe with an HD-Type PTFE tipped syringe plunger and a 23-gauge needle (CTC Analytics AG, Zwingen, Switzerland). And the drawn flux was injected into the GC stainless steel, heated (110 ºC) purged-packed inlet using N~2~ (99.999 %) as carrier gas. Then, CO~2~, CH~4~, and N~2~O fluxes were detected with a flame ionization detector (FID, 250 ºC, for CH~4~ and CO~2~) and a micro-electron capture detector (μECD, 300 ºC, for N~2~O).
+
+### Project II - Respiration Study in Seedling-Managed Burned Bog Areas
+
+Fluxes of greenhouse gases were measured using static chamber and portable analyzer techniques.
+
+#### Measurement Sites and Chamber Set-up
+
+The study was conducted in the 2016 burned zone of BBECA. Six different sampling sites were selected for GHG flux measurements, encompassing three main ecosystem types with PS stands (PSLS, PSTS and PSW) and a pair of treatments (seedling and seedling removal) within each ecosystem type. Six cylindrical PVC collars were installed in each of the six chamber sites. Collars were distributed in a hexagon or straight line to gain more spatial coverage and to capture a diverse range of environmental variables, including water content, micro-topographical features and vegetation density. Soil cover within the collars includes small ground vegetation or grasses or short shrubs and seedlings.
+
+#### Manual Fluxes and Biophysical Measurements
+
+Respiration rates (R~eco~ and F~CH4~) were measured over 150-s intervals with an infrared gas analyser (LI-7810, LI-COR, Lincoln, United States) coupled to the non-transparent smart chamber (LI-8200-01S, LI-COR, Lincoln, United States) placed on permanently installed collars, during the daytime on two to four occasions per month in the growing season (April--September) and one occasion per month in the non-growing season (October-March) from April 2023 to March 2024. The LI-7810 Trace Gas Analyzer is a high-precision, laser-based instrument employing Optical Feedback---Cavity-Enhanced Absorption Spectroscopy (OF-CEAS) for measuring gases in the air. It draws air from the chamber into the analyzer through an air inlet. This air then passes through the optical bench and a phase adjuster for flux measurements before being exhausted through the air outlet. The Smart Chamber, LI-8200-01S, is a portable, self-powered survey chamber with a 20-cm diameter. It features an embedded microprocessor and internal storage for real-time flux calculations when connected to the gas analyzer. The fluxes were monitored in real time and stored in the Smart Chamber for later retrieval.
+
+The Smart Chamber is equipped with a soil moisture and temperature probe (Hydraprobe, STEVENS, Portland, United States). This probe was placed at approximately 0.05 m depth, just outside the collar, to measure soil temperature and volumetric water content concurrent with flux measurements. Additionally, soil temperature and moisture at a depth of 10 cm were assessed using a 15-cm long temperature probe connected to a thermocouple thermometer sensor (8582-10, Digi-sense), and a soil water content reflectometer with 12-cm long rods (CS655, Campbell Scientific, Edmonton, Canada).
+
+#### Continuous Biophysical Measurements
+
+To obtain continuous flux measurements and estimate annual Reco and FCH4 budgets, we continuously monitored environmental variables including soil temperature (Ts), water table depth (WTD), and volumetric water content (VWC). We used custom-made Type T (copper-constantan) thermocouples connected to a data logger, installed at depths of 5, 10, and 30 cm below the peat surface at each study site, to capture comprehensive soil temperature gradients.
+
+In September 2021, Metro Vancouver installed four water level monitoring wells in the 2016 burned zone to facilitate continuous WTD measurements. Of these, two wells located proximal to our study plots are relevant for this study. These include one well at the PSTS seedling removal site and another at the PSLS seedling removal site. To complement these measurements and address potential WTD variations across different vegetation types and treatments, we installed an additional continuous monitoring well equipped with a pressure transducer (CS400, Campbell Scientific, Edmonton, Canada) at the PSW seedling site.
+
+Furthermore, soil water content at the PSW sites was assessed using 30cm water content reflectometers (CS616, Campbell Scientific, Edmonton, Canada). These sensors were installed vertically to integrate the volumetric water content from the surface to a depth of 0.30 meters.
+
+#### Biomass Measurements
+
+Twelve additional collars (six for the seedling site and six for the seedling-removed site) were added at the PSLS ecosystem site on June 20, 2023, supplementing the existing collars designated for Reco partitioning (Rs+Rp) analysis.
+
+Live Above-ground biomass (AGB) was measured by clipping the green parts of the vegetation within each collar in mid-June 2023. Sphagnum mosses were clipped at the base of their capitulum. The clipped plant samples were then air-dried at 60 ℃ for 48 hours and subsequently weighed, with the dry weights recorded in grams.
+
+#### Data Processing
+
+1.  Finding the ideal window of the time series for the flux calculation
+
+-   *The time series of gas concentrations collected during chamber-based measurements can typically be segmented into three distinct phases: the initial turbulence development, simple diffusion, and lateral diffusion. For accurate flux calculation, the ideal time series window should encompass as much data as possible from the simple diffusion phase while excluding data from both the initial turbulence development and lateral diffusion phases. **The SoilFluxPro software guidence tool was utilized to identify this ideal window in the time series for accurate flux calculation.***
+
+2.  Fit linear and non-linear models for the flux calculation
+
+-   *Linear regression, commonly used for estimating greenhouse gas (GHG) fluxes, often underestimates pre-deployment fluxes. Non-linear methods, addressing increases in gas concentration within a closed chamber, may sometimes overestimate due to exaggerated curvature responses. For more accurate flux estimates, a combination of linear and nonlinear approaches should be tailored to each specific measurement in the data set.* ***SoilFluxPro fits both models (a linear model and an exponential model) to derive the flux.***
+
+3.  Choosing between linear and non-linear models in flux calculations
+
+-   ***Manual Screening:** manually examining the time-series plots of gas concentrations for each flux observation to determine the best fit between linear and exponential regressions by 1) checking visually and 2) selecting ones with lower rates of change of gas concentrations (dc/dt). Often, an exponential model provides the optimal fit for flux calculations.*
+
+-   ***Checking standard error of the dc/dt**: Export the dataset and use R programming to graphically represent the standard error of dc/dt for all collars (collar number as the x-axis and standard error values as the y-axis), comparing linear and exponential models. Establishing a threshold (\~0.001) for the standard error and recompute the flux calculations for any collars that exceed this threshold.*
+
+4.  Export the final dataset for statistical analysis
+
+#### Burns Bog Greenhouse Gas Budget
+
+@lee2017 examined the year-round greenhouse gas budget (16 June 2015 to 15 June 2016) in a center area of BBECA which has been harvested, disturbed and rewetted using eddy covariance technique. The annual Reco in this area is 236±16.4 gCO~2~-Cm^-2^yr^-1^, with higher values during the growing season (\>20 gCO~2~-Cm^-2^month^-1^).The study revealed that T~s,5cm~, WTH and Ta are three controls on Reco. The relationship between Reco and T~s,5cm~ varies with season: it is non-significant in winter, logistic in spring, constant Reco over the early summer, and exponential in fall. Ta is correlated with Reco when Ta \< 16 ℃ and had the similar impact as T~s,5cm.~ The higher WTH in winter suppress the Reco. Similarly, F~CH4~ are higher in the growing season (\>1000 mgCH~4~-Cm^-2^month^-1^) and lower in the non-growing season, leading to an annual CH~4~-C budget was 17±1.0 gCH~4~-Cm^-2^yr^-1^. WTH and Ts are primary controls on FCH4, with WTH positively correlating with FCH4. However, the summer months exhibit higher FCH4 despite lower WTH, likely due to: 1) peat sustaining anaerobic conditions above the water table, and 2) sedges providing an efficient diffusion pathway for FCH4 via plant aerenchyma.
+
+@christen2016 examined summertime greenhouse gas fluxes (June to August 2014) from undisturbed, disturbed and rewetted soils in BBECA. It found the site with lower respiration fluxes experienced the lowest soil temperature and shallowest water table, the site with highest respiration flux had the warmest average soil temperature over the study period.
+
+## Data Analysis
+
+### Temperature Sensitivity of Reco and F~CH4~
+
+## PART1 - Anova
+
+```{r}
+library(tidyverse)
+setwd("/Users/zoe/desktop/Rplots/Data/")
+df <- read.csv("growinganalysis.csv", header = TRUE)
+df$peat_temp_5cm[df$peat_temp_5cm < -30] <- NA
+df$peat_vwc_5cm[df$peat_vwc_5cm < -100] <- NA
+df$FCO2_EXP[df$FCO2_EXP < -10 | df$FCO2_EXP > 10] <- NA
+df$FCH4_EXP[df$FCH4_EXP < -10 | df$FCH4_EXP > 10] <- NA
+df <- filter(df, !grepl("C$", label))
+```
+
+```{r}
+# Two-way anova analysis for 36 collars average overtime - FCO2 (seedling/ecosystem types)
+collar_fluxes <- df %>%
+  group_by(label, vegetation_type, trts) %>%
+  summarise(FCO2_EXP_avg = mean(FCO2_EXP, na.rm = TRUE), 
+            FCH4_EXP_avg = mean(FCH4_EXP, na.rm = TRUE))
+print(collar_fluxes)
+model_averagecollar_FCO2 <- lm (FCO2_EXP_avg ~ vegetation_type*trts, data = collar_fluxes)
+summary(model_averagecollar_FCO2)
+# Check for assumptions
+collar_fluxes$yhat.1 <- fitted(model_averagecollar_FCO2)
+collar_fluxes$resid.1 <- resid(model_averagecollar_FCO2)
+collar_fluxes$stdresid.1 <- resid(model_averagecollar_FCO2)/summary(model_averagecollar_FCO2)$sigma
+# Independent assumption met because we take the average of the data overtime and no temporal correlation
+# Normality assumption
+# qqplot
+qqnorm(collar_fluxes$stdresid.1, pch=19)
+qqline(collar_fluxes$stdresid.1, col=2)
+# Histogram
+hist(collar_fluxes$stdresid.1, freq = T, breaks = 6, density = 10, xlab = "Residuals", ylab = "Frequency", main = "Histogram of Residuals", col = "green", border = "black")
+# Shapiro test
+shapiro.test(collar_fluxes$stdresid.1)
+# Homogenity assumption
+plot(resid.1~yhat.1, data = collar_fluxes, xlab = "Predicted", ylab = "Residuals", main = "Residuals Plot", pch=19)
+abline(a=0, b=0, col = "red")
+```
+
+```{r}
+# Anova test
+model_averagecollar_FCO2_anova <- aov(FCO2_EXP_avg ~ vegetation_type + trts + vegetation_type:trts, data = collar_fluxes)
+# Summarize the model results
+summary(model_averagecollar_FCO2_anova)
+```
+
+**`trts`**: p-value of 0.00436 (indicated by **`**`**), suggests that the treatment factor significantly affects the FCO2. No further post-hoc tests conduct because we only has a pair of trts, which anova tests already tell us there's significant differences between them.
+
+```{r}
+collar_fluxes <- collar_fluxes[collar_fluxes$label != "LS5", ]
+print(collar_fluxes)
+model_averagecollar_FCH4 <- lm (log(FCH4_EXP_avg+10) ~ vegetation_type*trts, data = collar_fluxes)
+summary(model_averagecollar_FCH4)
+# Check for assumptions
+collar_fluxes$yhat.2 <- fitted(model_averagecollar_FCH4)
+collar_fluxes$resid.2 <- resid(model_averagecollar_FCH4)
+collar_fluxes$stdresid.2 <- resid(model_averagecollar_FCH4)/summary(model_averagecollar_FCH4)$sigma
+# Independent assumption met because we take the average of the data overtime and no temporal correlation
+# Normality assumption
+# qqplot
+qqnorm(collar_fluxes$stdresid.2, pch=19)
+qqline(collar_fluxes$stdresid.2, col=2)
+# Histogram
+hist(collar_fluxes$stdresid.2, freq = T, breaks = 6, density = 10, xlab = "Residuals", ylab = "Frequency", main = "Histogram of Residuals", col = "green", border = "black")
+# Shapiro test
+shapiro.test(collar_fluxes$stdresid.2)
+# Homogenity assumption
+plot(resid.2~yhat.2, data = collar_fluxes, xlab = "Predicted", ylab = "Residuals", main = "Residuals Plot", pch=19)
+abline(a=0, b=0, col = "red")
+```
+
+This will be problematic, because the equal variance and normality assumption didn't meet, it yields for unreliable anova results.
+
+```{r}
+# Anova test
+model_averagecollar_FCH4_anova <- aov(FCH4_EXP_avg ~ vegetation_type + trts + vegetation_type:trts, data = collar_fluxes)
+# Summarize the model results
+summary(model_averagecollar_FCH4_anova)
+```
+
+Transform FCH4_EXP_avg to log(FCH4_EXP_avg+10) and perform anova
+
+```{r}
+# Anova test
+model_averagecollar_FCH4_anova <- aov(log(FCH4_EXP_avg+10) ~ vegetation_type + trts + vegetation_type:trts, data = collar_fluxes)
+# Summarize the model results
+summary(model_averagecollar_FCH4_anova)
+```
+
+Performing two-way ANOVA on the rank-transformed data. Ranking is one of many procedures used to transform data that do not meet the assumptions of normality. However, the equal variance assumption is violated.
+
+```{r}
+collar_fluxes <- collar_fluxes[collar_fluxes$label != "LS5", ]
+print(collar_fluxes)
+model_averagecollar_FCH4 <- lm (rank(FCH4_EXP_avg) ~ vegetation_type*trts, data = collar_fluxes)
+summary(model_averagecollar_FCH4)
+# Check for assumptions
+collar_fluxes$yhat.2 <- fitted(model_averagecollar_FCH4)
+collar_fluxes$resid.2 <- resid(model_averagecollar_FCH4)
+collar_fluxes$stdresid.2 <- resid(model_averagecollar_FCH4)/summary(model_averagecollar_FCH4)$sigma
+# Independent assumption met because we take the average of the data overtime and no temporal correlation
+# Normality assumption
+# qqplot
+qqnorm(collar_fluxes$stdresid.2, pch=19)
+qqline(collar_fluxes$stdresid.2, col=2)
+# Histogram
+hist(collar_fluxes$stdresid.2, freq = T, breaks = 6, density = 10, xlab = "Residuals", ylab = "Frequency", main = "Histogram of Residuals", col = "green", border = "black")
+# Shapiro test
+shapiro.test(collar_fluxes$stdresid.2)
+# Homogenity assumption
+plot(resid.2~yhat.2, data = collar_fluxes, xlab = "Predicted", ylab = "Residuals", main = "Residuals Plot", pch=19)
+abline(a=0, b=0, col = "red")
+```
+
+```{r}
+model_averagecollar_FCH4_anova.rnk <- aov(rank(FCH4_EXP_avg) ~ vegetation_type + trts + vegetation_type:trts, data = collar_fluxes)
+ # Summarize the model results
+summary(model_averagecollar_FCH4_anova.rnk)
+```
+
+There's a significant differences between vegetation types.
+
+```{r}
+library(emmeans)
+emmeans(model_averagecollar_FCH4_anova.rnk, pairwise ~ vegetation_type | trts)
+```
+
+There're significant differences between PSW and the other two vegetation types (PSLS/PSTS) in both R and S treatment site; there's no significant differences between PSLS and PSTS.
+
+## PART2 - Q10
+
+Plot raw data for TS_5 vs. FCO2 & TS_5 vs. FCH4 by **treatments**
+
+```{r}
+plot_flux_by_month <- function(data, x_var, y_var, y_label) {
+  ggplot(data, aes_string(x = x_var, y = y_var, color = "factor(trts)")) +
+    geom_point(size = 3, shape = 19) + 
+    labs(x = x_var, y = y_label, title = paste("Scatterplot of", y_label, "by Ecosystem Types")) +
+    scale_color_discrete(name = "Ecosystem Types") +
+    theme_minimal()
+}
+
+df1 <- df %>% 
+  mutate(month = lubridate::month(date))
+er_flux_temp_plot <- plot_flux_by_month(df1, "peat_temp_5cm", "FCO2_EXP", "ER (µmol/m²/s)")
+ch4_flux_temp_plot <- plot_flux_by_month(df1, "peat_temp_5cm", "FCH4_EXP", "FCH4 (nmol/m²/s)")
+er_flux_vwc_plot <- plot_flux_by_month(df1, "peat_vwc_5cm", "FCO2_EXP", "ER (µmol/m²/s)")
+ch4_flux_vwc_plot <- plot_flux_by_month(df1, "peat_vwc_5cm", "FCH4_EXP", "FCH4 (nmol/m²/s)")
+
+er_flux_temp_plot
+ch4_flux_temp_plot
+er_flux_vwc_plot
+ch4_flux_vwc_plot
+```
+
+Plot raw data for TS_5 vs. FCO2 & TS_5 vs. FCH4 by **ecosystem types**
+
+```{r}
+plot_flux_by_month <- function(data, x_var, y_var, y_label) {
+  ggplot(data, aes_string(x = x_var, y = y_var, color = "factor(vegetation_type)")) +
+    geom_point(size = 3, shape = 19) + 
+    labs(x = x_var, y = y_label, title = paste("Scatterplot of", y_label, "by Ecosystem Types")) +
+    scale_color_discrete(name = "Ecosystem Types") +
+    theme_minimal()
+}
+
+df1 <- df %>% 
+  mutate(month = lubridate::month(date))
+er_flux_temp_plot <- plot_flux_by_month(df1, "peat_temp_5cm", "FCO2_EXP", "ER (µmol/m²/s)")
+ch4_flux_temp_plot <- plot_flux_by_month(df1, "peat_temp_5cm", "FCH4_EXP", "FCH4 (nmol/m²/s)")
+er_flux_vwc_plot <- plot_flux_by_month(df1, "peat_vwc_5cm", "FCO2_EXP", "ER (µmol/m²/s)")
+ch4_flux_vwc_plot <- plot_flux_by_month(df1, "peat_vwc_5cm", "FCH4_EXP", "FCH4 (nmol/m²/s)")
+
+er_flux_temp_plot
+ch4_flux_temp_plot
+er_flux_vwc_plot
+ch4_flux_vwc_plot
+```
+
+```{r}
+# Assuming your data frame is named df
+df$study_site <- substr(df$label, 1, 2)
+print(df)
+```
+
+Temperatures sensitivity (Q10) analyses how C fluxes respond to variations in soil temperature. Q10 describes the relative increase in daily Reco or CH4 flux per 10 °C increase in daily soil temperature.
+
+CO2-Step 1: $ln(Reco) = A + b_{Reco}T_{s,5cm}$
+
+CO2-Step 2: $Q10_{Reco} = e^{10b_{R_{eco}}}$
+
+CH4-Step 1: $FCH_4 = ae^{b_{FCH4}T_{s,5cm}}$
+
+CH4-Step 2: $Q10_{FCH4} = e^{10b_{FCH_4}}$
+
+```{r}
+exp_model <- function(temp, a, b) {
+  a * exp(b * temp)
+}
+plot_list <- list()
+
+# Loop over each study site to fit model and plot
+for (ss in unique(df$study_site)) {
+  # Subset the data for the study site
+  subset_data <- subset(df, study_site == ss)
+
+  # Remove rows with non-finite peat temperatures or FCO2 fluxes
+  subset_data <- subset_data[is.finite(subset_data$peat_temp_5cm) & is.finite(subset_data$FCH4_EXP), ]
+
+  # Check if there are enough data points to fit a curve
+  if (length(subset_data$peat_temp_5cm) > 1) {
+    # Fit the nonlinear model using nls
+    model <- nls(FCH4_EXP ~ a + (b * peat_temp_5cm), data = subset_data,
+                 start = list(a = 1, b = 0.1), algorithm = "port", control = nls.control(maxiter = 100))
+
+    # Get coefficients
+    coefs <- coef(model)
+
+    # Calculate Q10 value
+    Q10 <- exp(coefs['b'] * 10)
+
+    # Create a sequence of temperatures for plotting the curve
+    temp_seq <- seq(min(subset_data$peat_temp_5cm, na.rm = TRUE),
+                    max(subset_data$peat_temp_5cm, na.rm = TRUE),
+                    length.out = 100)
+
+    # Predict FCO2 values using the fitted model
+    FCH4_pred <- predict(model, newdata = data.frame(peat_temp_5cm = temp_seq))
+
+    # Create a ggplot
+    p <- ggplot(subset_data, aes(x = peat_temp_5cm, y = FCH4_EXP)) +
+      geom_point() +
+      geom_line(data = data.frame(peat_temp_5cm = temp_seq, FCH4_pred = FCH4_pred), aes(x = peat_temp_5cm, y = FCH4_pred), color = 'blue') +
+      ggtitle(paste('FCH4-Q10 Curve for', ss, '(Q10 =', sprintf('%.2f', Q10), ')')) +
+      xlab('Peat Temperature at 5cm (°C)') +
+      ylab('FCH4 Flux (µmol m⁻² s⁻¹)') +
+      theme_minimal()
+
+    # Store the plot in the list
+    plot_list[[ss]] <- p
+  } else {
+    warning(paste('Not enough data points to fit a curve for', ss))
+  }
+}
+
+# Display the plots for each study site
+for (ss_plot in plot_list) {
+  print(ss_plot)
+}
+```
+
+| FCH4-Q10 Values | Seedling Area | Seedling Removal Area |
+|-----------------|---------------|-----------------------|
+| PSLS            | 1.10          | 0.32                  |
+| PSTS            | 0.29          | 0.45                  |
+| PSW             | 0.79          | 0.16                  |
+
+```{r}
+exp_model <- function(temp, a, b) {
+  a + (b * temp)
+}
+
+plot_list <- list()
+
+# Loop over each study site to fit model and plot
+for (ss in unique(df$study_site)) {
+  # Subset the data for the study site
+  subset_data <- subset(df, study_site == ss)
+
+  # Remove rows with non-finite peat temperatures or FCO2 fluxes
+  subset_data <- subset_data[is.finite(subset_data$peat_temp_5cm) & is.finite(subset_data$FCO2_EXP), ]
+
+  # Check if there are enough data points to fit a curve
+  if (length(subset_data$peat_temp_5cm) > 1) {
+    # Fit the nonlinear model using nls
+    model <- nls(FCO2_EXP ~ a + (b * peat_temp_5cm), data = subset_data,
+                 start = list(a = 1, b = 0.1), algorithm = "port", control = nls.control(maxiter = 100))
+
+    # Get coefficients
+    coefs <- coef(model)
+
+    # Calculate Q10 value
+    Q10 <- exp(coefs['b'] * 10)
+
+    # Create a sequence of temperatures for plotting the curve
+    temp_seq <- seq(min(subset_data$peat_temp_5cm, na.rm = TRUE),
+                    max(subset_data$peat_temp_5cm, na.rm = TRUE),
+                    length.out = 100)
+
+    # Predict FCO2 values using the fitted model
+    FCO2_pred <- predict(model, newdata = data.frame(peat_temp_5cm = temp_seq))
+
+    # Create a ggplot
+    p <- ggplot(subset_data, aes(x = peat_temp_5cm, y = FCO2_EXP)) +
+      geom_point() +
+      geom_line(data = data.frame(peat_temp_5cm = temp_seq, FCO2_pred = FCO2_pred), aes(x = peat_temp_5cm, y = FCO2_pred), color = 'blue') +
+      ggtitle(paste('FCO2-Q10 Curve for', ss, '(Q10 =', sprintf('%.2f', Q10), ')')) +
+      xlab('Peat Temperature at 5cm (°C)') +
+      ylab('FCO2 Flux (µmol m⁻² s⁻¹)') +
+      theme_minimal()
+
+    # Store the plot in the list
+    plot_list[[ss]] <- p
+  } else {
+    warning(paste('Not enough data points to fit a curve for', ss))
+  }
+}
+
+# Display the plots for each study site
+for (ss_plot in plot_list) {
+  print(ss_plot)
+}
+
+```
+
+| FCO2-Q10 Values | Seedling Area | Seedling Removal Area |
+|-----------------|---------------|-----------------------|
+| PSLS            | 8.33          | 7.77                  |
+| PSTS            | 14.59         | 8.13                  |
+| PSW             | 1.71          | 5.97                  |
+
+## PART3 - Mixed Effects Model
+
+Refer to the paper \[Wildfire overrides hydrological controls on boreal peatland methane emissions\], model tests on seeing vegetation types and trts as fixed factor, collar ID as a random effect to take into account repeated measures.
+
+```{r}
+df1 <- df %>% 
+  mutate(month = lubridate::month(date))
+df1$collar_number <- substr(df1$label, 3, 3)
+```
+
+```{r}
+# Load the required package
+library(lme4)
+
+# Fit the mixed effects models
+M2 <- lmer(log(FCO2_EXP) ~ vegetation_type + trts + month + (1|collar_number), REML = FALSE, data = df1)
+M3 <- lmer(log(FCO2_EXP) ~ vegetation_type * trts + month + (1|collar_number), REML = FALSE, data = df1)
+M4 <- lmer(log(FCO2_EXP) ~ vegetation_type + month + (1|collar_number), REML = FALSE, data = df1)
+M5 <- lmer(log(FCO2_EXP) ~ trts + month + (1|collar_number), REML = FALSE, data = df1)
+
+# Perform the ANOVA comparison
+anova(M2, M3)
+anova(M2, M4)
+anova(M2, M5)
+
+# Check for linearity
+plot(fitted(M2), resid(M2), xlab = "Fitted Values", ylab = "Residuals")
+abline(h = 0, col = "red")
+# Check for independence
+acf(resid(M2), lag.max = 20, main = "ACF of Residuals")
+# Check for homogenity
+plot(fitted(M2), resid(M2), xlab = "Fitted Values", ylab = "Residuals")
+abline(h = 0, col = "red")
+# Check for normality
+qqnorm(resid(M2))
+qqline(resid(M2), col = "red")
+shapiro.test(resid(M2))
+```
+
+```{r}
+# Run anova on the model for significance of fixed effects
+anova(M2)
+# Run summary on the model for significance of random effects
+summary(M2)
+# the model suggests that trts and month are significant predictors of the log-transformed FCO2_EXP, with vegetation_type having a less significant effect. The low variance for collar_number suggests that the random effects structure is not explaining much of the variability in the data, which could be due to the grouping variable collar_number not having much influence on the outcome, or it could be that the variability is low between different collar_number groups.
+```
+
+## Waterlevel refer to the ground
+
+Timeseries water level data
+
+```{r}
+library(ggplot2)
+library(reshape2)
+setwd("/Users/zoe/Desktop/seedling_analysis/Manual")
+wl <- read.csv("waterleveldata.csv", header = TRUE)
+wl$Date <- as.Date(wl$Date)
+# Load the necessary library
+# Reshape the data from wide to long format
+wl_long <- melt(wl, id.vars = "Date", variable.name = "Type", value.name = "Water_Level")
+# Create a factor for the facet wrap
+wl_long$Site <- with(wl_long, factor(ifelse(grepl("PSW", Type), "PSW",
+                                      ifelse(grepl("PSLS", Type), "PSLS", "PSTS"))))
+wl_long <- wl_long %>%
+  mutate(wl=-Water_Level)
+
+# Plot using ggplot with facet_wrap
+ggplot(data = wl_long, aes(x = Date, y = wl, color = Type)) +
+  geom_line() +
+  geom_point() +
+  scale_color_manual(values = c("PSW.S" = "blue", "PSW.R" = "red", "PSLS.S" = "blue", "PSLS.R" = "red", "PSTS.S" = "blue", "PSTS.R" = "red")) +
+  facet_wrap(~ Site, scales = "fixed", ncol = 3) + 
+  ylim(0, 80) + 
+  theme_minimal() +
+  labs(title = "Water Level Across Different Sites", x = "Date", y = "Water level (cm)") +
+  theme(legend.position = "bottom", legend.title = element_blank(), strip.background = element_blank())
+
+```
+
+# Discussions
+
+## Ecosystem Respiration Partitioning
+
+**Reco partitioning methods:**
+
+Trench + clipped for hetero+autro[@dorrepaal2009a; ]
+
+Twelve additional collars (six for the seedling site and six for the seedling-removed site) were installed at the PSLS ecosystem site, supplementing the existing collars designated for Reco partitioning analysis. Live Above-ground biomass (AGB) was measured by clipping the green parts of the vegetation within each collar in mid-June 2023. Sphagnum mosses were clipped at the base of their capitulum. The clipped plant samples were then air-dried at 60 ℃ for 48 hours and subsequently weighed, with the dry weights recorded in grams.
+
+**Reco partitioning statistics:**
+
+```{r}
+library(lubridate)
+library(dplyr)
+library(ggplot2)
+setwd("/Users/zoe/Desktop/seedling_analysis/Manual/ABM")
+abm <- read.csv("FCO2_ABM.csv", header = TRUE)
+```
+
+```{r}
+# Add the month column to the dataframe
+abm <- abm %>%
+  mutate(datetime = ymd_hms(datetime),  # Convert to datetime object
+         month = month(datetime, label = TRUE),
+         date = date(datetime))  %>%
+  filter(!month %in% c('Apr', 'May')) %>%
+  filter(!Collars %in% c('LS1C.FCO2_DRY', 'LS1.FCO2_DRY'))  #LS1C has high numbers, thus ignore it for analysis
+print(abm)
+
+abm_S <- abm %>%
+  filter(trts == "S")
+abm_R <- abm %>%
+  filter(trts == "R")
+
+# ScatterPlots
+ggplot(abm_S, aes(x = datetime, y = Fluxes)) +
+    geom_point(data = filter(abm_S, clip == "N"), aes(color = "N")) +
+    geom_point(data = filter(abm_S, clip == "C"), aes(color = "C")) +
+    labs(title = "DateTime vs. Fluxes", 
+         x = "Month", 
+         y = "FCO2 (µmol/m²/s)", 
+         color = "CLIP") +
+    theme_minimal()
+ggplot(abm_R, aes(x = datetime, y = Fluxes)) +
+    geom_point(data = filter(abm_R, clip == "N"), aes(color = "N")) +
+    geom_point(data = filter(abm_R, clip == "C"), aes(color = "C")) +
+    labs(title = "DateTime vs. Fluxes", 
+         x = "Month", 
+         y = "FCO2 (µmol/m²/s)", 
+         color = "CLIP") +
+    theme_minimal()
+# Now calculate the statistics
+abm_stats_S <- abm_S %>%
+  group_by(date, clip) %>%  # Group by the date and clip
+  summarize(mean_flux = mean(Fluxes, na.rm = TRUE),  # Calculate mean
+            sd_flux = sd(Fluxes, na.rm = TRUE)) 
+
+# Plots
+ggplot(abm_stats_S, aes(x=date, y=mean_flux, color=clip)) +
+  geom_point(size=3) +  # Increased size for visibility
+  geom_errorbar(aes(ymin=mean_flux-sd_flux, ymax=mean_flux+sd_flux), width=0.2) +
+  labs(title = "Impacts of ABM on Fluxes - Seedling Site", 
+       x = "Month", 
+       y = "FCO2 (µmol/m²/s)") +
+  scale_color_manual(values=c("blue", "red")) + # Manually set the colors
+  theme_minimal()
+
+  # Now calculate the statistics
+abm_stats_R <- abm_R %>%
+  group_by(date, clip) %>%  # Group by the new month column, sites, and clip
+  summarize(mean_flux = mean(Fluxes, na.rm = TRUE),  # Calculate mean
+            sd_flux = sd(Fluxes, na.rm = TRUE)) 
+
+ggplot(abm_stats_R, aes(x=date, y=mean_flux, color=clip)) +
+  geom_point(size=3) +  # Increased size for visibility
+  geom_errorbar(aes(ymin=mean_flux-sd_flux, ymax=mean_flux+sd_flux), width=0.2) +
+  labs(title = "Impacts of ABM on Fluxes - Seedling Removed Site", 
+       x = "Month", 
+       y = "FCO2 (µmol/m²/s)") +
+  scale_color_manual(values=c("blue", "red")) + # Manually set the colors
+  theme_minimal()
+```
+
+Calculate the average proportions of Rs to Reco from six collars to represent the study site on each sampling date. For the PSLS ecosystem type, the contributions of Rs to Reco were 62.4% ± 8.9% for the seedling site and 66.8% ± 11.8% for the seedling removal site.
+
+```{r}
+library(dplyr)
+library(tidyr)
+abm_S$collar_num <- substr(abm_S$Collars, 1, 3)
+print(abm_S)
+
+# Pivot the data to wide format with 'Clip' as columns
+df_wide <- abm_S %>%
+  select(collar_num, datetime, clip, Fluxes) %>%
+  pivot_wider(names_from = clip, values_from = Fluxes)
+print(df_wide)
+
+# Convert datetime to Date object (ignoring time)
+df_wide$Date <- as.Date(df_wide$datetime)
+
+# Create two subsets: one for 'N' and one for 'C'
+df_N <- df_wide %>% filter(!is.na(N)) %>% select(collar_num, Date, N)
+df_C <- df_wide %>% filter(!is.na(C)) %>% select(collar_num, Date, C)
+
+# Perform an inner join on the subsets to only get pairs where both 'N' and 'C' exist for the same collar_num and Date
+df_pairs <- inner_join(df_N, df_C, by = c("collar_num", "Date"))
+
+# Now df_pairs will contain only the matched pairs, and calculate the ratio of 'C' to 'N'
+df_pairs <- df_pairs %>%
+  mutate(ratio_C_to_N = C / N)
+
+# Select the relevant columns to form the new dataset
+calculated_dataset_S <- df_pairs %>%
+  select(collar_num, Date, N, C, ratio_C_to_N)
+
+# Print the calculated dataset
+print(calculated_dataset_S)
+
+
+abm_R$collar_num <- substr(abm_R$Collars, 1, 3)
+print(abm_R)
+
+# Pivot the data to wide format with 'Clip' as columns
+df_wide_R <- abm_R %>%
+  select(collar_num, datetime, clip, Fluxes) %>%
+  pivot_wider(names_from = clip, values_from = Fluxes)
+print(df_wide_R)
+
+# Convert datetime to Date object (ignoring time)
+df_wide_R$Date <- as.Date(df_wide_R$datetime)
+
+# Create two subsets: one for 'N' and one for 'C'
+df_N_R <- df_wide_R %>% filter(!is.na(N)) %>% select(collar_num, Date, N)
+df_C_R <- df_wide_R %>% filter(!is.na(C)) %>% select(collar_num, Date, C)
+
+# Perform an inner join on the subsets to only get pairs where both 'N' and 'C' exist for the same collar_num and Date
+df_pairs_R <- inner_join(df_N_R, df_C_R, by = c("collar_num", "Date"))
+
+# Now df_pairs will contain only the matched pairs, and calculate the ratio of 'C' to 'N'
+df_pairs_R <- df_pairs_R %>%
+  mutate(ratio_C_to_N = C / N)
+
+# Select the relevant columns to form the new dataset
+calculated_dataset_R <- df_pairs_R %>%
+  select(collar_num, Date, N, C, ratio_C_to_N)
+
+# Print the calculated dataset
+print(calculated_dataset_R)
+
+df_ratio_S <- calculated_dataset_S %>%
+  filter(ratio_C_to_N < 1) %>%
+  group_by(Date) %>%
+  summarize(mean_ratio = mean(ratio_C_to_N))
+print(df_ratio_S)
+mean_S <- mean(df_ratio_S$mean_ratio)
+sd_S <- sd(df_ratio_S$mean_ratio)
+df_ratio_R <- calculated_dataset_R %>%
+  filter(ratio_C_to_N < 1) %>%
+  group_by(Date) %>%
+  summarize(mean_ratio = mean(ratio_C_to_N))
+print(df_ratio_R)
+mean_R <- mean(df_ratio_R$mean_ratio)
+sd_R <- sd(df_ratio_R$mean_ratio)
+mean_S
+mean_R
+sd_R
+sd_S
+```
+
+```{r}
+setwd("/Users/zoe/Desktop/seedling_analysis/Manual/ABM")
+FCH4_ABM <- read.csv("FCH4_ABM.csv", header=TRUE)
+```
+
+```{r}
+# Add the month column to the dataframe
+abm_FCH4 <- FCH4_ABM %>%
+  mutate(datetime = ymd_hms(datetime),  # Convert to datetime object
+         month = month(datetime, label = TRUE),
+         date = date(datetime))  %>%
+  filter(!month %in% c('Apr', 'May')) %>%
+  filter(!Collars %in% c('LS1C.FCO2_DRY', 'LS1.FCO2_DRY'))  #LS1C has high numbers, thus ignore it for analysis
+print(abm_FCH4)
+
+abmFCH4_S <- abm_FCH4 %>%
+  filter(trts == "S")
+abmFCH4_R <- abm_FCH4 %>%
+  filter(trts == "R")
+
+# ScatterPlots
+ggplot(abmFCH4_S, aes(x = datetime, y = Fluxes)) +
+    geom_point(data = filter(abmFCH4_S, clip == "N"), aes(color = "N")) +
+    geom_point(data = filter(abmFCH4_S, clip == "C"), aes(color = "C")) +
+    labs(title = "DateTime vs. Fluxes", 
+         x = "Month", 
+         y = "FCH4 (nmol/m²/s)", 
+         color = "CLIP") +
+    theme_minimal()
+ggplot(abmFCH4_R, aes(x = datetime, y = Fluxes)) +
+    geom_point(data = filter(abmFCH4_R, clip == "N"), aes(color = "N")) +
+    geom_point(data = filter(abmFCH4_R, clip == "C"), aes(color = "C")) +
+    labs(title = "DateTime vs. Fluxes", 
+         x = "Month", 
+         y = "FCH4 (µmol/m²/s)", 
+         color = "CLIP") +
+    theme_minimal()
+# Now calculate the statistics
+abmFCH4_stats_S <- abmFCH4_S %>%
+  group_by(date, clip) %>%  # Group by the date and clip
+  summarize(meanFCH4_flux = mean(Fluxes, na.rm = TRUE),  # Calculate mean
+            sdFCH4_flux = sd(Fluxes, na.rm = TRUE)) 
+
+# Plots
+ggplot(abmFCH4_stats_S, aes(x=date, y=meanFCH4_flux, color=clip)) +
+  geom_point(size=3) +  # Increased size for visibility
+  geom_errorbar(aes(ymin=meanFCH4_flux-sdFCH4_flux, ymax=meanFCH4_flux+sdFCH4_flux), width=0.2) +
+  labs(title = "Impacts of ABM on Fluxes - Seedling Site", 
+       x = "Month", 
+       y = "FCO2 (µmol/m²/s)") +
+  scale_color_manual(values=c("blue", "red")) + # Manually set the colors
+  theme_minimal()
+
+  # Now calculate the statistics
+abmFCH4_stats_R <- abmFCH4_R %>%
+  group_by(date, clip) %>%  # Group by the new month column, sites, and clip
+  summarize(meanFCH4_flux = mean(Fluxes, na.rm = TRUE),  # Calculate mean
+            sdFCH4_flux = sd(Fluxes, na.rm = TRUE)) 
+
+ggplot(abmFCH4_stats_R, aes(x=date, y=meanFCH4_flux, color=clip)) +
+  geom_point(size=3) +  # Increased size for visibility
+  geom_errorbar(aes(ymin=meanFCH4_flux-sdFCH4_flux, ymax=meanFCH4_flux+sdFCH4_flux), width=0.2) +
+  labs(title = "Impacts of ABM on Fluxes - Seedling Removed Site", 
+       x = "Month", 
+       y = "FCH4 (nmol/m²/s)") +
+  scale_color_manual(values=c("blue", "red")) + # Manually set the colors
+  theme_minimal()
+```
+
+AGB (g dry weight m-2)\
+- mean Reco vs. AGB, scatterplots
+
+\- clipped vs. unclipped Reco
+
+\- AGB respiration take up how much of ecosystem respiration?
+
+HR (root respiration
+
+All the aboveground vegetation was removed
+
+| Ecosystem        | Site           | Ra    | Rh   | Methods                                        | Study             |
+|------------------|----------------|-------|------|------------------------------------------------|-------------------|
+|                  |                | 54    | 46   |                                                | [@moore2002]      |
+|                  |                | 82-94 | 6-18 |                                                | [@hickspries2015] |
+| Fen              | Degerö Stormyr | 50    | 50   |                                                | [@järveoja2018]   |
+| Ombrotrophic Bog | Mer Bleue      |       |      | continuous automatic chamber plot measurements | [@rankin2023a]    |
+|                  |                |       |      |                                                |                   |
+|                  |                |       |      |                                                |                   |
+|                  |                |       |      |                                                |                   |
+|                  |                |       |      |                                                |                   |
+|                  |                |       |      |                                                |                   |
+|                  |                |       |      |                                                |                   |
+
+# Others
+
+<https://www.sciencedirect.com/science/article/pii/S0921818106001202?casa_token=-a24f7tS21MAAAAA:Wh-9B4GCZX9kTMGc3WNfZ3gFZDE4BgpgvX11tiRMnquFt7RgicnIQdc_pF-UrAe8C6rxxxyGsEzA>
+
+bogs make up about 70% of peatlands in Canada
+
+±
