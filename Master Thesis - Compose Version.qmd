@@ -24,11 +24,21 @@ Northern peatlands are commonly classified as fens and bogs based on water sourc
 
 **Check -** Bogs comprise two layers: a porous, less decomposed surface layer called the acrotelm, and a saturated, more decomposed deeper layer called the catotelm. This two-layer structure regulates the movement and storage of water and nutrients in the bog (Nungesser, 2003). During precipitation, the water table rises, and water starts to flow laterally and can flood the peat surface. During moisture deficits, water levels drop, and little to no water moves from the saturated underlying catotelm to the upper acrotelm due to the low hydraulic conductivity of peat (Nungesser, 2003).
 
+Raised bog/blanket bog/schwingmoor, valley-bog
+
 #### Bog Vegetation
 
-**(need evidence of sphagnum grow a lot in bog and it can compete out other plants)** The acidic and low-nutrient environment in bogs provides the ideal conditions for Sphagnum moss to grow, which is the primary peat-forming vegetation in bogs. Sphagnum moss, characterized by its hanging branches around the stem, possesses an efficient capillary network that functions like a wick to draw water upward, facilitating hydration above the water table level. Additionally, the moss's unique anatomy, which includes dead hyaline cells in the leaves and stem cortex, allows for considerable water storage, predominantly between the leaves. Together, these mechanisms contribute to the waterlogged conditions conducive to peat accumulation.
+The acidic and low-nutrient environment in bogs provides the ideal conditions for Sphagnum moss to grow, which is the primary peat-forming vegetation in bogs. Sphagnum moss, characterized by its hanging branches around the stem, possesses an efficient capillary network that functions like a wick to draw water upward, facilitating hydration above the water table level. Additionally, the moss's unique anatomy, which includes dead hyaline cells in the leaves and stem cortex, allows for considerable water storage, predominantly between the leaves. Together, these mechanisms contribute to the waterlogged conditions conducive to peat accumulation [@clymo1982; @rydin2013].
 
-**Check -** Other common bog plant groups include ericaceous shrubs, herbs and mosses. Ericaceous shrubs are a type of heath vegetation specially adapted to live in acidic conditions. Herb species are generally less tolerant of low nutrient environments and in peatlands there is a low diversity of herbs. Moss species other than Sphagnum usually first colonize bare peat stabilizing the ground, moderating ground temperature and nutrients thus making the environment hospitable for Sphagnum moss establishment
+Evidence that sphagnum outcompete other plants:
+
+The morphological, anatomical, physiological and organo- chemical properties of Sphagnum give it attributes (see Fig. 4) that help form acidic, nutrient-poor, heat-insulating and slowly permeable peat. Depressed growth of vascular plants increases (1) light availability and (2) wetness, via decreased evapotranspiration 1°, both of which positively feed back to the growth of Sphagnum, and thus to peat growth.
+
+The frequent claim that forest is the climax veg- etation on bogs seems to be poorly substantiated 2.
+
+chrome-[extension://efaidnbmnnnibpcajpcglclefindmkaj/https://boglearningnetwork.files.wordpress.com/2014/10/1995-van-breeman-how-sphagnum-bogs-down-other-plants.pdf](extension://efaidnbmnnnibpcajpcglclefindmkaj/https://boglearningnetwork.files.wordpress.com/2014/10/1995-van-breeman-how-sphagnum-bogs-down-other-plants.pdf)
+
+Check: Other common bog plant groups include ericaceous shrubs, herbs and mosses. Ericaceous shrubs are a type of heath vegetation specially adapted to live in acidic conditions. Herb species are generally less tolerant of low nutrient environments and in peatlands there is a low diversity of herbs. Moss species other than Sphagnum usually first colonize bare peat stabilizing the ground, moderating ground temperature and nutrients thus making the environment hospitable for Sphagnum moss establishment
 
 #### Peat and Peat Processes
 

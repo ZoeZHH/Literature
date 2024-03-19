@@ -1,0 +1,11 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+## Sphagnum
+
+1\) The Ecology of Sphagnum <https://link.springer.com/chapter/10.1007/978-94-009-5891-3_8>
+
+2\) Biology of Peatlands <https://ebookcentral.proquest.com/lib/ubc/reader.action?docID=4964460>
