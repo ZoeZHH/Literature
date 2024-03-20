@@ -2392,4 +2392,399 @@ references:
   title: The Ecology of Sphagnum
   type: chapter
   URL: "http://link.springer.com/10.1007/978-94-009-5891-3_8"
+- id: ingram1978
+  author:
+  - family: Ingram
+    given: H. A. P.
+  container-title: Journal of Soil Science
+  DOI: 10.1111/j.1365-2389.1978.tb02053.x
+  ISSN: 0022-4588
+  issue: 2
+  issued: 1978
+  key: DEDP6CC8
+  language: English
+  libraryID: 1
+  page: 224-227
+  Place: Oxford,
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  Publisher: Blackwell Scientific for the British Society of Soil
+    Science
+  title: Soil layers in mires; function and terminology
+  type: article-journal
+  UK
+  Publisher: Blackwell
+  URL: "https://go.exlibris.link/0d418vFf"
+  volume: 29
+- id: ivanov1981
+  author:
+  - family: Ivanov
+    given: Konstantin Evgenʹevich
+    suffix: d-r geogr. nauk
+  collection-number: Book, Whole
+  ISBN: 9780123764607;0123764602;
+  issued: 1981
+  key: KYJX86L6
+  language: English
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Academic Press
+  publisher-place: London;New York;
+  title: Water movement in Mirelands
+  type: book
+  URL: "https://go.exlibris.link/2CQ7tbYM"
+- id: nungesser2003
+  accessed: "19:42:22"
+  author:
+  - family: Nungesser
+    given: Martha K.
+  container-title: Ecological Modelling
+  container-title-short: Ecological Modelling
+  DOI: 10.1016/S0304-3800(03)00067-X
+  ISSN: 03043800
+  issue: 2-3
+  issued: 2003-07
+  key: HDR9T3S5
+  language: en
+  libraryID: 1
+  page: 175-207
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Modelling microtopography in boreal peatlands: hummocks and
+    hollows"
+  title-short: Modelling microtopography in boreal peatlands
+  type: article-journal
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/S030438000300067X"
+  volume: 165
+- id: ingram1978
+  author:
+  - family: Ingram
+    given: H. A. P.
+  container-title: Journal of Soil Science
+  DOI: 10.1111/j.1365-2389.1978.tb02053.x
+  ISSN: 0022-4588
+  issue: 2
+  issued: 1978
+  key: DEDP6CC8
+  language: English
+  libraryID: 1
+  page: 224-227
+  Place: Oxford,
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  Publisher: Blackwell Scientific for the British Society of Soil
+    Science
+  title: Soil layers in mires; function and terminology
+  type: article-journal
+  UK
+  Publisher: Blackwell
+  URL: "https://go.exlibris.link/0d418vFf"
+  volume: 29
+- id: ivanov1981
+  author:
+  - family: Ivanov
+    given: Konstantin Evgenʹevich
+    suffix: d-r geogr. nauk
+  collection-number: Book, Whole
+  ISBN: 9780123764607;0123764602;
+  issued: 1981
+  key: KYJX86L6
+  language: English
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Academic Press
+  publisher-place: London;New York;
+  title: Water movement in Mirelands
+  type: book
+  URL: "https://go.exlibris.link/2CQ7tbYM"
+- id: nungesser2003
+  accessed: "19:42:22"
+  author:
+  - family: Nungesser
+    given: Martha K.
+  container-title: Ecological Modelling
+  container-title-short: Ecological Modelling
+  DOI: 10.1016/S0304-3800(03)00067-X
+  ISSN: 03043800
+  issue: 2-3
+  issued: 2003-07
+  key: HDR9T3S5
+  language: en
+  libraryID: 1
+  page: 175-207
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Modelling microtopography in boreal peatlands: hummocks and
+    hollows"
+  title-short: Modelling microtopography in boreal peatlands
+  type: article-journal
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/S030438000300067X"
+  volume: 165
+- id: taskila2016
+  accessed: "22:33:29"
+  author:
+  - family: Taskila
+    given: Sanna
+  - family: Särkelä
+    given: Riikka
+  - family: Tanskanen
+    given: Juha
+  container-title: Biomass Conversion and Biorefinery
+  container-title-short: Biomass Conv. Bioref.
+  DOI: 10.1007/s13399-015-0169-3
+  ISSN: 2190-6815, 2190-6823
+  issue: 1
+  issued: 2016-03
+  key: 95TRNZBU
+  language: en
+  libraryID: 1
+  page: 115-126
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Valuable applications for peat moss
+  type: article-journal
+  URL: "http://link.springer.com/10.1007/s13399-015-0169-3"
+  volume: 6
+- id: wieder2006
+  author:
+  - family: Wieder
+    given: R. K.
+  - family: Vitt
+    given: D. H.
+  container-title: Boreal Peatland Ecosystems
+  DOI: 10.1007/978-3-540-31913-9_10
+  ISBN: 0070-8356
+  issued: 2006
+  key: IQ9PWCQB
+  language: English
+  libraryID: 1
+  number-of-volumes: Book, Section
+  page: 195-230
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Springer Berlin / Heidelberg
+  publisher-place: Germany
+  title: The Nitrogen Cycle in Boreal Peatlands
+  type: chapter
+  URL: "https://go.exlibris.link/ptYN9Nhd"
+  volume: 188
+- id: ingram1983
+  author:
+  - family: Ingram
+    given: HAP
+  collection-editor:
+  - family: Gore
+    given: AJP
+  collection-number: Book, Whole
+  ISBN: 0167-4579
+  issued: 1983
+  key: 97LAKS7J
+  language: English
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  title: Hydrology
+  type: book
+  URL: "https://go.exlibris.link/Q96BSYfB"
+- id: vanbreemen1995
+  accessed: "23:09:48"
+  author:
+  - family: Van Breemen
+    given: Nico
+  container-title: Trends in Ecology & Evolution
+  container-title-short: Trends in Ecology & Evolution
+  DOI: 10.1016/0169-5347(95)90007-1
+  ISSN: 01695347
+  issue: 7
+  issued: 1995-07
+  key: YTH9HUBD
+  language: en
+  libraryID: 1
+  page: 270-275
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: How Sphagnum bogs down other plants
+  type: article-journal
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/0169534795900071"
+  volume: 10
+- id: nungesser2003
+  accessed: "21:09:29"
+  author:
+  - family: Nungesser
+    given: Martha K.
+  container-title: Ecological Modelling
+  container-title-short: Ecological Modelling
+  DOI: 10.1016/S0304-3800(03)00067-X
+  ISSN: 03043800
+  issue: 2-3
+  issued: 2003-07
+  key: PBTPJJTQ
+  language: en
+  libraryID: 1
+  page: 175-207
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Modelling microtopography in boreal peatlands: hummocks and
+    hollows"
+  title-short: Modelling microtopography in boreal peatlands
+  type: article-journal
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/S030438000300067X"
+  volume: 165
+- id: taskila2016
+  accessed: "22:33:29"
+  author:
+  - family: Taskila
+    given: Sanna
+  - family: Särkelä
+    given: Riikka
+  - family: Tanskanen
+    given: Juha
+  container-title: Biomass Conversion and Biorefinery
+  container-title-short: Biomass Conv. Bioref.
+  DOI: 10.1007/s13399-015-0169-3
+  ISSN: 2190-6815, 2190-6823
+  issue: 1
+  issued: 2016-03
+  key: 95TRNZBU
+  language: en
+  libraryID: 1
+  page: 115-126
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Valuable applications for peat moss
+  type: article-journal
+  URL: "http://link.springer.com/10.1007/s13399-015-0169-3"
+  volume: 6
+- id: eppinga2009
+  accessed: "23:53:13"
+  author:
+  - family: Eppinga
+    given: Maarten B.
+  - family: De Ruiter
+    given: Peter C.
+  - family: Wassen
+    given: Martin J.
+  - family: Rietkerk
+    given: Max
+  container-title: The American Naturalist
+  container-title-short: The American Naturalist
+  DOI: 10.1086/598487
+  ISSN: 0003-0147, 1537-5323
+  issue: 6
+  issued: 2009-06
+  key: CCI8YET7
+  language: en
+  libraryID: 1
+  page: 803-818
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Nutrients and Hydrology Indicate the Driving Mechanisms of
+    Peatland Surface Patterning
+  type: article-journal
+  URL: "https://www.journals.uchicago.edu/doi/10.1086/598487"
+  volume: 173
+- id: nungesser2003
+  accessed: "21:09:29"
+  author:
+  - family: Nungesser
+    given: Martha K.
+  container-title: Ecological Modelling
+  container-title-short: Ecological Modelling
+  DOI: 10.1016/S0304-3800(03)00067-X
+  ISSN: 03043800
+  issue: 2-3
+  issued: 2003-07
+  key: PBTPJJTQ
+  language: en
+  libraryID: 1
+  page: 175-207
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Modelling microtopography in boreal peatlands: hummocks and
+    hollows"
+  title-short: Modelling microtopography in boreal peatlands
+  type: article-journal
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/S030438000300067X"
+  volume: 165
+- id: eppinga2009
+  accessed: "23:53:13"
+  author:
+  - family: Eppinga
+    given: Maarten B.
+  - family: De Ruiter
+    given: Peter C.
+  - family: Wassen
+    given: Martin J.
+  - family: Rietkerk
+    given: Max
+  container-title: The American Naturalist
+  container-title-short: The American Naturalist
+  DOI: 10.1086/598487
+  ISSN: 0003-0147, 1537-5323
+  issue: 6
+  issued: 2009-06
+  key: CCI8YET7
+  language: en
+  libraryID: 1
+  page: 803-818
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Nutrients and Hydrology Indicate the Driving Mechanisms of
+    Peatland Surface Patterning
+  type: article-journal
+  URL: "https://www.journals.uchicago.edu/doi/10.1086/598487"
+  volume: 173
+- id: eppinga2009
+  accessed: "00:08:16"
+  author:
+  - family: Eppinga
+    given: Maarten B.
+  - family: Rietkerk
+    given: Max
+  - family: Wassen
+    given: Martin J.
+  - family: De Ruiter
+    given: Peter C.
+  container-title: Plant Ecology
+  container-title-short: Plant Ecol
+  DOI: 10.1007/s11258-007-9309-6
+  ISSN: 1385-0237, 1573-5052
+  issue: 1
+  issued: 2009-01
+  key: QRDLW48S
+  language: en
+  libraryID: 1
+  page: 53-68
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Linking habitat modification to catastrophic shifts and
+    vegetation patterns in bogs
+  type: article-journal
+  URL: "https://link.springer.com/10.1007/s11258-007-9309-6"
+  volume: 200
+- id: morris2011
+  accessed: "00:10:12"
+  author:
+  - family: Morris
+    given: Paul J.
+  - family: Waddington
+    given: J. Michael
+  - family: Benscoter
+    given: Brian W.
+  - family: Turetsky
+    given: Merritt R.
+  container-title: Ecohydrology
+  container-title-short: Ecohydrology
+  DOI: 10.1002/eco.191
+  ISSN: 1936-0584, 1936-0592
+  issue: 1
+  issued: 2011-01
+  key: S2N4DKZH
+  language: en
+  libraryID: 1
+  page: 1-11
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Conceptual frameworks in peatland ecohydrology: looking beyond
+    the two‐layered (acrotelm--catotelm) model"
+  title-short: Conceptual frameworks in peatland ecohydrology
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/10.1002/eco.191"
+  volume: 4
 ...

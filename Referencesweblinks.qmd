@@ -9,3 +9,19 @@ editor: visual
 1\) The Ecology of Sphagnum <https://link.springer.com/chapter/10.1007/978-94-009-5891-3_8>
 
 2\) Biology of Peatlands <https://ebookcentral.proquest.com/lib/ubc/reader.action?docID=4964460>
+
+## Stratification
+
+1\) Terminology of Acrotelm and Catotelm: <https://bsssjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1365-2389.1978.tb02053.x>
+
+2\) Evaluation on the acrotelm and catotelm structure:
+
+<https://onlinelibrary.wiley.com/doi/full/10.1002/eco.191>
+
+## Microtopography
+
+1\) Belyea LR, Baird AJ. 2006. Beyond "the limits to peat bog growth": cross-scale feedback in peatland development. *Ecological Monographs* **76**: 299--322.
+
+2\) Eppinga MB, de Ruiter PC, Wassen MJ, Rietkerk M. 2009a. Nutrients and hydrology indicate the driving mechanisms of peatland surface patterning. *The American Naturalist* **173**: 803--818. DOI: 10.1086/598487.
+
+3\) Eppinga MB, Rietkerk M, Wassen MJ, de Ruiter PC. 2009b. Linking habitat modification to catastrophic shifts and vegetation patterns in bogs. *Plant Ecology* **200**: 53--68.

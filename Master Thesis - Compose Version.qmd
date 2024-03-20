@@ -22,11 +22,17 @@ Peatlands are significant terrestrial stocks of C, which encompass 3% of the wor
 
 Northern peatlands are commonly classified as fens and bogs based on water sources and chemistry, peat and vegetation composition [@bonn2016; @damman1987; @edvardsson2016a]. Fens receive their nutrients and water from groundwater influx and atmospheric deposition, leading to higher pH levels and nutrient availability. Conversely, bogs are primarily sustained by precipitation, leading to more acidic conditions and lower nutrient concentrations [@bonn2016; @damman1987; @rydin2013]. Compared to fens, bogs are more efficient at storing C, attributable to slower decomposition rates stemming from their limited nutrient content and reliance on precipitation for water input [@bonn2016]. The geochemical distinctions between fens and bogs lead to distinct plant compositions: fens mainly host vascular plants, like sedges, and brown mosses from the Amblystegiaceae family, while bogs are primarily occupied by peat mosses from the Sphagnaceae family with fewer vascular plants [@rydin2013].
 
-**Check -** Bogs comprise two layers: a porous, less decomposed surface layer called the acrotelm, and a saturated, more decomposed deeper layer called the catotelm. This two-layer structure regulates the movement and storage of water and nutrients in the bog (Nungesser, 2003). During precipitation, the water table rises, and water starts to flow laterally and can flood the peat surface. During moisture deficits, water levels drop, and little to no water moves from the saturated underlying catotelm to the upper acrotelm due to the low hydraulic conductivity of peat (Nungesser, 2003).
-
 Raised bog/blanket bog/schwingmoor, valley-bog
 
-#### Bog Vegetation
+#### Stratification and Microtopography of Bog Ecosystems (4pm)
+
+Vertically, bogs consist of two layers: the acrotelm, a porous, less decomposed surface layer typically 10--40 cm thick, and the catotelm, a saturated, more decomposed deeper layer that can extend up to 6 meters deep [@ingram1978; @ivanov1981; @nungesser2003; @taskila2016; @wieder2006]. These layers play distinct roles in water dynamics and carbon cycling within bogs. Water movement within bogs is primarily horizontal through the acrotelm, which facilitates rapid lateral flow due to its porosity. In contrast, the water-saturated catotelm, characterized by lower permeability, permits only limited vertical percolation [@ingram1983; @vanbreemen1995]. Regarding carbon dynamics, the acrotelm is characterized by dense floating Sphagnum mats and serves as the zone of active peat formation. The catotelm, in contrast, acts as a stable carbon sink. Its anaerobic conditions slow decomposition, thus fostering the long-term accumulation of carbon [@nungesser2003; @taskila2016].
+
+Horizontally, the bog landscape features hummocks and hollows. Hummocks are raised mounds within the bog ecosystem, formed by a thicker acrotelm layer, while hollows are depressed, flat areas among the hummocks, characterized by a much thinner acrotelm layer or none at all [@eppinga2009; @nungesser2003]. Microtopographic differences arise from spatially variable transfers of water, nutrients, and energy between microforms [@eppinga2009; @eppinga2009; @morris2011].
+
+-   What differences?
+
+#### Bog Vegetation (6pm)
 
 The acidic and low-nutrient environment in bogs provides the ideal conditions for Sphagnum moss to grow, which is the primary peat-forming vegetation in bogs. Sphagnum moss, characterized by its hanging branches around the stem, possesses an efficient capillary network that functions like a wick to draw water upward, facilitating hydration above the water table level. Additionally, the moss's unique anatomy, which includes dead hyaline cells in the leaves and stem cortex, allows for considerable water storage, predominantly between the leaves. Together, these mechanisms contribute to the waterlogged conditions conducive to peat accumulation [@clymo1982; @rydin2013].
 
@@ -40,6 +46,8 @@ chrome-[extension://efaidnbmnnnibpcajpcglclefindmkaj/https://boglearningnetwork.
 
 Check: Other common bog plant groups include ericaceous shrubs, herbs and mosses. Ericaceous shrubs are a type of heath vegetation specially adapted to live in acidic conditions. Herb species are generally less tolerant of low nutrient environments and in peatlands there is a low diversity of herbs. Moss species other than Sphagnum usually first colonize bare peat stabilizing the ground, moderating ground temperature and nutrients thus making the environment hospitable for Sphagnum moss establishment
 
+#### Bog Hydrology
+
 #### Peat and Peat Processes
 
 Peatlands are wetlands ecosystems with the presence of naturally accumulated peat layers (at least 30-40 cm thick) at the surface [@frolking2011]. Peat is an organic material composed the incomplete and partially decomposed plant and animal material. In an undisturbed peatland, peat is composed of 88-97% water, 2-10% dry matter and 1-7% gases.
@@ -47,10 +55,6 @@ Peatlands are wetlands ecosystems with the presence of naturally accumulated pea
 Peat formation is a slow geologic process where partially decomposed plant material accumulates in waterlogged conditions. The high water content creates an anaerobic environment, limiting the activity of decomposing microorganisms and thus slowing down decomposition. This leads to the accumulation of organic matter, primarily from mosses like Sphagnum, along with other vegetation and sometimes animal material. Over time, layers of this organic matter compress and form peat, which is rich in carbon and can vary in depth. Peatlands, as a result, become significant carbon sinks, contributing to long-term carbon sequestration and playing a vital role in the global carbon cycle [@peatland2016]. Northern peatlands have been documented to accumulate peat at a rate of 1 mm/year.
 
 Peat is a highly concentrated stockpile of C that forms and accumulates due to the slow decay of organic matter caused by the anaerobic and waterlogged environment that characterizes these ecosystems [@peatland2016].
-
-#### Microtopography
-
-#### Bog Hydrology
 
 ### The Carbon Cycle in Peatlands
 
