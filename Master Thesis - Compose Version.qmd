@@ -22,33 +22,33 @@ Peatlands are significant terrestrial stocks of C, which encompass 3% of the wor
 
 Northern peatlands are commonly classified as fens and bogs based on water sources and chemistry, peat and vegetation composition [@bonn2016; @damman1987; @edvardsson2016a]. Fens receive their nutrients and water from groundwater influx and atmospheric deposition, leading to higher pH levels and nutrient availability. Conversely, bogs are primarily sustained by precipitation, leading to more acidic conditions and lower nutrient concentrations [@bonn2016; @damman1987; @rydin2013]. Compared to fens, bogs are more efficient at storing C, attributable to slower decomposition rates stemming from their limited nutrient content and reliance on precipitation for water input [@bonn2016]. The geochemical distinctions between fens and bogs lead to distinct plant compositions: fens mainly host vascular plants, like sedges, and brown mosses from the Amblystegiaceae family, while bogs are primarily occupied by peat mosses from the Sphagnaceae family with fewer vascular plants [@rydin2013].
 
-Raised bog/blanket bog/schwingmoor, valley-bog
+Bogs, widespread in the temperate and cold zones of North America, Europe, Russia, North Asia, and South America, are classified based on basal topography and peat thickness into types such as blanket and raised bogs [@flores2014; @hammond1981]. Blanket bogs, emerging on slopes, have an average peat depth of 2.6 meters and are typically formed in cool temperate climates. In contrast, raised bogs, identifiable by their elevated surfaces and situated on flat central plains, are marked by more substantial peat accumulations, with an average depth of 9 meters [@hammond1981; @nungesser2003]. These raised bogs are confined to humid, warm temperate regions where the annual precipitation surpasses the evapotranspiration [@damman1977; @proctor1995].
 
-#### Stratification and Microtopography of Bog Ecosystems (4pm)
-
-Vertically, bogs consist of two layers: the acrotelm, a porous, less decomposed surface layer typically 10--40 cm thick, and the catotelm, a saturated, more decomposed deeper layer that can extend up to 6 meters deep [@ingram1978; @ivanov1981; @nungesser2003; @taskila2016; @wieder2006]. These layers play distinct roles in water dynamics and carbon cycling within bogs. Water movement within bogs is primarily horizontal through the acrotelm, which facilitates rapid lateral flow due to its porosity. In contrast, the water-saturated catotelm, characterized by lower permeability, permits only limited vertical percolation [@ingram1983; @vanbreemen1995]. Regarding carbon dynamics, the acrotelm is characterized by dense floating Sphagnum mats and serves as the zone of active peat formation. The catotelm, in contrast, acts as a stable carbon sink. Its anaerobic conditions slow decomposition, thus fostering the long-term accumulation of carbon [@nungesser2003; @taskila2016].
-
-Horizontally, the bog landscape features hummocks and hollows. Hummocks are raised mounds within the bog ecosystem, formed by a thicker acrotelm layer, while hollows are depressed, flat areas among the hummocks, characterized by a much thinner acrotelm layer or none at all [@eppinga2009; @nungesser2003]. Microtopographic differences arise from spatially variable transfers of water, nutrients, and energy between microforms [@eppinga2009; @eppinga2009; @morris2011].
-
--   What differences?
-
-#### Bog Vegetation (6pm)
+#### Bog Vegetation
 
 The acidic and low-nutrient environment in bogs provides the ideal conditions for Sphagnum moss to grow, which is the primary peat-forming vegetation in bogs. Sphagnum moss, characterized by its hanging branches around the stem, possesses an efficient capillary network that functions like a wick to draw water upward, facilitating hydration above the water table level. Additionally, the moss's unique anatomy, which includes dead hyaline cells in the leaves and stem cortex, allows for considerable water storage, predominantly between the leaves. Together, these mechanisms contribute to the waterlogged conditions conducive to peat accumulation [@clymo1982; @rydin2013].
 
-Evidence that sphagnum outcompete other plants:
+Sphagnum mosses engineer the bog's acidic and oligotrophic conditions, outcompeting many vascular plants and facilitating their dominance in peat formation [@piatkowski2021; @rydin2013; @vanbreemen1995]. Other common plant groups in bogs include ericaceous shrubs, herbs, and mosses. Ericaceous shrubs are adapted to acidic conditions typical of heath vegetation, while herbs exhibit lower tolerance to nutrient-poor environments, resulting in limited diversity within peatlands. Non-Sphagnum moss species primarily colonize bare peat, stabilizing the substrate and regulating soil conditions, thus creating a favorable environment for the establishment of Sphagnum mosses [@rydin2013].
 
-The morphological, anatomical, physiological and organo- chemical properties of Sphagnum give it attributes (see Fig. 4) that help form acidic, nutrient-poor, heat-insulating and slowly permeable peat. Depressed growth of vascular plants increases (1) light availability and (2) wetness, via decreased evapotranspiration 1°, both of which positively feed back to the growth of Sphagnum, and thus to peat growth.
+#### Stratification and Microtopography of Bog Ecosystems (Improving)
 
-The frequent claim that forest is the climax veg- etation on bogs seems to be poorly substantiated 2.
+Vertically, bogs consist of two layers: the acrotelm, a porous, less decomposed surface layer typically 10--40 cm thick, and the catotelm, a saturated, more decomposed deeper layer that can extend up to 6 meters deep [@ingram1978; @ivanov1981; @nungesser2003; @taskila2016; @wieder2006]. These layers play distinct roles in water dynamics and carbon cycling within bogs. Water movement within bogs is primarily horizontal through the acrotelm, which facilitates rapid lateral flow due to its porosity. In contrast, the water-saturated catotelm, characterized by lower permeability, permits only limited vertical percolation [@ingram1983; @vanbreemen1995]. Regarding carbon dynamics, the acrotelm is characterized by dense floating Sphagnum mats and serves as the zone of active peat formation. The catotelm, in contrast, acts as a stable carbon sink. Its anaerobic conditions slow decomposition, thus fostering the long-term accumulation of carbon [@nungesser2003; @taskila2016].
 
-chrome-[extension://efaidnbmnnnibpcajpcglclefindmkaj/https://boglearningnetwork.files.wordpress.com/2014/10/1995-van-breeman-how-sphagnum-bogs-down-other-plants.pdf](extension://efaidnbmnnnibpcajpcglclefindmkaj/https://boglearningnetwork.files.wordpress.com/2014/10/1995-van-breeman-how-sphagnum-bogs-down-other-plants.pdf)
+Horizontally, the bog landscape features hummocks and hollows. Hummocks are raised mounds within the bog ecosystem, formed by a thicker acrotelm layer, while hollows are depressed, flat areas among the hummocks, characterized by a much thinner acrotelm layer or none at all [@eppinga2009; @nungesser2003]. Microtopographic differences arise from spatially variable transfers of water, nutrients, energy and differences in sphanum species between microforms [@eppinga2009; @eppinga2009; @morris2011; @nungesser2003].
 
-Check: Other common bog plant groups include ericaceous shrubs, herbs and mosses. Ericaceous shrubs are a type of heath vegetation specially adapted to live in acidic conditions. Herb species are generally less tolerant of low nutrient environments and in peatlands there is a low diversity of herbs. Moss species other than Sphagnum usually first colonize bare peat stabilizing the ground, moderating ground temperature and nutrients thus making the environment hospitable for Sphagnum moss establishment
+[**https://doi.org/10.1002/eco.1313**](https://doi.org/10.1002/eco.1313)*Sphagnum fuscum* is considered to be the dominant hummock-forming species in North America because it typically grows higher above the water table than other hummock species (e.g. *S. fuscum* \> *Sphagnum rubellum \> Sphagnum magellanicum*) and thus outcompetes them (Robroek *et al*., [2007a](https://onlinelibrary.wiley.com/doi/10.1002/eco.1313#eco1313-bib-0024)).
 
-#### Bog Hydrology
+[Johnson and Damman (1991)](https://www.sciencedirect.com/science/article/pii/S030438000300067X#BIB51) interpreted these results to mean that peat accumulates faster in hummocks than in hollows ([Johnson and Damman, 1991](https://www.sciencedirect.com/science/article/pii/S030438000300067X#BIB51), [Moore, 1991](https://www.sciencedirect.com/science/article/pii/S030438000300067X#BIB71)). This higher rate of annual peat accumulation in hummocks was observed by [Ohlson and Dahlberg (1991)](https://www.sciencedirect.com/science/article/pii/S030438000300067X#BIB81), as well.
 
-#### Peat and Peat Processes
+Hummock species are able to grow higher above the water table because of the efficiency of their external capillary system and their ability to hold water (Hayward and Clymo 1982, Ingram 1983, Titus and Wagner 1984, Luken 1985). In contrast, hollow species are usually restricted to habitats closer to the water table because their potential to retain water by capillary rise is inferior.
+
+#### Bog Hydrology (03/21)
+
+The acrotelm-catotelm structure of bog soil has a profound effect on the movement and storage of water within the bog ecosystem. Following precipitation events, the acrotelm experiences an increase in water content. This leads to an elevation in the water table within the acrotelm, which initiates lateral flow and, in instances of surplus, results in surface flooding. During periods of reduced moisture, the water table lowers, leading to constrained water migration from the catotelm to acrotelm, with negligible to no runoff observed [@bragg1995; @price2003].
+
+The depth to the water table, often referred to as 'water table depth' or 'water level', is widely utilized as a key indicator in peatland hydrology to understand hydrological patterns and relationships [@howie2009; @rydin2013]. The hydrological dynamics of a raised bog are fundamental in shaping its ecosystem, influencing both its physical attributes and biological functions [@heathwaite1993]. Notably, peat-forming Sphagnum moss and other bog vegetation, essential for the bog's structural integrity and ecological function, are favored by a high water table (\>40cm)[@hebda2000]. Environmental disturbances, vegetation cover, topographical features, geological formations, and climatic variables are factors that significantly influence hydrological processes **(more citations here)**.
+
+#### Peat and Peat Processes (03/22)
 
 Peatlands are wetlands ecosystems with the presence of naturally accumulated peat layers (at least 30-40 cm thick) at the surface [@frolking2011]. Peat is an organic material composed the incomplete and partially decomposed plant and animal material. In an undisturbed peatland, peat is composed of 88-97% water, 2-10% dry matter and 1-7% gases.
 
@@ -58,7 +58,7 @@ Peat is a highly concentrated stockpile of C that forms and accumulates due to t
 
 ### The Carbon Cycle in Peatlands
 
-#### Land-atmosphere Exchanges of Carbon Fluxes
+#### Land-atmosphere Exchanges of Carbon Fluxes (03/23)
 
 @chapin2006 proposed the term 'Net Ecosystem Carbon Balance' (NECB) to describe the overall carbon (C) balance in ecosystems from all sources, which represents the net rate of carbon accumulation in ecosystems. NECB includes carbon pathways between terrestrial and atmospheric systems, terrestrial and aquatic systems and particulate transport. In most peatlands, NECB can be simplified to encompass three main components: the Net Ecosystem Exchange/FCO2 (the net CO2 flux between terrestrial ecosystems and the atmosphere), FCH4 (the net CH4 flux between terrestrial ecosystems and the atmosphere), and FDOC (net dissolved organic carbon) [@strack2013; @dacunha2019]. The land-atmosphere exchange of carbon fluxes, defined solely with carbon pathways between terrestrial and atmospheric systems, includes two key components of the NECB in peatlands: FCO2 and FCH4.
 
@@ -68,7 +68,7 @@ F~CH4~ from peatlands are the net balance of CH~4~ production (methanogenesis) i
 
 ![Figure 1. A representation of land-atmosphere carbon fluxes cycle in peatland. Modified from [@holden2005] and [@lloyd2013].](images/Screen%20Shot%202023-12-30%20at%205.40.09%20PM.png){fig-align="center"}
 
-#### Biophysical Controls of Reco and F~CH4~
+#### Biophysical Controls of Reco and F~CH4  03/23-03/24~
 
 There are two categories of factors that influence the carbon fluxes: abiotic (peat tempearure, light, water availability) and biotic factors (vegetation communities and phenology). Reco is closely associated with surface soil temperature (Ts) and water table depth (WTD). Extensive research indicates a positive correlation between Ts and Reco [@järveoja2018; @lloyd1994; @wang2014]. Ts explains 43-74% of daily Reco variability, with WTD accounting for an additional 5-20% [@bubier1998a]. WTD regulates the aerobic zone's depth in peat soil profiles, where a lower water table and thicker aerobic zone can increase carbon mineralization rates [@blodau2004; @frolking2011]. WTD's impact on Reco is more significant on seasonal scales [@bubier1998a].
 
@@ -78,7 +78,7 @@ WTD, Ts, peat acidity and vegetation communities are key factors influencing F~C
 
 The temperature coefficients, known as Q10 values, represent the factor by which a reaction rate increases for every 10℃ rise in temperature. These coefficients are commonly utilized to evaluate how sensitive microbial processes are to fluctuations in temperature.
 
-### The Impacts of Fires on Peatlands
+### The Impacts of Fires on Peatlands 03/25
 
 Under a warming climate, peatlands are facing increased frequency and extent of peat fires, which can turn peatlands from net C sinks to net sources (Turetsky et al., 2015; Waddington et al., 2015).
 
@@ -96,22 +96,84 @@ Fires significantly affect carbon (C) cycling in peatlands, resulting in substan
 
 Peat fires may lead to either positive or negative feedback responses in relation to the post-fire hydrological conditions of the peatland. If peatlands are undrained or well-connected to groundwater sources, the post-fire water tables may remain stable at levels similar to those before the fire, promoting recovery and moss regeneration [@kettridge2015; @lukenbach2017]. Conversely, in peatlands that are not well-connected to groundwater sources or have been drained, peat fires can result in a lowered and more fluctuating water table in the subsequent years [@lukenbach2017; @sherwood2013; @thompson2013]. Such lowered water tables, along with increased fluctuations, can trigger a shift in vegetation composition, leading to the disappearance of Sphagnum moss and the emergence of taller shrubs and trees [@howie2020; @bönsel2011]. @kettridge2015 quantified the post-wildfire recovery of a northern peatland subjected to decades of drainage and found that the combined impact of moderate drainage and wildfire transformed the low-productivity, moss-dominated peatland into a non-carbon accumulating shrub-grass ecosystem. These ecosystem shifts can further alter the peatland's ecohydrological structure and function, impacting GHG fluxes [@wilkinson2018].  
 
-### Restoration
+### Restoration 03/26
 
 ### Burns Bog
 
-#### Vegetation
+#### Vegetation 03/27
 
-#### Drainage
+#### Drainage 03/28
 
-#### Disturbances and Restoration
+#### Disturbances and Restoration 03/29
 
-#### Carbon Fluxes
+Fire has been an element of the Burns Bog ecosystem for a long time and has been suggested as one of the drivers of hummock-hollow processes (Hebda 1977; Banner et al. 1988)
 
-### Research Objectives
+#### Carbon Fluxes 03/30
+
+### Research Objectives 03/31
 
 The overall goal of this study is to investigate how seedling removal as a postfire management impacts soil GHG fluxes and whether this strategy can help promote soil C sequestration following peat fires. This research aims to improve our understanding of C cycling in peatlands following fire, and how post-fire management strategies can enhance C sequestration. Peat fires lead to drier soil conditions, which in turn promote seed germination and seedling growth. The increase in tree cover is expected to result in lower WTD and subsequently higher Reco, but lower CH4 emissions. In this study, I aim to test the hypothesis (Figure 4): that the removal of seedlings can help restore the ecosystem by increasing the volumetric water content and raising the water table, thereby lowering Reco and increasing CH4 emissions.
 
 To investigate this hypothesis, the study will compare manual measurements of soil and near-surface respiration fluxes (CO2 & CH4) and environmental variables (WTD and Ts) between seedling and non-seedling treatments in three ecosystem types in the 2016 Burned Zone in the BBECA to assess impacts of seedling removal onReco and methane fluxes (FCH4). Also, year-round Reco & FCH4 at each study site will be modelled based on manual measurements of fluxes and continuous measurements of environmental variables (WTD and Ts ).  
 
 Here we focus on respiration fluxes for two main reasons: 1) respiration represents a crucial C pathway in peatland ecosystems, and 2) our aim is to examine the effects of seedling removal on peatland soil fluxes. Consequently, examining aboveground productivity may not yield accurate insights into the desired research question, since while the growth of seedlings can potentially increase GPP, this may not result in enhanced soil C sequestration. By concentrating on respiration fluxes, we can better understand the impacts of seedling removal on soil C dynamics within the peatland. 
+
+## Methods (04/01 & 04/02)
+
+## Results （03/21 - ）
+
+### Environmental Variables (03/21 & 03/22)
+
+#### Weather
+
+#### Biophysical Controls
+
+##### Soil Temperature at 5/10/30cm - Editing
+
+##### Soil Water Content
+
+##### Water Level
+
+### Reco (03/23-03/25)
+
+#### Temporal Changes of Fluxes 
+
+#### Treatments Effects
+
+#### Biophysical Controls
+
+##### Soil Temperature at 5/10/30cm - Editing
+
+##### Soil Water Content
+
+##### Water Level
+
+### FCH4 (03/26-03/27)
+
+#### Temporal Changes of Fluxes
+
+#### Treatments Effects
+
+#### Biophysical Controls
+
+##### Soil Temperature at 5/10/30cm - Editing
+
+##### Soil Water Content
+
+##### Water Level
+
+### Modelling (03/28-03/31)
+
+#### Anova
+
+##### Reco
+
+##### FCH4
+
+#### Linear Model
+
+##### Reco
+
+##### FCH4
+
+## Discussion （04/03 - 04/10）

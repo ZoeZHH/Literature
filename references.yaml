@@ -2787,4 +2787,332 @@ references:
   type: article-journal
   URL: "https://onlinelibrary.wiley.com/doi/10.1002/eco.191"
   volume: 4
+- id: piatkowski2021
+  accessed: "00:35:38"
+  author:
+  - family: Piatkowski
+    given: Bryan T.
+  - family: Yavitt
+    given: Joseph B.
+  - family: Turetsky
+    given: Merritt R.
+  - family: Shaw
+    given: A. Jonathan
+  container-title: "Proceedings of the Royal Society B: Biological
+    Sciences"
+  container-title-short: Proc. R. Soc. B.
+  DOI: 10.1098/rspb.2021.0609
+  ISSN: 0962-8452, 1471-2954
+  issue: 1957
+  issued: 2021-08-25
+  key: 28NPIFFI
+  language: en
+  libraryID: 1
+  page: 20210609
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Natural selection on a carbon cycling trait drives ecosystem
+    engineering by *Sphagnum* (peat moss)
+  type: article-journal
+  URL: "https://royalsocietypublishing.org/doi/10.1098/rspb.2021.0609"
+  volume: 288
+- id: rydin2013
+  accessed: "05:49:20"
+  author:
+  - family: Rydin
+    given: Håkan
+  - family: Jeglum
+    given: John K.
+  DOI: "10.1093/acprof:osobl/9780199602995.001.0001"
+  ISBN: 978-0-19-960299-5
+  issued: 2013-07-18
+  key: YDYJNF9M
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Oxford University Press
+  source: DOI.org (Crossref)
+  title: The Biology of Peatlands
+  type: book
+  URL: "https://academic.oup.com/book/5054"
+- id: vanbreemen1995
+  accessed: "23:09:48"
+  author:
+  - family: Van Breemen
+    given: Nico
+  container-title: Trends in Ecology & Evolution
+  container-title-short: Trends in Ecology & Evolution
+  DOI: 10.1016/0169-5347(95)90007-1
+  ISSN: 01695347
+  issue: 7
+  issued: 1995-07
+  key: YTH9HUBD
+  language: en
+  libraryID: 1
+  page: 270-275
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: How Sphagnum bogs down other plants
+  type: article-journal
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/0169534795900071"
+  volume: 10
+- id: rydin2013
+  accessed: "05:49:20"
+  author:
+  - family: Rydin
+    given: Håkan
+  - family: Jeglum
+    given: John K.
+  DOI: "10.1093/acprof:osobl/9780199602995.001.0001"
+  ISBN: 978-0-19-960299-5
+  issued: 2013-07-18
+  key: YDYJNF9M
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Oxford University Press
+  source: DOI.org (Crossref)
+  title: The Biology of Peatlands
+  type: book
+  URL: "https://academic.oup.com/book/5054"
+- id: flores2014
+  accessed: "18:05:44"
+  author:
+  - family: Flores
+    given: Romeo M.
+  container-title: Coal and Coalbed Gas
+  DOI: 10.1016/B978-0-12-396972-9.00003-3
+  ISBN: 978-0-12-396972-9
+  issued: 2014
+  key: NRMFCNNW
+  language: en
+  libraryID: 1
+  page: 97-165
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Elsevier
+  source: DOI.org (Crossref)
+  title: Origin of Coal as Gas Source and Reservoir Rocks
+  type: chapter
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/B9780123969729000033"
+- id: hammond1981
+  author:
+  - family: Hammond
+    given: R F
+  issued: 1981-01-01
+  key: ZJBKCSLT
+  language: English
+  libraryID: 1
+  number-of-pages: 64
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: HEDB
+  publisher-place: Ireland
+  title: The peatlands of Ireland
+  type: book
+- id: damman1977
+  author:
+  - family: Damman
+    given: A. W. H.
+  container-title: Vegetatio
+  DOI: 10.1007/BF02097065
+  ISSN: 0042-3106
+  issue: 3
+  issued: 1977
+  key: 4LF3T5NH
+  language: English
+  libraryID: 1
+  page: 137-151
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  Publisher: DR
+  title: Geographical changes in the vegetation pattern of raised bogs
+    in the Bay of Fundy region of Maine and New Brunswick
+  type: article-journal
+  URL: "https://go.exlibris.link/6dk8sj3d"
+  volume: 35
+- id: proctor1995
+  author:
+  - family: Proctor
+    given: M. C. F.
+  container-title: Restoration of temperate wetlands
+  editor:
+  - family: Wheeler
+    given: Bryan D.
+  - family: Shaw
+    given: Susan C.
+  - family: Fojt
+    given: Wanda J.
+  - family: Robertson
+    given: R. Allan
+  ISBN: 9780471951056;0471951056;
+  issued: 1995
+  key: A7JIBKCU
+  language: English
+  libraryID: 1
+  note: Conference Proceedings
+  page: 287-303
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: John Wiley & Sons
+  publisher-place: Chichester, West Sussex
+  title: The ombrogenous bog environment
+  type: paper-conference
+  URL: "https://go.exlibris.link/L06SXpY9"
+- id: hammond1981
+  author:
+  - family: Hammond
+    given: R F
+  issued: 1981-01-01
+  key: ZJBKCSLT
+  language: English
+  libraryID: 1
+  number-of-pages: 64
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: HEDB
+  publisher-place: Ireland
+  title: The peatlands of Ireland
+  type: book
+- id: bragg1995
+  author:
+  - family: Bragg
+    given: O. M.
+  container-title: Restoration of temperate wetlands
+  editor:
+  - family: Wheeler
+    given: Bryan D.
+  - family: Shaw
+    given: Susan C.
+  - family: Fojt
+    given: Wanda J.
+  - family: Robertson
+    given: R. Allan
+  ISBN: 9780471951056;0471951056;
+  issued: 1995
+  key: YXQIS5S7
+  language: English
+  libraryID: 1
+  note: Conference Proceedings
+  page: 305-314
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: John Wiley & Sons
+  publisher-place: Chichester, West Sussex
+  title: Towards an ecohydrological basis for raised mire restoration
+  type: paper-conference
+  URL: "https://go.exlibris.link/Rfxr7Npv"
+- id: price2003
+  accessed: "19:07:13"
+  author:
+  - family: Price
+    given: J.S.
+  - family: Heathwaite
+    given: A.L.
+  - family: Baird
+    given: A.J.
+  container-title: Wetlands Ecology and Management
+  DOI: "10.1023/A:1022046409485"
+  ISSN: 09234861
+  issue: 1/2
+  issued: 2003
+  key: ICUMC6TP
+  libraryID: 1
+  page: 65-83
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Hydrological processes in abandoned and restored peatlands: An
+    overview of management approaches"
+  type: article-journal
+  URL: "http://link.springer.com/10.1023/A:1022046409485"
+  volume: 11
+- id: howie2009
+  accessed: "19:20:34"
+  author:
+  - family: Howie
+    given: S. A.
+  - family: Whitfield
+    given: P. H.
+  - family: Hebda
+    given: R. J.
+  - family: Munson
+    given: T. G.
+  - family: Dakin
+    given: R. A.
+  - family: Jeglum
+    given: J. K.
+  container-title: Canadian Water Resources Journal
+  container-title-short: Canadian Water Resources Journal
+  DOI: 10.4296/cwrj3404381
+  ISSN: 0701-1784, 1918-1817
+  issue: 4
+  issued: 2009-01
+  key: WTQJY6BB
+  language: en
+  libraryID: 1
+  page: 381-392
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Water Table and Vegetation Response to Ditch Blocking:
+    Restoration of a Raised Bog in Southwestern British Columbia"
+  title-short: Water Table and Vegetation Response to Ditch Blocking
+  type: article-journal
+  URL: "http://www.tandfonline.com/doi/abs/10.4296/cwrj3404381"
+  volume: 34
+- id: rydin2013
+  accessed: "05:49:20"
+  author:
+  - family: Rydin
+    given: Håkan
+  - family: Jeglum
+    given: John K.
+  DOI: "10.1093/acprof:osobl/9780199602995.001.0001"
+  ISBN: 978-0-19-960299-5
+  issued: 2013-07-18
+  key: YDYJNF9M
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Oxford University Press
+  source: DOI.org (Crossref)
+  title: The Biology of Peatlands
+  type: book
+  URL: "https://academic.oup.com/book/5054"
+- id: heathwaite1993
+  author:
+  - family: Heathwaite
+    given: A. L.
+  - family: Göttlich
+    given: Karlhans
+  collection-editor:
+  - family: Heathwaite
+    given: A. L.
+  - family: Goettlich
+    given: K.
+  collection-number: Book, Whole
+  ISBN: 9780471933533;0471933538;
+  issued: 1993
+  key: Y2L3WDVD
+  language: English
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Wiley
+  publisher-place: New York;Chichester, West Sussex, England;
+  title: "Mires: process, exploitation, and conservation"
+  type: book
+  URL: "https://go.exlibris.link/2Cb80xrr"
+- id: hebda2000
+  author:
+  - family: Hebda
+    given: Richard Joseph
+  - family: Gustavson
+    given: Kent
+  - family: Golinski
+    given: Karen
+  - family: Calder
+    given: Alan M.
+  ISBN: 978-0-7726-4191-5
+  issued: 2000
+  key: 6XX57R6E
+  language: en
+  libraryID: 1
+  number-of-pages: 271
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Environmental Assessment Office
+  publisher-place: Victoria, BC
+  source: K10plus ISBN
+  title: "Burns Bog ecosystem review: synthesis report"
+  title-short: Burns Bog ecosystem review
+  type: book
 ...
