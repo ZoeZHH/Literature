@@ -2392,29 +2392,6 @@ references:
   title: The Ecology of Sphagnum
   type: chapter
   URL: "http://link.springer.com/10.1007/978-94-009-5891-3_8"
-- id: ingram1978
-  author:
-  - family: Ingram
-    given: H. A. P.
-  container-title: Journal of Soil Science
-  DOI: 10.1111/j.1365-2389.1978.tb02053.x
-  ISSN: 0022-4588
-  issue: 2
-  issued: 1978
-  key: DEDP6CC8
-  language: English
-  libraryID: 1
-  page: 224-227
-  Place: Oxford,
-  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
-  Publisher: Blackwell Scientific for the British Society of Soil
-    Science
-  title: Soil layers in mires; function and terminology
-  type: article-journal
-  UK
-  Publisher: Blackwell
-  URL: "https://go.exlibris.link/0d418vFf"
-  volume: 29
 - id: ivanov1981
   author:
   - family: Ivanov
@@ -2455,29 +2432,6 @@ references:
   type: article-journal
   URL: "https://linkinghub.elsevier.com/retrieve/pii/S030438000300067X"
   volume: 165
-- id: ingram1978
-  author:
-  - family: Ingram
-    given: H. A. P.
-  container-title: Journal of Soil Science
-  DOI: 10.1111/j.1365-2389.1978.tb02053.x
-  ISSN: 0022-4588
-  issue: 2
-  issued: 1978
-  key: DEDP6CC8
-  language: English
-  libraryID: 1
-  page: 224-227
-  Place: Oxford,
-  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
-  Publisher: Blackwell Scientific for the British Society of Soil
-    Science
-  title: Soil layers in mires; function and terminology
-  type: article-journal
-  UK
-  Publisher: Blackwell
-  URL: "https://go.exlibris.link/0d418vFf"
-  volume: 29
 - id: ivanov1981
   author:
   - family: Ivanov
@@ -3115,4 +3069,692 @@ references:
   title: "Burns Bog ecosystem review: synthesis report"
   title-short: Burns Bog ecosystem review
   type: book
+- id: galka2015
+  author:
+  - family: Galka
+    given: Mariusz
+  - family: Miotk-Szpiganowicz
+    given: Grazyna
+  - family: Marczewska
+    given: Miriam
+  - family: Barabach
+    given: Jan
+  - family: Knaap
+    given: Willem O.
+    non-dropping-particle: van der
+  - family: Lamentowicz
+    given: Mariusz
+  container-title: Holocene (Sevenoaks)
+  DOI: 10.1177/0959683614561887
+  ISSN: 0959-6836
+  issue: 3
+  issued: 2015
+  key: 5HRVMTRH
+  language: English
+  libraryID: 1
+  page: 421-434
+  Place: London
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  Publisher: SAGE
+  title: Palaeoenvironmental changes in Central Europe (NE Poland)
+    during the last 6200 years reconstructed from a high-resolution
+    multi-proxy peat archive
+  type: article-journal
+  URL: "https://ubc.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwjV1Lb9QwELagFRIXypvlUflSRA_ZTWzHa58Qgi6coBIPcYtsx65Wokm1uz3srdfe-Sn9Rf0lnbGT3bIFiUsOjiUn4xnPeB7fEMLZMM82zgSwk72VsqzhKGQu8JxZ6aRSUoKgSmc2UnWavjSmI-h8iFlW8IHx7EZhR-f0qIs5jtCXJRUHTQPWAEjN29PFcZWc332PDRzBaPXpMQa6HaZHLrO-2O022WZgmoNQbIMV-eXHKgwhVQRcjb4yXGAd57yxJmq3o-mf2g0bYJkponNeyxKLimuyQy76fzxqh3Eioh3Mo0Ni5pM-a2ejVF24AofENDlgYDzj_kIZGAbawBOpk67kXUx282v3-GRNoz3-IVEJmG1NJxi9San75F5nKNN3ibMfkFu-eUjufIyNiJePyO9D88v49lqdHkxOVcxzOm1o57WmKdpA33w-oIctZnHu01SZSYEQFK4OCypBhC_Pzpcg83MaHQQJVNfXFItvqKGI6ZzNfC-mNGZhZjEDiJ6AMqMm4fc-Jt8nB9_ef8q6DhOZAUtlkZVa1xItFsNzbRUTNngBd17vhZaeOV1jlNNY60LhlRO1cFaWY-NKWQdhNH9Ctpq28c8IDT4XwQJ_M8eEyrXJTe51wVgYK2kkG5CnwB_VScIQqcDu0lVeKqaLAdnveWb1uuhR2Df2bUDKnqlWc2HLq1BYXasyr7F9wbjgNmDgJjBuRDClCAPyGvmk6rnmnws8_9-JL8hd-IcypeO9JFuwMf5VhK7Y7aRoF-4mX39eAW7JNKY"
+  volume: 25
+- id: ovenden1990
+  accessed: "18:05:00"
+  author:
+  - family: Ovenden
+    given: Lynn
+  container-title: Quaternary Research
+  container-title-short: Quat. res.
+  DOI: 10.1016/0033-5894(90)90063-Q
+  ISSN: 0033-5894, 1096-0287
+  issue: 3
+  issued: 1990-05
+  key: IRC6MBVQ
+  language: en
+  libraryID: 1
+  page: 377-386
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Peat Accumulation in Northern Wetlands
+  type: article-journal
+  URL: "https://www.cambridge.org/core/product/identifier/S0033589400020706/type/journal_article"
+  volume: 33
+- id: stivrins2017
+  accessed: "18:11:01"
+  author:
+  - family: Stivrins
+    given: N.
+  - family: Ozola
+    given: I.
+  - family: Gałka
+    given: M.
+  container-title: Mires and Peat
+  DOI: 10.19189/MaP.2016.OMB.262
+  ISSN: 1819-754X
+  issue: 19
+  issued: 2017-03-21
+  key: ZZTZXN44
+  language: eng
+  libraryID: 1
+  page: 1-19
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (CSL JSON)
+  title: "Drivers of peat accumulation rate in a raised bog: impact of
+    drainage, climate, and local vegetation composition"
+  title-short: Drivers of peat accumulation rate in a raised bog
+  type: article-journal
+  URL: "https://doi.org/10.19189/MaP.2016.OMB.262"
+- id: thormann1999
+  author:
+  - family: Thormann
+    given: Markus N.
+  - family: Szumigalski
+    given: Anthony R.
+  - family: Bayley
+    given: Suzanne E.
+  container-title: Wetlands (Wilmington, N.C.)
+  DOI: 10.1007/BF03161761
+  ISSN: 0277-5212
+  issue: 2
+  issued: 1999
+  key: JISMPZFF
+  language: English
+  libraryID: 1
+  page: 305-317
+  Place: Dordrecht
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  Publisher: Springer
+  title: Aboveground peat and carbon accumulation potentials along a
+    bog-fen-marsh wetland gradient in southern boreal Alberta, Canada
+  type: article-journal
+  URL: "https://go.exlibris.link/GgrnzZyv"
+  volume: 19
+- id: charman2002
+  author:
+  - family: Charman
+    given: D. J.
+  call-number: GB621 .C43 2002
+  ISBN: 978-0-471-96990-7 978-0-470-84410-6
+  issued: 2002
+  key: 4T4EBSF8
+  libraryID: 1
+  number-of-pages: 301
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: J. Wiley
+  publisher-place: Chichester, West Sussex, England ; New York
+  source: Library of Congress ISBN
+  title: Peatlands and environmental change
+  type: book
+- id: ovenden1990
+  accessed: "23:49:36"
+  author:
+  - family: Ovenden
+    given: Lynn
+  container-title: Quaternary Research
+  container-title-short: Quat. res.
+  DOI: 10.1016/0033-5894(90)90063-Q
+  ISSN: 0033-5894, 1096-0287
+  issue: 3
+  issued: 1990-05
+  key: E3XEUE2Z
+  language: en
+  libraryID: 1
+  page: 377-386
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Peat Accumulation in Northern Wetlands
+  type: article-journal
+  URL: "https://www.cambridge.org/core/product/identifier/S0033589400020706/type/journal_article"
+  volume: 33
+- id: holden2005
+  accessed: "20:53:13"
+  author:
+  - family: Holden
+    given: Joseph
+  container-title: "Philosophical Transactions of the Royal Society A:
+    Mathematical, Physical and Engineering Sciences"
+  container-title-short: Phil. Trans. R. Soc. A.
+  DOI: 10.1098/rsta.2005.1671
+  ISSN: 1364-503X, 1471-2962
+  issue: 1837
+  issued: 2005-12-15
+  key: IHAT8XR6
+  language: en
+  libraryID: 1
+  page: 2891-2913
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: "Peatland hydrology and carbon release: why small-scale process
+    matters"
+  title-short: Peatland hydrology and carbon release
+  type: article-journal
+  URL: "https://royalsocietypublishing.org/doi/10.1098/rsta.2005.1671"
+  volume: 363
+- id: ivanov1981
+  author:
+  - family: Ivanov
+    given: Konstantin Evgenʹevich
+    suffix: d-r geogr. nauk
+  collection-number: Book, Whole
+  ISBN: 9780123764607;0123764602;
+  issued: 1981
+  key: KYJX86L6
+  language: English
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Academic Press
+  publisher-place: London;New York;
+  title: Water movement in Mirelands
+  type: book
+  URL: "https://go.exlibris.link/2CQ7tbYM"
+- id: bonn2016
+  author:
+  - family: Bonn
+    given: Aletta
+  - family: Cambridge Core All Books
+  - family: British Ecological Society
+  - family: Cambridge Core EBA eBooks Complete Collection
+  collection-editor:
+  - family: Bonn
+    given: Aletta
+  - family: Allott
+    given: Tim
+  - family: Evans
+    given: Martin
+  - family: Joosten
+    given: Hans
+  - family: Stoneman
+    given: Rob
+  collection-number: Book, Whole
+  DOI: 10.1017/CBO9781139177788
+  ISBN: 1107025184;110761970X;9781107619708;9781107025189;
+  issued: 2016
+  key: QZZKUVVY
+  language: English
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: "Peatland restoration and ecosystem services: science, policy,
+    and practice"
+  type: book
+  URL: "https://go.exlibris.link/dbh0RDyt"
+- id: moore1993
+  accessed: "00:44:43"
+  author:
+  - family: Moore
+    given: T. R.
+  - family: Dalva
+    given: M.
+  container-title: Journal of Soil Science
+  container-title-short: Journal of Soil Science
+  DOI: 10.1111/j.1365-2389.1993.tb02330.x
+  ISSN: 0022-4588
+  issue: 4
+  issued: 1993-12
+  key: ZUVCI7R7
+  language: en
+  libraryID: 1
+  page: 651-664
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: The influence of temperature and water table position on carbon
+    dioxide and methane emissions from laboratory columns of peatland
+    soils
+  type: article-journal
+  URL: "https://bsssjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2389.1993.tb02330.x"
+  volume: 44
+- id: turetsky2008
+  accessed: "00:46:55"
+  author:
+  - family: Turetsky
+    given: M. R.
+  - family: Treat
+    given: C. C.
+  - family: Waldrop
+    given: M. P.
+  - family: Waddington
+    given: J. M.
+  - family: Harden
+    given: J. W.
+  - family: McGuire
+    given: A. D.
+  container-title: "Journal of Geophysical Research: Biogeosciences"
+  container-title-short: J. Geophys. Res.
+  DOI: 10.1029/2007JG000496
+  ISSN: 0148-0227
+  issue: G3
+  issued: 2008-09
+  key: NC64MDGM
+  language: en
+  libraryID: 1
+  page: 2007JG000496
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Short‐term response of methane fluxes and methanogen activity
+    to water table and soil warming manipulations in an Alaskan peatland
+  type: article-journal
+  URL: "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2007JG000496"
+  volume: 113
+- id: zoltai1998
+  author:
+  - family: Zoltai
+    given: S C
+  - family: Morrissey
+    given: L A
+  - family: Livingston
+    given: G P
+  - family: Groot
+    given: W J
+    non-dropping-particle: de
+  issued: 1998
+  key: ZEXITFUB
+  language: en
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: Zotero
+  title: Effects of fires on carbon cycling in North American boreal
+    peatlands
+  type: article-journal
+  volume: 6
+- id: wieder2009
+  accessed: "22:44:40"
+  author:
+  - family: Wieder
+    given: R. Kelman
+  - family: Scott
+    given: Kimberli D.
+  - family: Kamminga
+    given: Katherine
+  - family: Vile
+    given: Melanie A.
+  - family: Vitt
+    given: Dale H.
+  - family: Bone
+    given: Tiffany
+  - family: Xu
+    given: Bin
+  - family: Benscoter
+    given: Brian W.
+  - family: Bhatti
+    given: Jagtar S.
+  container-title: Global Change Biology
+  container-title-short: Global Change Biology
+  DOI: 10.1111/j.1365-2486.2008.01756.x
+  ISSN: 1354-1013, 1365-2486
+  issue: 1
+  issued: 2009-01
+  key: XBWELWVF
+  language: en
+  libraryID: 1
+  page: 63-81
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  source: DOI.org (Crossref)
+  title: Postfire carbon balance in boreal bogs of Alberta, Canada
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2008.01756.x"
+  volume: 15
+- id: zoltai1998
+  author:
+  - family: Zoltai
+    given: S C
+  - family: Morrissey
+    given: L A
+  - family: Livingston
+    given: G P
+  - family: Groot
+    given: W J
+    non-dropping-particle: de
+  issued: 1998
+  key: ZEXITFUB
+  language: en
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: Zotero
+  title: Effects of fires on carbon cycling in North American boreal
+    peatlands
+  type: article-journal
+  volume: 6
+- id: tallis1998
+  accessed: "20:27:07"
+  author:
+  - family: Tallis
+    given: J H
+  container-title: Environmental Reviews
+  container-title-short: Environ. Rev.
+  DOI: 10.1139/a98-006
+  ISSN: 1181-8700, 1208-6053
+  issue: 2
+  issued: 1998-06-01
+  key: GQKZLSK7
+  language: en
+  libraryID: 1
+  page: 81-122
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: "http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining"
+  source: DOI.org (Crossref)
+  title: Growth and degradation of British and Irish blanket mires
+  type: article-journal
+  URL: "http://www.nrcresearchpress.com/doi/10.1139/a98-006"
+  volume: 6
+- id: grand-clement2013
+  accessed: "16:06:34"
+  author:
+  - family: Grand‐Clement
+    given: Emilie
+  - family: Anderson
+    given: Karen
+  - family: Smith
+    given: David
+  - family: Luscombe
+    given: David
+  - family: Gatis
+    given: Naomi
+  - family: Ross
+    given: Martin
+  - family: Brazier
+    given: Richard E.
+  container-title: Journal of Applied Ecology
+  container-title-short: Journal of Applied Ecology
+  DOI: 10.1111/1365-2664.12039
+  editor:
+  - family: Wan
+    given: Shiqiang
+  ISSN: 0021-8901, 1365-2664
+  issue: 2
+  issued: 2013-04
+  key: QZYVTBIP
+  language: en
+  libraryID: 1
+  page: 324-334
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  source: DOI.org (Crossref)
+  title: Evaluating ecosystem goods and services after restoration of
+    marginal upland peatlands in [S]{.smallcaps} outh‐ [W]{.smallcaps}
+    est [E]{.smallcaps} ngland
+  title-short: Evaluating ecosystem goods and services after restoration
+    of marginal upland peatlands in \<span style=\"font-variant
+  type: article-journal
+  URL: "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.12039"
+  volume: 50
+- id: jaenicke2011
+  accessed: "16:10:02"
+  author:
+  - family: Jaenicke
+    given: J.
+  - family: Englhart
+    given: S.
+  - family: Siegert
+    given: F.
+  container-title: Journal of Environmental Management
+  container-title-short: Journal of Environmental Management
+  DOI: 10.1016/j.jenvman.2010.09.029
+  ISSN: 03014797
+  issue: 3
+  issued: 2011-03
+  key: 2WGJFJ5S
+  language: en
+  libraryID: 1
+  page: 630-638
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: "https://www.elsevier.com/tdm/userlicense/1.0/"
+  source: DOI.org (Crossref)
+  title: Monitoring the effect of restoration measures in Indonesian
+    peatlands by radar satellite imagery
+  type: article-journal
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/S0301479710003397"
+  volume: 92
+- id: parry2014
+  accessed: "16:08:34"
+  author:
+  - family: Parry
+    given: Lauren E.
+  - family: Holden
+    given: Joseph
+  - family: Chapman
+    given: Pippa J.
+  container-title: Journal of Environmental Management
+  container-title-short: Journal of Environmental Management
+  DOI: 10.1016/j.jenvman.2013.11.033
+  ISSN: 03014797
+  issued: 2014-01
+  key: TPVMPF4A
+  language: en
+  libraryID: 1
+  page: 193-205
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: Restoration of blanket peatlands
+  type: article-journal
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/S0301479713007263"
+  volume: 133
+- id: price2003
+  accessed: "16:20:02"
+  author:
+  - family: Price
+    given: J.S.
+  - family: Heathwaite
+    given: A.L.
+  - family: Baird
+    given: A.J.
+  container-title: Wetlands Ecology and Management
+  DOI: "10.1023/A:1022046409485"
+  ISSN: 09234861
+  issue: 1/2
+  issued: 2003
+  key: EZ652BMB
+  libraryID: 1
+  page: 65-83
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: \[No title found\]
+  type: article-journal
+  URL: "http://link.springer.com/10.1023/A:1022046409485"
+  volume: 11
+- id: dohong2018
+  accessed: "16:47:18"
+  author:
+  - family: Dohong
+    given: Alue
+  - family: Abdul Aziz
+    given: Ammar
+  - family: Dargusch
+    given: Paul
+  container-title: Wetlands
+  container-title-short: Wetlands
+  DOI: 10.1007/s13157-018-1017-6
+  ISSN: 0277-5212, 1943-6246
+  issue: 2
+  issued: 2018-04
+  key: QKJGPBFH
+  language: en
+  libraryID: 1
+  page: 275-292
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  source: DOI.org (Crossref)
+  title: A Review of Techniques for Effective Tropical Peatland
+    Restoration
+  type: article-journal
+  URL: "https://link.springer.com/10.1007/s13157-018-1017-6"
+  volume: 38
+- id: lunt2010
+  author:
+  - family: Lunt
+    given: Paul
+  - family: Allott
+    given: Tim
+  - family: Anderson
+    given: Penny
+  - family: Buckler
+    given: Matt
+  - family: Coupar
+    given: Andrew
+  - family: Jones
+    given: Peter
+  - family: Labadz
+    given: Jill
+  - family: Worrall
+    given: Peter
+  issued: 2010-12
+  key: IC2PPJVL
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: IUCN UK
+  title: Peatland Restoration
+  type: report
+- id: shunina2015
+  accessed: "16:37:53"
+  author:
+  - family: Shunina
+    given: Anna
+  DOI: 10.7939/R35X25K5K
+  issued: 2015
+  key: 25BZIY88
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  Publisher: \[object
+  source: DOI.org (Datacite)
+  title: Revegetation of Fen Peatlands Following Oil and Gas Extraction
+    in Northern Alberta
+  type: article-journal
+  URL: "https://era.library.ualberta.ca/items/80703678-0565-4cb4-8e02-28c9bcb70b05"
+- id: lunt2010
+  author:
+  - family: Lunt
+    given: Paul
+  - family: Allott
+    given: Tim
+  - family: Anderson
+    given: Penny
+  - family: Buckler
+    given: Matt
+  - family: Coupar
+    given: Andrew
+  - family: Jones
+    given: Peter
+  - family: Labadz
+    given: Jill
+  - family: Worrall
+    given: Peter
+  issued: 2010-12
+  key: IC2PPJVL
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: IUCN UK
+  title: Peatland Restoration
+  type: report
+- id: lunt2010
+  author:
+  - family: Lunt
+    given: Paul
+  - family: Allott
+    given: Tim
+  - family: Anderson
+    given: Penny
+  - family: Buckler
+    given: Matt
+  - family: Coupar
+    given: Andrew
+  - family: Jones
+    given: Peter
+  - family: Labadz
+    given: Jill
+  - family: Worrall
+    given: Peter
+  issued: 2010-12
+  key: IC2PPJVL
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: IUCN UK
+  title: Peatland Restoration
+  type: report
+- id: tallis1998
+  accessed: "20:27:07"
+  author:
+  - family: Tallis
+    given: J H
+  container-title: Environmental Reviews
+  container-title-short: Environ. Rev.
+  DOI: 10.1139/a98-006
+  ISSN: 1181-8700, 1208-6053
+  issue: 2
+  issued: 1998-06-01
+  key: GQKZLSK7
+  language: en
+  libraryID: 1
+  page: 81-122
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  rights: "http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining"
+  source: DOI.org (Crossref)
+  title: Growth and degradation of British and Irish blanket mires
+  type: article-journal
+  URL: "http://www.nrcresearchpress.com/doi/10.1139/a98-006"
+  volume: 6
+- id: hebda2000
+  author:
+  - family: Hebda
+    given: Richard Joseph
+  - family: Gustavson
+    given: Kent
+  - family: Golinski
+    given: Karen
+  - family: Calder
+    given: Alan M.
+  ISBN: 978-0-7726-4191-5
+  issued: 2000
+  key: 6XX57R6E
+  language: en
+  libraryID: 1
+  number-of-pages: 271
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Environmental Assessment Office
+  publisher-place: Victoria, BC
+  source: K10plus ISBN
+  title: "Burns Bog ecosystem review: synthesis report"
+  title-short: Burns Bog ecosystem review
+  type: book
+- id: danyluk2012
+  author:
+  - family: Danyluk
+    given: Angela
+  issued: 2012-02
+  key: 8VQPI5EB
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Royal Roads University
+  title: Tree Removal as a Tool of Ecological Restoration in Burns Bog,
+    Delta, B.C.
+  type: thesis
+- id: elling1984
+  author:
+  - family: ELLING
+    given: A. E.
+  - family: KNIGHTON
+    given: M. D.
+  - family: Kasetsart Univ.
+    given: Bangkok (Thailand). Faculty of Agriculture. Dept. of
+      Horticulture
+  container-title: Journal of soil and water conservation
+  Publisher: Soil
+  ISSN: 0022-4561
+  issue: 3
+  issued: 1984
+  key: PD22G2DK
+  language: English
+  libraryID: 1
+  page: 209-211
+  Place: Ankeny,
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  Publisher: Soil and Water Conservation Society
+  title: Sphagnum moss recovery after harvest in a Minnesota bog
+    \[Harvest cycles for maximized yields, peatlands\]
+  type: article-journal
+  URL: "https://go.exlibris.link/lKfqQhRf"
+  volume: 39
 ...

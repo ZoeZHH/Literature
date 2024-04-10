@@ -32,7 +32,7 @@ Sphagnum mosses engineer the bog's acidic and oligotrophic conditions, outcompet
 
 #### Stratification and Microtopography of Bog Ecosystems (Improving)
 
-Vertically, bogs consist of two layers: the acrotelm, a porous, less decomposed surface layer typically 10--40 cm thick, and the catotelm, a saturated, more decomposed deeper layer that can extend up to 6 meters deep [@ingram1978; @ivanov1981; @nungesser2003; @taskila2016; @wieder2006]. These layers play distinct roles in water dynamics and carbon cycling within bogs. Water movement within bogs is primarily horizontal through the acrotelm, which facilitates rapid lateral flow due to its porosity. In contrast, the water-saturated catotelm, characterized by lower permeability, permits only limited vertical percolation [@ingram1983; @vanbreemen1995]. Regarding carbon dynamics, the acrotelm is characterized by dense floating Sphagnum mats and serves as the zone of active peat formation. The catotelm, in contrast, acts as a stable carbon sink. Its anaerobic conditions slow decomposition, thus fostering the long-term accumulation of carbon [@nungesser2003; @taskila2016].
+Vertically, bogs consist of two layers: the acrotelm, a porous, less decomposed surface layer typically 10--40 cm thick, and the catotelm, a saturated, more decomposed deeper layer that can extend up to 6 meters deep [@ivanov1981; @nungesser2003; @taskila2016; @wieder2006]. These layers play distinct roles in water dynamics and carbon cycling within bogs. Water movement within bogs is primarily horizontal through the acrotelm, which facilitates rapid lateral flow due to its porosity. In contrast, the water-saturated catotelm, characterized by lower permeability, permits only limited vertical percolation [@ingram1983; @vanbreemen1995]. Regarding carbon dynamics, the acrotelm is characterized by dense floating Sphagnum mats and serves as the zone of active peat formation. The catotelm, in contrast, acts as a stable carbon sink. Its anaerobic conditions slow decomposition, thus fostering the long-term accumulation of carbon [@nungesser2003; @taskila2016].
 
 Horizontally, the bog landscape features hummocks and hollows. Hummocks are raised mounds within the bog ecosystem, formed by a thicker acrotelm layer, while hollows are depressed, flat areas among the hummocks, characterized by a much thinner acrotelm layer or none at all [@eppinga2009; @nungesser2003]. Microtopographic differences arise from spatially variable transfers of water, nutrients, energy and differences in sphanum species between microforms [@eppinga2009; @eppinga2009; @morris2011; @nungesser2003].
 
@@ -50,33 +50,29 @@ The depth to the water table, often referred to as 'water table depth' or 'water
 
 #### Peat and Peat Processes (03/22)
 
-Peatlands are wetlands ecosystems with the presence of naturally accumulated peat layers (at least 30-40 cm thick) at the surface [@frolking2011]. Peat is an organic material composed the incomplete and partially decomposed plant and animal material. In an undisturbed peatland, peat is composed of 88-97% water, 2-10% dry matter and 1-7% gases.
+Peatlands are wetlands ecosystems with the presence of naturally accumulated peat layers (at least 30-40 cm thick) at the surface [@frolking2011]. Peat is an organic material composed the incomplete and partially decomposed plant and animal material. In an undisturbed peatland, peat is composed of 88-97% water, 2-10% dry matter and 1-7% gases [@holden2005; @ivanov1981].
 
-Peat formation is a slow geologic process where partially decomposed plant material accumulates in waterlogged conditions. The high water content creates an anaerobic environment, limiting the activity of decomposing microorganisms and thus slowing down decomposition. This leads to the accumulation of organic matter, primarily from mosses like Sphagnum, along with other vegetation and sometimes animal material. Over time, layers of this organic matter compress and form peat, which is rich in carbon and can vary in depth. Peatlands, as a result, become significant carbon sinks, contributing to long-term carbon sequestration and playing a vital role in the global carbon cycle [@peatland2016]. Northern peatlands have been documented to accumulate peat at a rate of 1 mm/year.
+Peat formation is a slow geologic process where partially decomposed plant material accumulates in waterlogged conditions. The high water content creates an anaerobic environment, limiting the activity of decomposing microorganisms and thus slowing down decomposition. This leads to the accumulation of organic matter, primarily from mosses like Sphagnum, along with other vegetation and sometimes animal material. Over time, layers of this organic matter compress and form peat, which is rich in carbon and can vary in depth. Peatlands, as a result, become significant carbon sinks, contributing to long-term carbon sequestration and playing a vital role in the global carbon cycle [@bonn2016].
 
-Peat is a highly concentrated stockpile of C that forms and accumulates due to the slow decay of organic matter caused by the anaerobic and waterlogged environment that characterizes these ecosystems [@peatland2016].
+Northern peatlands have been documented to accumulate peat at rates ranging from 0.23 to 1.11 mm/year [@charman2002; @ovenden1990]. Raised bogs accumulate peat at relatively higher rates compared to other types of peatlands, owing to their consistently waterlogged, acidic conditions, and the dominance of sphagnum moss, which together impede the decomposition of organic matter [@galka2015; @malmer1986; @ovenden1990; @stivrins2017; @thormann1999].
 
 ### The Carbon Cycle in Peatlands
 
-#### Land-atmosphere Exchanges of Carbon Fluxes (03/23)
+#### Land-atmosphere Exchanges of Carbon Fluxes
 
-@chapin2006 proposed the term 'Net Ecosystem Carbon Balance' (NECB) to describe the overall carbon (C) balance in ecosystems from all sources, which represents the net rate of carbon accumulation in ecosystems. NECB includes carbon pathways between terrestrial and atmospheric systems, terrestrial and aquatic systems and particulate transport. In most peatlands, NECB can be simplified to encompass three main components: the Net Ecosystem Exchange/FCO2 (the net CO2 flux between terrestrial ecosystems and the atmosphere), FCH4 (the net CH4 flux between terrestrial ecosystems and the atmosphere), and FDOC (net dissolved organic carbon) [@strack2013; @dacunha2019]. The land-atmosphere exchange of carbon fluxes, defined solely with carbon pathways between terrestrial and atmospheric systems, includes two key components of the NECB in peatlands: FCO2 and FCH4.
+@chapin2006 proposed the term 'Net Ecosystem Carbon Balance' (NECB) to describe the overall carbon (C) balance in ecosystems from all sources, which represents the net rate of carbon accumulation in ecosystems. NECB includes carbon pathways between terrestrial and atmospheric systems, terrestrial and aquatic systems and particulate transport. In most peatlands, NECB can be simplified to encompass three main components: the Net Ecosystem Exchange/F~CO2~ (the net CO2 flux between terrestrial ecosystems and the atmosphere), F~CH4~ (the net CH4 flux between terrestrial ecosystems and the atmosphere), and FDOC (net dissolved organic carbon) [@strack2013; @dacunha2019]. The land-atmosphere exchange of carbon fluxes, defined solely with carbon pathways between terrestrial and atmospheric systems, includes two key components of the NECB in peatlands: F~CO2~ and F~CH4~.
 
-The land-atmosphere exchanges of carbon fluxes in peatlands can be described using the acrotelm-catotelm model (Figure 1). The balance between photosynthesis, respiration and diffusion mainly represents the net F~CO2~ between the bog and the atmosphere. Autotrophic organisms convert CO~2~ from the atmosphere into chemical energy through photosynthesis. CO~2~ is released from ecosystems by ecosystem respiration and diffusion. Ecosystem respiration (Reco) encompasses both above- and below-ground autotrophic and heterotrophic respiration (Ra and Rh, respectively) [@dorrepaal2009a; @hermle2010; @järveoja2020; @poczta2023]. Ra represents the carbon dioxide released during the metabolic processes of photosynthetic organisms. Rh refers to carbon losses due to the decomposition of litter, detritus, and soil organic matter by microorganisms [@rankin2023]. The processes of Ra and Rh in bogs are characterized by the consumption of organic matter and oxygen, yielding energy, water, and carbon dioxide as byproducts. In addition to this partitioning, Reco can also be conceptualized as the sum of soil respiration (Rs) and aboveground plant respiration (Rp) [@luo2006; @tiwari2021a]. Rs accounts for both autotrophic respiration by root and root-associated microbes and heterotrophic respiration by free-living soil microbes that decompose plant litter and stored SOC. Rp represents respiration by above-ground biomass. The CO~2~ produced by methanotrophy, the oxidation of CH~4~ by methanotrophs, diffused into the atmosphere [@bridgham2013]. The F~CO2~ (NEE) represents the difference between Reco and Gross primary productivity by photosynthesis (GPP) between the bog and atmosphere. Negative NEE values indicate a carbon sink peatland, which takes up more CO~2~ from the atmosphere and accumulates in terrestrial ecosystems.
+The land-atmosphere exchanges of carbon fluxes in peatlands can be described using the acrotelm-catotelm model (Figure 1). The balance between photosynthesis, respiration and diffusion mainly represents the net F~CO2~ between the bog and the atmosphere. Autotrophic organisms convert CO~2~ from the atmosphere into chemical energy through photosynthesis. CO~2~ is released from ecosystems by ecosystem respiration and diffusion. Ecosystem respiration (Reco) encompasses both above- and below-ground autotrophic and heterotrophic respiration (Ra and Rh, respectively) [@dorrepaal2009; @hermle2010; @järveoja2020; @poczta2023]. Ra represents the carbon dioxide released during the metabolic processes of photosynthetic organisms. Rh refers to carbon losses due to the decomposition of litter, detritus, and soil organic matter by microorganisms [@rankin2023]. The processes of Ra and Rh in bogs are characterized by the consumption of organic matter and oxygen, yielding energy, water, and carbon dioxide as byproducts. Additionally, the CO~2~ produced by methanotrophy, the oxidation of CH~4~ by methanotrophs, diffused into the atmosphere [@bridgham2013].
 
 F~CH4~ from peatlands are the net balance of CH~4~ production (methanogenesis) in the saturated zones of the peat and its subsequent release to the atmosphere through diffusion, ebullition, and plant-mediated transport [@bridgham2013; @white2008]. CH~4~ is made in the saturated zone of peat soils by methanogenic microbes. There are two primary pathways for methanogenesis in wetlands: acetoclastic and hydrogenotrophic methanogenesis [@bridgham2013]. Acetoclastic methanogens utilize acetate as their primary electron acceptor during the methanogenesis process. Hydrogenotrophic methanogens rely on the utilization of hydrogen (H~2~) and CO~2~ as substrates for methanogenesis [@fenchel2012]. Ombrotrophic Bogs tend to be generally dominated by hydrogenotrophic methanogenesis [@bridgham2013]. F~CH4~ is emitted to the atmosphere through three main pathways: diffusion (driven by CH~4~ concentration gradients from the peat to the atmosphere), ebullition (gas bubbles released from saturated peat), and plants-mediated transport (through aerenchyma, the plants' internal gas-space ventilation system) [@holden2005].
 
 ![Figure 1. A representation of land-atmosphere carbon fluxes cycle in peatland. Modified from [@holden2005] and [@lloyd2013].](images/Screen%20Shot%202023-12-30%20at%205.40.09%20PM.png){fig-align="center"}
 
-#### Biophysical Controls of Reco and F~CH4  03/23-03/24~
+#### Biophysical Controls of Reco and F~CH4~
 
-There are two categories of factors that influence the carbon fluxes: abiotic (peat tempearure, light, water availability) and biotic factors (vegetation communities and phenology). Reco is closely associated with surface soil temperature (Ts) and water table depth (WTD). Extensive research indicates a positive correlation between Ts and Reco [@järveoja2018; @lloyd1994; @wang2014]. Ts explains 43-74% of daily Reco variability, with WTD accounting for an additional 5-20% [@bubier1998a]. WTD regulates the aerobic zone's depth in peat soil profiles, where a lower water table and thicker aerobic zone can increase carbon mineralization rates [@blodau2004; @frolking2011]. WTD's impact on Reco is more significant on seasonal scales [@bubier1998a].
+There are two categories of factors that influence the carbon fluxes: abiotic (peat tempearure, light, water availability) and biotic factors (vegetation communities and phenology). Reco is closely associated with surface soil temperature (Ts) and water table depth (WTD). Extensive research indicates a positive relationship between Ts and Reco [@järveoja2018; @lloyd1994; @wang2014]. Ts explains 43-74% of daily Reco variability, with WTD accounting for an additional 5-20% [@bubier1998]. WTD regulates the aerobic zone's depth in peat soil profiles, where a lower water table and thicker aerobic zone can increase carbon mineralization rates [@blodau2004; @frolking2011]. WTD's impact on Reco is more significant on seasonal scales [@bubier1998]. Additionally, WTD has been shown to interact with temperature increases, significantly affecting the response of fluxes [@moore1993; @turetsky2008].
 
-Water table depth was shown to have an interactive effect on the response of fluxes to increased temperatures ([Moore and Dalva 1993](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref157); [Turetsky et al. 2008](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref251)).
-
-WTD, Ts, peat acidity and vegetation communities are key factors influencing F~CH4~. Generally, deeper WTDs are associated with lower F~CH4~ due to a reduction in the depth of the methane production layer and an increase in the thickness of the methane oxidation layer [@lai2009; @whalen2005; @blodau2004b]. Over the long term, WTD strongly influences vegetation composition [@bubier2005]. Vegetation is a crucial factor in determining F~CH4~ from peatlands. The presence and type of vegetation influence CH~4~ production by providing organic substrates like root exudates and plant litter [@bridgham2013c]. Aerenchymatous peatland plants with developed deep roots that penetrate anoxic peat, increasing methane production via root exudation and its transport through root pathways [@lai2009a]. Ts is another significant driver of F~CH4~ through its influence on metabolic processes, with methanogenesis most efficient at peat temperatures ranging from 20 to 40 ℃ [@whalen2005a]. Consistent findings from both field and laboratory research indicate that higher peat temperatures (Ts) generally correlate with increased F~CH4~ [@turetsky2008]~.~
-
-The temperature coefficients, known as Q10 values, represent the factor by which a reaction rate increases for every 10℃ rise in temperature. These coefficients are commonly utilized to evaluate how sensitive microbial processes are to fluctuations in temperature.
+WTD, Ts, peat acidity and vegetation communities are key factors influencing F~CH4~. Generally, deeper WTDs are associated with lower F~CH4~ due to a reduction in the depth of the methane production layer and an increase in the thickness of the methane oxidation layer [@lai2009; @whalen2005; @blodau2004b]. Over the long term, WTD strongly influences vegetation composition [@bubier2005]. Vegetation is a crucial factor in determining F~CH4~ from peatlands. The presence and type of vegetation influence CH~4~ production by providing organic substrates like root exudates and plant litter [@bridgham2013]. Aerenchymatous peatland plants with developed deep roots that penetrate anoxic peat, increasing methane production via root exudation and its transport through root pathways [@lai2009]. Ts is another significant driver of F~CH4~ through its influence on metabolic processes, with methanogenesis most efficient at peat temperatures ranging from 20 to 40 ℃ [@whalen2005]. Consistent findings from both field and laboratory research indicate that Ts generally correlate with increased F~CH4~ [@turetsky2008].
 
 ### The Impacts of Fires on Peatlands 03/25
 
@@ -84,71 +80,179 @@ Under a warming climate, peatlands are facing increased frequency and extent of 
 
 ### Types of Peat Fires
 
-Pyrolysis, the precursor reaction to combustion, is defined as the chemical decomposition of solid organic material (biomass), occurring upon heating in an oxygen-limited environment (Chemical Equations shown in Figure 2). The resulting combustion type, whether flaming or smouldering, is determined by the specific pyrolysis product that oxidizes [@hadden2013]. In flaming combustion, a flame represents a thin layer of gas where the combustion of pyrolysate takes place, yielding high-temperature gaseous and particulate products. In contrast, smouldering combustion involves the in-situ oxidation of char, a flameless, slow-moving, and persistent process [@rein2013]. This type of combustion can persist beneath the ground surface in wet conditions for extended periods, making it challenging to extinguish [@peatland2016]. Compared to flaming combustion, smouldering more severely affects soil properties and microorganisms. In burned peat, smouldering combustion releases over 90% of organic content as gas emissions, primarily CO~2~, resulting in a void and a thin ash layer. Furthermore, smouldering's extended duration enables deeper soil heat penetration, unlike the impact of quick-moving surface flaming fires [@hartford1992; @hadden2013; @rein2013].
+Pyrolysis, the precursor reaction to combustion, is characterized by the chemical decomposition of solid organic materials induced by heating in environments with restricted oxygen availability, resulting in either flaming or smouldering combustion[@hadden2013]. Flaming combustion occurs with visible flames, producing high-temperature gases and particles, while smouldering combustion is flameless, slower, and can burn underground, making it difficult to extinguish (Figure 2) [@hadden2013; @rein2013]. Compared to flaming combustion, smouldering more severely affects soil properties and microorganisms. In burned peat, smouldering combustion releases over 90% of organic content as gas emissions, primarily CO~2~, resulting in a void and a thin ash layer. Furthermore, smouldering's extended duration enables deeper soil heat penetration, unlike the surface-level impact of flaming fires [@bonn2016; @hadden2013; @hartford1992; @rein2013].
 
-Peat fires, in comparison to other flaming wildland fires, are more damaging because they dominated by smouldering combustion [@cheazmi2021a; @frandsen1997]. In typical peat fires, flaming combustion harms above-ground ecosystems by scorching trees and consuming ground-cover vegetation, while smouldering combustion extensively burns the peat, resulting in significant loss of organic soil [@rein2008; @rein2013]. In pristine peatlands, where water availability is higher, most of the peat stock remains protected from pyrolysis and subsequent combustion. However, factors such as drainage and climate change are increasing the susceptibility of peatlands to fire [@cheazmi2021; @landuse2000].
+Peat fires, in comparison to other flaming wildland fires, are more damaging because they dominated by smouldering combustion [@cheazmi2021; @frandsen1997]. In typical peat fires, flaming combustion harms above-ground ecosystems by scorching trees and consuming ground-cover vegetation, while smouldering combustion extensively burns the peat, resulting in significant loss of organic soil [@rein2008; @rein2013]. In pristine peatlands, where water availability is higher, most of the peat stock remains protected from pyrolysis and subsequent combustion. However, factors such as drainage and climate change are increasing the susceptibility of peatlands to fire [@cheazmi2021; @landuse2000].
 
 ![Figure 2. Snapshot showing the flaming and smouldering combustion. Modified from \[\@rein2009\]and \[\@rein2013\].](images/Screen%20Shot%202024-01-09%20at%203.18.12%20PM-02.png){fig-align="center" width="404"}
 
 ### Impacts of Peat Fires
 
-Fires significantly affect carbon (C) cycling in peatlands, resulting in substantial releases of carbon to the atmosphere as CO2 (Bonn et al., 2016). The impact of fires on peatland carbon cycles can be assessed by examining both the combustion phase impacts and the subsequent near-term and long-term consequences (Zoltai et al., 1998). During peat fires, both the flaming and smouldering phases contribute to the carbon release. Flaming combustion primarily impacts surface vegetation, while smouldering combustion burns deeper peat layers, directly emitting stored carbon as CO2 (Zoltai et al., 1998). Recent studies suggest that peat fire emissions account for approximately 15% of anthropogenic carbon emissions (Poulter, 2006). With an average combustion rate of 2.4 kg C per square meter in peat fires, this equates to the carbon stored over 100 to 140 years (Turetsky et al., 2011a; Benscoter and Wieder, 2003; Turetsky and Weider, 2001). In the near-term postburn phase, carbon losses are seen due to the destruction of peatland vegetation and increased rates of peat decomposition, a result of elevated peat temperatures and nutrient availability (Zoltai et al., 1998) (Wieder et al., 2009).
+The impacts of fires on the C cycle in peatlands can be evaluated by examining the impacts during the combustion phase, and the near-term and long-term consequences that occur after the fire event. During peat fires, both the flaming and smouldering phases contribute to the carbon release. Flaming combustion primarily impacts surface vegetation, while smouldering combustion burns deeper peat layers, directly emitting stored carbon as CO~2~ [@zoltai1998]. For the near-term postburn phase, carbon losses are seen due to the destruction of peatland vegetation and increased rates of peat decomposition, a result of elevated peat temperatures and nutrient availability [@wieder2009; @zoltai1998].
 
-Peat fires may lead to either positive or negative feedback responses in relation to the post-fire hydrological conditions of the peatland. If peatlands are undrained or well-connected to groundwater sources, the post-fire water tables may remain stable at levels similar to those before the fire, promoting recovery and moss regeneration [@kettridge2015; @lukenbach2017]. Conversely, in peatlands that are not well-connected to groundwater sources or have been drained, peat fires can result in a lowered and more fluctuating water table in the subsequent years [@lukenbach2017; @sherwood2013; @thompson2013]. Such lowered water tables, along with increased fluctuations, can trigger a shift in vegetation composition, leading to the disappearance of Sphagnum moss and the emergence of taller shrubs and trees [@howie2020; @bönsel2011]. @kettridge2015 quantified the post-wildfire recovery of a northern peatland subjected to decades of drainage and found that the combined impact of moderate drainage and wildfire transformed the low-productivity, moss-dominated peatland into a non-carbon accumulating shrub-grass ecosystem. These ecosystem shifts can further alter the peatland's ecohydrological structure and function, impacting GHG fluxes [@wilkinson2018].  
+In long term, peat fires may lead to either positive or negative feedback responses in relation to the post-fire hydrological conditions of the peatland. If peatlands are undrained or well-connected to groundwater sources, the post-fire water tables may remain stable at levels similar to those before the fire, promoting recovery and moss regeneration [@kettridge2015; @lukenbach2017]. Conversely, in peatlands that are not well-connected to groundwater sources or have been drained, peat fires can result in a lowered and more fluctuating water table in the subsequent years [@lukenbach2017; @sherwood2013; @thompson2013]. Such lowered water tables, along with increased fluctuations, can trigger a shift in vegetation composition, leading to the disappearance of Sphagnum moss and the emergence of taller shrubs and trees [@howie2020; @bönsel2011]. @kettridge2015 quantified the post-wildfire recovery of a northern peatland subjected to decades of drainage and found that the combined impact of moderate drainage and wildfire transformed the low-productivity, moss-dominated peatland into a non-carbon accumulating shrub-grass ecosystem. These ecosystem shifts can further alter the peatland's ecohydrological structure and function, impacting GHG fluxes [@wilkinson2018].
 
-### Restoration 03/26
+-   Subsequent falls in the water table of only 10cm can have a dramatic effect on the vegetation causing a switch from Sphagnum dominated vegetation to dwarf shrubs and grasses (Tallis 1998, Evans et al 1999, Charman 2002, Robroek et al 2006) chrome-[extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.iucn-uk-peatlandprogramme.org/sites/www.iucn-uk-peatlandprogramme.org/files/images/Review%20Peatland%20Restoration,%20June%202011%20Final.pdf](extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.iucn-uk-peatlandprogramme.org/sites/www.iucn-uk-peatlandprogramme.org/files/images/Review%20Peatland%20Restoration,%20June%202011%20Final.pdf)
+
+-   Vascular-plant species come to dominate the surface layers of the blanket peat which are more readily decomposed and therefore provide little or no net long-term carbon sequestration.
+
+-   fire also will promote the emergence of invasive and dense fern and shrub communities following the fire event that may impede both active revegetation efforts and spontaneous regeneration.
+
+### Restoration Methods in Peatlands
+
+Bragg, O. (1995). Restoration of Temperate Wetlands. Towards an ecohydrological basis for raised mire restoration , pp. 305-314
+
+In order for restoration to be successful and bog hydrology be restored it is very important that restoration works occur as soon as possible after disturbance (Eppinga et al., 2009; Ramchunder et al., 2009; Rochefort & Campeau, 1997; Van Seters & Price, 2001).
+
+Peatlands are vulnerable to alterations and damage from various sources such as grazing, managed and natural fires, atmospheric deposition, drainage, agriculture, afforestation, peat extraction, and recreational activities [@tallis1998]. Restoration efforts are designed to mitigate disturbances and preserve the ecological functions of peatlands through three main strategies: water management, revegetation, and vegetation management. The primary goal of peatland restoration is to re-establish vegetation that supports active peat formation.
+
+Water management mainly includes ditch blocking (obstructing drainage ditches to raise water levels) and canal infilling (filling man-made canals to restore natural hydrology), which have been widely practiced in restoring drained peatlands that caused by agricultural expansion and peat extraction [@grand-clement2013; @jaenicke2011; @parry2014; @price2003]. Revegetation is typically applied to bare, eroding peatlands affected by various factors, including agricultural expansion, peat extraction, and the occurrence of repeated fires. Revegetation includes techniques of plants production, plants transplantation, and the promotion of seed dispersal techniques to enhance the establishment and spread of native plant species [@dohong2018; @lunt2010; @shunina2015]. Vegetation management encompasses the restoration of Sphagnum mosses and the removal of shrubs and woodland. Sphagnum restoration can be achieved by spreading Sphagnum fragments across peatlands and by transplanting Sphagnum mosses alongside other native plant species [@lunt2010]. Shrub and woodland removal is typically carried out in afforested peatlands, often in conjunction with rewetting efforts, such as ditch blocking, to facilitate restoration [@lunt2010; @tallis1998].
+
+Overall restoration methods:
+
+<https://link.springer.com/article/10.1007/s13157-018-1017-6>
+
+Gaps of knowledge in Burned peatlands restoration methods.
 
 ### Burns Bog
 
-#### Vegetation 03/27
+Burns Bog is a raised ombrotrophic bog ecosystem located in the Fraser River delta between the south arm of the Fraser River and Boundary Bay (Figure 2a). Prior to the late 1800s, the bog covered approximately 48 km2 (Hebda et al., 2000). 40% of the original bog area has been disturbed during 1900s (Hebda et al., 2000). In 2004, the local governments partnered with federal and provincial governments to purchase a large portion (approximately 20 km2) of the undeveloped bog to establish the Burns Bog Ecological Conservancy Area (BBECA), which includes 14 km2 of the previously disturbed wetland ecosystem plus 6 km2 of the undisturbed ecosystem (Christen et al., 2016). The primary objective of the BBECA is to conserve and restore ecosystem functioning of this large coastal raised bog through management and restoration activities such as ditch blocking (Metro Vancouver, 2007). 
 
-#### Drainage 03/28
+#### Disturbances
 
-#### Disturbances and Restoration 03/29
+Burns Bog has been subject to numerous disturbances including peat mining, fire, land development for agricultural and industrial uses, drainage, fill deposition, and the establishment of a regional highway network and the Vancouver Landfill [@hebda2000]. Of these, peat mining and fire have exerted the most significant impact on the bog's ecosystem spatially and temporally.
 
-Fire has been an element of the Burns Bog ecosystem for a long time and has been suggested as one of the drivers of hummock-hollow processes (Hebda 1977; Banner et al. 1988)
+Around 40% of Burns Bog has been affected by peat harvesting activities. The process involved removing surface vegetation and deeply excavating the acrotelm and the upper parts of the catotelm through block cutting in the 1930s to 1960s and vacuum harvesting in the 1970s to 1980s [@hebda2000]. To facilitate these operations, ditches and ponds were created to lower the water table, allowing machinery access. The extracted peat was used for packing, horticulture, absorbent boards, biofilters, and as a catalyst by the U.S. military during World War II for making magnesium for incendiary bombs [@danyluk2012; @elling1984]. Peat mining in the bog led to two primary impacts: the removal of the acrotelm and the implementation of a drainage network. Removing the acrotelm halted peat accumulation, exposed catotelm to air, resulting in increased carbon decomposition rates. This caused peat surface subsidence, compaction, and altered water storage and runoff patterns. The drainage network, aimed at facilitating peat extraction, significantly lowered the water table, accelerating peat oxidation and creating dry conditions by rapidly evacuating water post-precipitation. This network, extending about 110 km and partially abandoned, continues to affect the bog's hydrology, contributing to its degradation.
 
-#### Carbon Fluxes 03/30
+Since 1977, Burns Bog has experienced nine fires, varying in size from the relatively small at approximately 10 square meters to the extensive, covering up to 200 hectares. All these fires have been attributed to human activities. In the late 20th century, bog researchers viewed fires as part of the natural order. While they recognized that fire temporarily alters the landscape, they also noted that the resulting ash can increase nutrient levels, which in turn leads to the emergence of diverse plant life, potentially benefiting the ecosystem. However, the increased frequency of fires, along with their impacts on hydrology, has triggered a shift in ecological succession towards non-wetland species. This significant change drastically alters the ecosystem, affecting both plant and animal life.
+
+The 2005 and 2016 fires were significant recent peat fire events. On September 11, 2005, a large fire broke out in the southeastern portion of the bog. The fire burned for ten days and consumed approximately 205 ha, almost 10% of the BBECA (Howie et al., 2020). The fire resulted in the incineration of up to 50 cm of the surface peat, lowering the bog surface elevation in those areas (Howie et al., 2020). Sphagnum  carpets were incinerated, and the area was subjected to massive seed releases from decades of accumulation of lodgepole pinecones. Densities of pine tree seedlings reached up to \~20,000 stems/ha just six years after the fire. The post-fire vegetation communities became tree-dominated, mainly comprising native and non-native tree species (e.g., Lodgepole pine and Silver birch, respectively) (Howie et al., 2020).  On July 3, 2016, another fire broke out in the north-western portion of the bog at the base of one of the Corus Entertainment radio towers. By July 11, the fire had been fully contained, but it had consumed up to 78 hectares of the bog area (Howie et al., 2020). The fire swept over the surface of the bog quickly so that the surface elevation didn't drop as significantly as in the 2005 fire (Howie et al., 2020). Consistent with observations from the 2005 burned zone, the 2016 burned zone also exhibited a notable increase in the density of pine seedlings following the fire event.
+
+#### Restoration
+
+The conservation of Burns Bog began to gain attention starting in the 1990s. An ecosystem review conducted and completed in March 2000 recommended restoration measures and outlined detailed techniques to mitigate various disturbances. Efforts to block drainage ditches commenced in 2002, intensifying after the bog's acquisition by the government in 2004, aimed at increasing the peat mass's water table, eliminating the marginal Pine-salal forest, and fostering Sphagnum moss regeneration in forested zones. The Burns Bog Ecological Conservancy Area Management Plan, established in 2007, provides a strategic direction for the bog's restoration over the ensuing century. This plan underscores the importance of maintaining the bog's ecological integrity by managing it as a vast, undeveloped natural habitat and ensuring the preservation of its hydrological and peat-forming systems (Metro Vancouver, 2007). To date, restoration has predominantly focused on the installation of ditch blockages to counteract drainage from historical peat extraction and on vegetation monitoring. Exploration of additional restoration strategies, such as direct vegetation management, remains limited and necessitates further scientific investigation.
+
+#### Vegetation
+
+The vegetation of Burns Bog has undergone significant changes since the late 1800s. Notes from surveyors indicate that during that period, the Bog was predominantly covered by bog vegetation, featuring extensive areas of wet grassland, intermediate grass, shrubs, and shrubby thickets (North and Teversham, 1977). Hebda and Biggs (1981) conducted an investigation into the vegetation of Burns Bog in the late 1900s and noted a pronounced difference in the appearance of pine and birch woodlands. These two vegetation types were inferred to have originated from the clearing, burning, and draining of the southern part of the bog (citation needed).
+
+Drainage has been observed to enhance the growth and spread of lodgepole pine and various shrubs, including Labrador tea and salal in the Burns Bog (Rigg 1925; Golinski 2000). Based on observations from historically burned sites in the bog, post-fire vegetation has shifted from its historical state due to interactive effects of mining, drainage, and invasive species, leading to ecosystems better suited to dry conditions. These reestablished communities predominantly consist of drought-tolerant species, as seen in old burn sites where vegetation now includes species like birch, wool grass, common rush, Labrador tea, salal, and velvet-leaved blueberry, indicating an adaptation to drier and nutrient-enriched environments (Hebda, 1977). The increase in tree and shrub cover is linked to a decrease in both the density and diversity of Sphagnum mosses, with species adapted to wetter microhabitats being particularly affected (Golinski 2000).
+
+The latest vegetation survey, conducted in 1999, identified 24 distinct ecosystem types, including 9 shrub-dominated ecosystems, 7 forested ecosystems, and 6 sparsely non-vegetated or human-modified ecosystems (Hebda et al., 2000). The widespread plant communities are dominated by Sphagum mosses, lodgepole pine, Labrador tea (Ledum groenlandicum), bog cranberry, bog blueberry (Vaccinium uliginosum), and salal (Gaultheria shallon). The ecosystem types containing Lodgepole Pine-Sphagnum (PS) stands dominate the bog.
+
+#### Past Research on Burns Bog
+
+@lee2017 examined the year-round greenhouse gas budget (16 June 2015 to 15 June 2016) in a center area of BBECA which has been harvested, disturbed and rewetted using eddy covariance technique. The annual Reco in this area is 236±16.4 gCO~2~-Cm^-2^yr^-1^, with higher values during the growing season (\>20 gCO~2~-Cm^-2^month^-1^).The study revealed that T~s,5cm~, WTH and Ta are three controls on Reco. The relationship between Reco and T~s,5cm~ varies with season: it is non-significant in winter, logistic in spring, constant Reco over the early summer, and exponential in fall. Ta is correlated with Reco when Ta \< 16 ℃ and had the similar impact as T~s,5cm.~ The higher WTH in winter suppress the Reco. Similarly, F~CH4~ are higher in the growing season (\>1000 mgCH~4~-Cm^-2^month^-1^) and lower in the non-growing season, leading to an annual CH~4~-C budget was 17±1.0 gCH~4~-Cm^-2^yr^-1^. WTH and Ts are primary controls on FCH4, with WTH positively correlating with FCH4. However, the summer months exhibit higher FCH4 despite lower WTH, likely due to: 1) peat sustaining anaerobic conditions above the water table, and 2) sedges providing an efficient diffusion pathway for FCH4 via plant aerenchyma.
+
+@christen2016 examined summertime greenhouse gas fluxes (June to August 2014) from undisturbed, disturbed and rewetted soils in BBECA. It found the site with lower respiration fluxes experienced the lowest soil temperature and shallowest water table, the site with highest respiration flux had the warmest average soil temperature over the study period.
 
 ### Research Objectives 03/31
 
+The key objective for restoring peatlands should be to re-establish vegetation commensurate with active peat formation
+
 The overall goal of this study is to investigate how seedling removal as a postfire management impacts soil GHG fluxes and whether this strategy can help promote soil C sequestration following peat fires. This research aims to improve our understanding of C cycling in peatlands following fire, and how post-fire management strategies can enhance C sequestration. Peat fires lead to drier soil conditions, which in turn promote seed germination and seedling growth. The increase in tree cover is expected to result in lower WTD and subsequently higher Reco, but lower CH4 emissions. In this study, I aim to test the hypothesis (Figure 4): that the removal of seedlings can help restore the ecosystem by increasing the volumetric water content and raising the water table, thereby lowering Reco and increasing CH4 emissions.
 
-To investigate this hypothesis, the study will compare manual measurements of soil and near-surface respiration fluxes (CO2 & CH4) and environmental variables (WTD and Ts) between seedling and non-seedling treatments in three ecosystem types in the 2016 Burned Zone in the BBECA to assess impacts of seedling removal onReco and methane fluxes (FCH4). Also, year-round Reco & FCH4 at each study site will be modelled based on manual measurements of fluxes and continuous measurements of environmental variables (WTD and Ts ).  
+To investigate this hypothesis, the study will compare manual measurements of soil and near-surface respiration fluxes (CO2 & CH4) and environmental variables (WTD and Ts) between seedling and non-seedling treatments in three ecosystem types in the 2016 Burned Zone in the BBECA to assess impacts of seedling removal onReco and methane fluxes (FCH4). Also, year-round Reco & FCH4 at each study site will be modelled based on manual measurements of fluxes and continuous measurements of environmental variables (WTD and Ts ).
 
-Here we focus on respiration fluxes for two main reasons: 1) respiration represents a crucial C pathway in peatland ecosystems, and 2) our aim is to examine the effects of seedling removal on peatland soil fluxes. Consequently, examining aboveground productivity may not yield accurate insights into the desired research question, since while the growth of seedlings can potentially increase GPP, this may not result in enhanced soil C sequestration. By concentrating on respiration fluxes, we can better understand the impacts of seedling removal on soil C dynamics within the peatland. 
+Here we focus on respiration fluxes for two main reasons: 1) respiration represents a crucial C pathway in peatland ecosystems, and 2) our aim is to examine the effects of seedling removal on peatland soil fluxes. Consequently, examining aboveground productivity may not yield accurate insights into the desired research question, since while the growth of seedlings can potentially increase GPP, this may not result in enhanced soil C sequestration. By concentrating on respiration fluxes, we can better understand the impacts of seedling removal on soil C dynamics within the peatland.
 
 ## Methods (04/01 & 04/02)
 
-## Results （03/21 - ）
+The temperature coefficients, known as Q10 values, represent the factor by which a reaction rate increases for every 10℃ rise in temperature. These coefficients are commonly utilized to evaluate how sensitive microbial processes are to fluctuations in temperature.
 
-### Environmental Variables (03/21 & 03/22)
+Fluxes of greenhouse gases were measured using static chamber and portable analyzer techniques.
 
-#### Weather
+#### Measurement Sites and Chamber Set-up
+
+The study was conducted in the 2016 burned zone of BBECA. Six different sampling sites were selected for GHG flux measurements, encompassing three main ecosystem types with PS stands (PSLS, PSTS and PSW) and a pair of treatments (seedling and seedling removal) within each ecosystem type. Six cylindrical PVC collars were installed in each of the six chamber sites. Collars were distributed in a hexagon or straight line to gain more spatial coverage and to capture a diverse range of environmental variables, including water content, micro-topographical features and vegetation density. Soil cover within the collars includes small ground vegetation or grasses or short shrubs and seedlings.
+
+#### Manual Fluxes and Biophysical Measurements
+
+Respiration rates (R~eco~ and F~CH4~) were measured over 150-s intervals with an infrared gas analyser (LI-7810, LI-COR, Lincoln, United States) coupled to the non-transparent smart chamber (LI-8200-01S, LI-COR, Lincoln, United States) placed on permanently installed collars, during the daytime on two to four occasions per month in the growing season (April--September) and one occasion per month in the non-growing season (October-March) from April 2023 to March 2024. The LI-7810 Trace Gas Analyzer is a high-precision, laser-based instrument employing Optical Feedback---Cavity-Enhanced Absorption Spectroscopy (OF-CEAS) for measuring gases in the air. It draws air from the chamber into the analyzer through an air inlet. This air then passes through the optical bench and a phase adjuster for flux measurements before being exhausted through the air outlet. The Smart Chamber, LI-8200-01S, is a portable, self-powered survey chamber with a 20-cm diameter. It features an embedded microprocessor and internal storage for real-time flux calculations when connected to the gas analyzer. The fluxes were monitored in real time and stored in the Smart Chamber for later retrieval.
+
+The Smart Chamber is equipped with a soil moisture and temperature probe (Hydraprobe, STEVENS, Portland, United States). This probe was placed at approximately 0.05 m depth, just outside the collar, to measure soil temperature and volumetric water content concurrent with flux measurements. Additionally, soil temperature and moisture at a depth of 10 cm were assessed using a 15-cm long temperature probe connected to a thermocouple thermometer sensor (8582-10, Digi-sense), and a soil water content reflectometer with 12-cm long rods (CS655, Campbell Scientific, Edmonton, Canada).
+
+#### Continuous Biophysical Measurements
+
+To obtain continuous flux measurements and estimate annual Reco and FCH4 budgets, we continuously monitored environmental variables including soil temperature (Ts), water table depth (WTD), and volumetric water content (VWC). We used custom-made Type T (copper-constantan) thermocouples connected to a data logger, installed at depths of 5, 10, and 30 cm below the peat surface at each study site, to capture comprehensive soil temperature gradients.
+
+In September 2021, Metro Vancouver installed four water level monitoring wells in the 2016 burned zone to facilitate continuous WTD measurements. Of these, two wells located proximal to our study plots are relevant for this study. These include one well at the PSTS seedling removal site and another at the PSLS seedling removal site. To complement these measurements and address potential WTD variations across different vegetation types and treatments, we installed an additional continuous monitoring well equipped with a pressure transducer (CS400, Campbell Scientific, Edmonton, Canada) at the PSW seedling site.
+
+Furthermore, soil water content at the PSW sites was assessed using 30cm water content reflectometers (CS616, Campbell Scientific, Edmonton, Canada). These sensors were installed vertically to integrate the volumetric water content from the surface to a depth of 0.30 meters.
+
+#### Biomass Measurements
+
+Twelve additional collars (six for the seedling site and six for the seedling-removed site) were added at the PSLS ecosystem site on June 20, 2023, supplementing the existing collars designated for Reco partitioning (Rs+Rp) analysis.
+
+Live Above-ground biomass (AGB) was measured by clipping the green parts of the vegetation within each collar in mid-June 2023. Sphagnum mosses were clipped at the base of their capitulum. The clipped plant samples were then air-dried at 60 ℃ for 48 hours and subsequently weighed, with the dry weights recorded in grams.
+
+#### Data Processing
+
+1.  Finding the ideal window of the time series for the flux calculation
+
+-   *The time series of gas concentrations collected during chamber-based measurements can typically be segmented into three distinct phases: the initial turbulence development, simple diffusion, and lateral diffusion. For accurate flux calculation, the ideal time series window should encompass as much data as possible from the simple diffusion phase while excluding data from both the initial turbulence development and lateral diffusion phases. **The SoilFluxPro software guidence tool was utilized to identify this ideal window in the time series for accurate flux calculation.***
+
+2.  Fit linear and non-linear models for the flux calculation
+
+-   *Linear regression, commonly used for estimating greenhouse gas (GHG) fluxes, often underestimates pre-deployment fluxes. Non-linear methods, addressing increases in gas concentration within a closed chamber, may sometimes overestimate due to exaggerated curvature responses. For more accurate flux estimates, a combination of linear and nonlinear approaches should be tailored to each specific measurement in the data set.* ***SoilFluxPro fits both models (a linear model and an exponential model) to derive the flux.***
+
+3.  Choosing between linear and non-linear models in flux calculations
+
+-   ***Manual Screening:** manually examining the time-series plots of gas concentrations for each flux observation to determine the best fit between linear and exponential regressions by 1) checking visually and 2) selecting ones with lower rates of change of gas concentrations (dc/dt). Often, an exponential model provides the optimal fit for flux calculations.*
+
+-   ***Checking standard error of the dc/dt**: Export the dataset and use R programming to graphically represent the standard error of dc/dt for all collars (collar number as the x-axis and standard error values as the y-axis), comparing linear and exponential models. Establishing a threshold (\~0.001) for the standard error and recompute the flux calculations for any collars that exceed this threshold.*
+
+4.  Export the final dataset for statistical analysis
+
+## Results
+
+### Environmental Variables
+
+#### Climate
+
+During the sampling period, air temperature (Ta) at CA-DBB varied from a minimum of -11.044°C in the non-growing season to a maximum of 23.414°C in the growing season (Figure 3.1a). Comparative analysis with the preceding 5-year average annual climate data from the same location revealed that the mean temperature during the sampling year was 0.34°C higher than the 5-year annual average of 10.457°C.
+
+Total cumulative precipitation ranged from 201.5 mm in the growing season to 817.7 mm in the non-growing season (Figure 3.1b). The non-growing season recorded higher precipitation levels, with January experiencing the peak monthly precipitation of 215.2 mm. Over the sampling year, the site received 1019.2 mm of precipitation, which represents an 8% decrease from the 5-year average of 1107.14 mm.
+
+![Figure 3.1 (a) Daily air temperature and b) daily precipitation (blue line) and monthly precipitation (dark blue bars) throughout the sampling period.](images/climate2.png){fig-align="center" width="600"}
 
 #### Biophysical Controls
 
+Seasonal fluctuations in soil temperature reflected changes in air temperature, with higher soil temperatures (Ts) observed during the growing season---averaging 12.547 ± 3.859°C at 5 cm, decreasing to 11.231 ± 3.223°C at 10 cm, and further to 10.369 ± 2.827°C at 30 cm (mean ± SD across all sampling dates). Conversely, the non-growing season saw lower Ts, with the trend in thermal gradient inversion---soil was coolest at the surface (4.464 ± 2.397°C at 5 cm) and warmest at the deepest measured layer (6.587 ± 1.405°C at 30 cm) (Figure 3.2). When examining the impact of different treatments across various ecosystem types, no consistent pattern in soil temperature variation was detected (Figure 3.3; Table 3.1). In the PSLS and PSTS ecosystems, sites with seedlings (Treatment S) consistently recorded higher soil temperatures at all depths in comparison to sites without seedlings (Treatment R) during the growing season. However, the PSW ecosystem exhibited no clear trend.
+
+![Figure 3.2 Continuous soil temperature measurements corresponding to the time of each sampling event across various depths (5,10,30cm) within distinct ecosystem types (PSLS,PSTS,PSW)](images/soilT-depths.png){fig-align="center" width="600"}
+
+![Figure 3.3: Comparison of soil temperatures across treatments (seedlings, S; seedling removal, R) within each ecosystem type (PSLS, PSTS, PSW) for various soil depths (5, 10, 30 cm).](images/soilT.png){fig-align="center" width="600"}
+
+Seasonal variations in soil water content (SWC) and water level (WL) corresponded with precipitation patterns, which is the primary input of water in the bog. The SWC displayed a distinct seasonal cycle, with lower SWC in growing season (0.158±0.117 at 5cm and 0.337±0.149 at 10cm) and higher SWC in the non-growing season (0.401±0.158 at 5cm and 0.655±0.236 at 10cm) (Figure 3.4; Table 3.1). Additionally, SWC values consistently increased with soil depth. In the PSLS and PSW ecosystems, sites without seedlings consistently had higher SWC than sites with seedlings. This pattern was not seen in the PSTS ecosystem. Notably, in the PSW ecosystem, seedlings removal sites presented a mean annual SWC approximately 19.5% higher at 5 cm depth and 36.3% higher at 10 cm depth compared to seedlings non-removal sites. Consistent with soil water content trends, sites with seedlings removed displayed higher water levels relative to sites without seedlings removed across all ecosystem types (Figure 3.5; Table 3.1). The contrast was most marked in the PSW ecosystem, where the average annual water level was 20.76 cm higher in seedling removal site than in the seedlings non-removal site.
+
+![Figure 3.4 Comparison of soil water content across treatments (seedlings, S; seedling removal, R) within each ecosystem type (PSLS, PSTS, PSW) for various soil depths (5, 10 cm).](images/SWC-depths){fig-align="center" width="600"}
+
+![Figure 3.5 Comparison of water level across treatments (seedlings, S; seedling removal, R) within each ecosystem type (PSLS, PSTS, PSW).](images/wl-01.png){fig-align="center" width="600"}
+
+### Reco
+
+#### Fluxes (Temporal Changes and Treatments Effects)
+
+Reco determined in the chambers ranged between close to zero and 43.33 µmol m-2 s-1 throughout the sampling period (n = 728 for all sites). Considering the potential for extreme outlier flux measurements from any of the six collars at each site, Figure 3.6 employs the median and interquartile range (IQR) to depict the distribution of Reco across treatments and ecosystem types at each sampling date. Across all study sites, there is a clear seasonal pattern with higher Reco during the growing season, aligning positively with increases in Tsoil and inversely with hydrological changes (SWC and WL).
+
+Seeding sites consistently exhibit higher Reco rates compared to seedling removal sites across all ecosystem types and throughout the sampling period, with the growing season exhibiting higher contrast in Reco values across all three ecosystem types. This trend is especially marked in the PSW ecosystems during the growing season, where seeding sites reported a median Reco of 7.131 µmol/m²/s (IQR: 3.964, 10.221) compared to 4.172 µmol/m²/s (IQR: 2.591, 6.567) for seedling removal sites.
+
+![Figur 3.6 Median and interquartile range (IQR \[Q1, Q3\]) of ecosystem respiration (Reco) for seedling removal (R) and seedling unremoval (S) sites within PSLS, PSTS, and PSW ecosystems throughout sampling dates](images/Temporal%20Changes-01.png){fig-align="center" width="872"}
+
+![Figure 3.7 Data from all sites and all collars represent ecosystem respiration within the collars, a) annual measurements between April 2023 and March 2024, b) measured throughout growing season between April 2023 and September 2023 and c) measured throughout growing season between April 2023 and September 2023](images/Trts%20All-01.png){fig-align="center" width="1200"}
+
+Table 3.2
+
+#### Fluxes and Biophysical Controls
+
 ##### Soil Temperature at 5/10/30cm - Editing
 
-##### Soil Water Content
+To understand the treatments effects in Reco, we looked at its temperature sensitivity (Q10RECO), which describes how much Reco increases per 10°C rise in soil temperature. Sites with seedlings ...
 
-##### Water Level
+##### Soil Water Content &wl
 
-### Reco (03/23-03/25)
-
-#### Temporal Changes of Fluxes 
-
-#### Treatments Effects
-
-#### Biophysical Controls
-
-##### Soil Temperature at 5/10/30cm - Editing
-
-##### Soil Water Content
-
-##### Water Level
-
-### FCH4 (03/26-03/27)
+### FCH4
 
 #### Temporal Changes of Fluxes
 
@@ -162,7 +266,7 @@ Here we focus on respiration fluxes for two main reasons: 1) respiration represe
 
 ##### Water Level
 
-### Modelling (03/28-03/31)
+### Modelling
 
 #### Anova
 
@@ -174,6 +278,82 @@ Here we focus on respiration fluxes for two main reasons: 1) respiration represe
 
 ##### Reco
 
+In determining the most appropriate model for analyzing respiration fluxes, we initially considered a comprehensive set of predictors. The starting model included soil temperatures at various depths (5, 10 and 30 cm), soil water contents (5 and 10 cm), water level, treatment types, and ecosystem types. Through a stepwise refinement process, we retained fixed variables with statistically significant effects on the log-transformed respiration fluxes---soil temperature at 5 cm, soil water content at 10 cm, and treatment type.
+
+Subsequent analysis via a Durbin-Watson test revealed mild positive temporal autocorrelation in the residuals (DW = 1.6328, p-value = 0.0222). Although a mixed effects model incorporating time was examined to account for this autocorrelation, comparison via AIC criteria indicated that the simpler linear model provided a better fit without the additional complexity of random effects.
+
+The final model selection, therefore, was based on the principle of parsimony and the strength of statistical evidence. The linear model with treatment type, soil temperature at 5 cm, and soil water content at 10 cm emerged as the best-fitting model, balancing explanatory power with model simplicity, as reflected by its lower AIC value. This model aptly captured the primary environmental influences on ecosystem respiration fluxes within the scope of our data.
+
+```{r}
+# library(gmodels)
+# library(lmtest)
+# library(lme4)
+# library(lmerTest)
+# library(dplyr)
+# setwd("/Users/zoe/Desktop")
+# sitedata <- read.csv("sitedata.csv")
+# sitedata$date <- as.Date(sitedata$date)
+# start_date <- min(sitedata$date)
+# sitedata$time_since_start <- as.numeric(sitedata$date - start_date)
+# sitedata_1 <- na.omit(sitedata[, c("wl","SWC", "SWC10", "soilT", "trts", "ecosystem_types", "soilT_10", "soilT_30", "Reco", "time_since_start")])
+# sitedata_1 <- sitedata_1%>%
+#   na.omit(sitedata_1) %>%
+#   filter(Reco > 0, soilT > 0)
+# sitedata_1
+```
+
+```{r}
+# initial_model <- lm(log(Reco) ~ soilT + soilT_10 + soilT_30 + SWC + SWC10 + wl + trts + ecosystem_types, data = sitedata_1)
+# summary(initial_model)
+```
+
+```{r}
+# model1 <- lm(log(Reco) ~ soilT + SWC10 + trts + ecosystem_types, data = sitedata_1)
+# summary(model1)
+```
+
+```{r}
+# model2 <- lm(log(Reco) ~ soilT + SWC10 + trts, data = sitedata_1)
+# summary(model2)
+```
+
+```{r}
+#dwtest(model2)
+```
+
+```{r}
+#model3 <- lmer(log(Reco) ~ soilT + SWC10 + trts + (1 | time_since_start), data = sitedata_1)
+#summary(model3)
+```
+
+```{r}
+#AIC(model2, model3)
+#logLik(model2)
+#logLik(model3)
+```
+
+```{r}
+# summary(model2)
+# # Check for assumptions
+# sitedata_1$yhat.2 <- fitted(model2)
+# sitedata_1$resid.2 <- resid(model2)
+# sitedata_1$stdresid.2 <- resid(model2)/summary(model2)$sigma
+# 
+# # Normality assumption
+# # qqplot
+# qqnorm(sitedata_1$stdresid.2, pch=19)
+# qqline(sitedata_1$stdresid.2, col=2)
+# # Histogram
+# hist(sitedata_1$stdresid.2, freq = T, breaks = 6, density = 10, xlab = "Residuals", ylab = "Frequency", main = "Histogram of Residuals", col = "green", border = "black")
+# # Shapiro test
+# shapiro.test(sitedata_1$stdresid.2)
+# # Homogenity assumption
+# plot(resid.2~yhat.2, data = sitedata_1, xlab = "Predicted", ylab = "Residuals", main = "Residuals Plot", pch=19)
+# abline(a=0, b=0, col = "red")
+```
+
 ##### FCH4
 
-## Discussion （04/03 - 04/10）
+## Discussion
+
+hhh

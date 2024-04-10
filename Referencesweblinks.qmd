@@ -29,3 +29,96 @@ editor: visual
 3\) Eppinga MB, Rietkerk M, Wassen MJ, de Ruiter PC. 2009b. Linking habitat modification to catastrophic shifts and vegetation patterns in bogs. *Plant Ecology* **200**: 53--68.
 
 ![Raised Bogs in Ireland FactsheetIrish Peatland Conservation Council](https://www.ipcc.ie/wp/wp-content/uploads/2012/02/raisedbogmicrotopography.jpg)
+
+## Peat and Peat Processes
+
+<https://doaj.org/article/cb7dce2521e2462789ec62e4b411546b>
+
+Sphagnum-dominated ombrotrophic bogs of the temperate zone are usually preceded by minerotrophic fens that host mainly vascular plants and brown mosses (Gałka et al. 2013, 2015).
+
+Peat accumulation rates:
+
+<https://www.sciencedirect.com/science/article/pii/S0048969719307375?casa_token=OMOGRLIYEPkAAAAA:-3G7rBcHyNmjXLpLZb0lENEzVSsjt8BB9jME0Iw3Ih_HGI13b4TW4Av34qWYKhzR-uvEs7yZ05O_>
+
+### Copy: The Carbon Cycle in Peatlands
+
+#### Land-atmosphere Exchanges of Carbon Fluxes
+
+@chapin2006 proposed the term 'Net Ecosystem Carbon Balance' (NECB) to describe the overall carbon (C) balance in ecosystems from all sources, which represents the net rate of carbon accumulation in ecosystems. NECB includes carbon pathways between terrestrial and atmospheric systems, terrestrial and aquatic systems and particulate transport. In most peatlands, NECB can be simplified to encompass three main components: the Net Ecosystem Exchange/FCO2 (the net CO2 flux between terrestrial ecosystems and the atmosphere), FCH4 (the net CH4 flux between terrestrial ecosystems and the atmosphere), and FDOC (net dissolved organic carbon) [@strack2013; @dacunha2019]. The land-atmosphere exchange of carbon fluxes, defined solely with carbon pathways between terrestrial and atmospheric systems, includes two key components of the NECB in peatlands: FCO2 and FCH4.
+
+The land-atmosphere exchanges of carbon fluxes in peatlands can be described using the acrotelm-catotelm model (Figure 1). The balance between photosynthesis, respiration and diffusion mainly represents the net F~CO2~ between the bog and the atmosphere. Autotrophic organisms convert CO~2~ from the atmosphere into chemical energy through photosynthesis. CO~2~ is released from ecosystems by ecosystem respiration and diffusion. Ecosystem respiration (Reco) encompasses both above- and below-ground autotrophic and heterotrophic respiration (Ra and Rh, respectively) [@dorrepaal2009; @hermle2010; @järveoja2020; @poczta2023]. Ra represents the carbon dioxide released during the metabolic processes of photosynthetic organisms. Rh refers to carbon losses due to the decomposition of litter, detritus, and soil organic matter by microorganisms [@rankin2023]. The processes of Ra and Rh in bogs are characterized by the consumption of organic matter and oxygen, yielding energy, water, and carbon dioxide as byproducts. In addition to this partitioning, Reco can also be conceptualized as the sum of soil respiration (Rs) and aboveground plant respiration (Rp) [@luo2006; @tiwari2021]. Rs accounts for both autotrophic respiration by root and root-associated microbes and heterotrophic respiration by free-living soil microbes that decompose plant litter and stored SOC. Rp represents respiration by above-ground biomass. The CO~2~ produced by methanotrophy, the oxidation of CH~4~ by methanotrophs, diffused into the atmosphere [@bridgham2013]. The F~CO2~ (NEE) represents the difference between Reco and Gross primary productivity by photosynthesis (GPP) between the bog and atmosphere. Negative NEE values indicate a carbon sink peatland, which takes up more CO~2~ from the atmosphere and accumulates in terrestrial ecosystems.
+
+F~CH4~ from peatlands are the net balance of CH~4~ production (methanogenesis) in the saturated zones of the peat and its subsequent release to the atmosphere through diffusion, ebullition, and plant-mediated transport [@bridgham2013; @white2008]. CH~4~ is made in the saturated zone of peat soils by methanogenic microbes. There are two primary pathways for methanogenesis in wetlands: acetoclastic and hydrogenotrophic methanogenesis [@bridgham2013]. Acetoclastic methanogens utilize acetate as their primary electron acceptor during the methanogenesis process. Hydrogenotrophic methanogens rely on the utilization of hydrogen (H~2~) and CO~2~ as substrates for methanogenesis [@fenchel2012]. Ombrotrophic Bogs tend to be generally dominated by hydrogenotrophic methanogenesis [@bridgham2013]. F~CH4~ is emitted to the atmosphere through three main pathways: diffusion (driven by CH~4~ concentration gradients from the peat to the atmosphere), ebullition (gas bubbles released from saturated peat), and plants-mediated transport (through aerenchyma, the plants' internal gas-space ventilation system) [@holden2005].
+
+![Figure 1. A representation of land-atmosphere carbon fluxes cycle in peatland. Modified from \[\@holden2005\] and \[\@lloyd2013\].](images/Screen%20Shot%202023-12-30%20at%205.40.09%20PM.png){fig-align="center"}
+
+#### Biophysical Controls of Reco and F~CH4  03/23-03/24~
+
+There are two categories of factors that influence the carbon fluxes: abiotic (peat tempearure, light, water availability) and biotic factors (vegetation communities and phenology). Reco is closely associated with surface soil temperature (Ts) and water table depth (WTD). Extensive research indicates a positive correlation between Ts and Reco [@järveoja2018; @lloyd1994; @wang2014]. Ts explains 43-74% of daily Reco variability, with WTD accounting for an additional 5-20% [@bubier1998a]. WTD regulates the aerobic zone's depth in peat soil profiles, where a lower water table and thicker aerobic zone can increase carbon mineralization rates [@blodau2004; @frolking2011]. WTD's impact on Reco is more significant on seasonal scales [@bubier1998a].
+
+Water table depth was shown to have an interactive effect on the response of fluxes to increased temperatures ([Moore and Dalva 1993](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref157); [Turetsky et al. 2008](https://cdnsciencepub-com.eu1.proxy.openathens.net/doi/10.1139/a11-014#core-ref251)).
+
+WTD, Ts, peat acidity and vegetation communities are key factors influencing F~CH4~. Generally, deeper WTDs are associated with lower F~CH4~ due to a reduction in the depth of the methane production layer and an increase in the thickness of the methane oxidation layer [@lai2009; @whalen2005; @blodau2004b]. Over the long term, WTD strongly influences vegetation composition [@bubier2005]. Vegetation is a crucial factor in determining F~CH4~ from peatlands. The presence and type of vegetation influence CH~4~ production by providing organic substrates like root exudates and plant litter [@bridgham2013c]. Aerenchymatous peatland plants with developed deep roots that penetrate anoxic peat, increasing methane production via root exudation and its transport through root pathways [@lai2009a]. Ts is another significant driver of F~CH4~ through its influence on metabolic processes, with methanogenesis most efficient at peat temperatures ranging from 20 to 40 ℃ [@whalen2005a]. Consistent findings from both field and laboratory research indicate that higher peat temperatures (Ts) generally correlate with increased F~CH4~ [@turetsky2008]~.~
+
+The temperature coefficients, known as Q10 values, represent the factor by which a reaction rate increases for every 10℃ rise in temperature. These coefficients are commonly utilized to evaluate how sensitive microbial processes are to fluctuations in temperature.
+
+### The Impacts of Fires on Peatlands 03/25
+
+Under a warming climate, peatlands are facing increased frequency and extent of peat fires, which can turn peatlands from net C sinks to net sources (Turetsky et al., 2015; Waddington et al., 2015).
+
+### Types of Peat Fires
+
+Pyrolysis, the precursor reaction to combustion, is defined as the chemical decomposition of solid organic material (biomass), occurring upon heating in an oxygen-limited environment (Figure 2). The resulting combustion type, whether flaming or smouldering, is determined by the specific pyrolysis product that oxidizes [@hadden2013]. In flaming combustion, a flame represents a thin layer of gas where the combustion of pyrolysate takes place, yielding high-temperature gaseous and particulate products. In contrast, smouldering combustion involves the in-situ oxidation of char, a flameless, slow-moving, and persistent process [@rein2013]. This type of combustion can persist beneath the ground surface in wet conditions for extended periods, making it challenging to extinguish [@peatland2016]. Compared to flaming combustion, smouldering more severely affects soil properties and microorganisms. In burned peat, smouldering combustion releases over 90% of organic content as gas emissions, primarily CO~2~, resulting in a void and a thin ash layer. Furthermore, smouldering's extended duration enables deeper soil heat penetration, unlike the impact of quick-moving surface flaming fires [@hartford1992; @hadden2013; @rein2013].
+
+Peat fires, in comparison to other flaming wildland fires, are more damaging because they dominated by smouldering combustion [@cheazmi2021a; @frandsen1997]. In typical peat fires, flaming combustion harms above-ground ecosystems by scorching trees and consuming ground-cover vegetation, while smouldering combustion extensively burns the peat, resulting in significant loss of organic soil [@rein2008; @rein2013]. In pristine peatlands, where water availability is higher, most of the peat stock remains protected from pyrolysis and subsequent combustion. However, factors such as drainage and climate change are increasing the susceptibility of peatlands to fire [@cheazmi2021; @landuse2000].
+
+![Figure 2. Snapshot showing the flaming and smouldering combustion. Modified from \[\@rein2009\]and \[\@rein2013\].](images/Screen%20Shot%202024-01-09%20at%203.18.12%20PM-02.png){fig-align="center" width="404"}
+
+### Impacts of Peat Fires
+
+Fires significantly affect carbon (C) cycling in peatlands, resulting in substantial releases of carbon to the atmosphere as CO2 (Bonn et al., 2016). The impact of fires on peatland carbon cycles can be assessed by examining both the combustion phase impacts and the subsequent near-term and long-term consequences (Zoltai et al., 1998). During peat fires, both the flaming and smouldering phases contribute to the carbon release. Flaming combustion primarily impacts surface vegetation, while smouldering combustion burns deeper peat layers, directly emitting stored carbon as CO2 (Zoltai et al., 1998). Recent studies suggest that peat fire emissions account for approximately 15% of anthropogenic carbon emissions (Poulter, 2006). With an average combustion rate of 2.4 kg C per square meter in peat fires, this equates to the carbon stored over 100 to 140 years (Turetsky et al., 2011a; Benscoter and Wieder, 2003; Turetsky and Weider, 2001). In the near-term postburn phase, carbon losses are seen due to the destruction of peatland vegetation and increased rates of peat decomposition, a result of elevated peat temperatures and nutrient availability (Zoltai et al., 1998) (Wieder et al., 2009).
+
+Peat fires may lead to either positive or negative feedback responses in relation to the post-fire hydrological conditions of the peatland. If peatlands are undrained or well-connected to groundwater sources, the post-fire water tables may remain stable at levels similar to those before the fire, promoting recovery and moss regeneration [@kettridge2015; @lukenbach2017]. Conversely, in peatlands that are not well-connected to groundwater sources or have been drained, peat fires can result in a lowered and more fluctuating water table in the subsequent years [@lukenbach2017; @sherwood2013; @thompson2013]. Such lowered water tables, along with increased fluctuations, can trigger a shift in vegetation composition, leading to the disappearance of Sphagnum moss and the emergence of taller shrubs and trees [@howie2020; @bönsel2011]. @kettridge2015 quantified the post-wildfire recovery of a northern peatland subjected to decades of drainage and found that the combined impact of moderate drainage and wildfire transformed the low-productivity, moss-dominated peatland into a non-carbon accumulating shrub-grass ecosystem. These ecosystem shifts can further alter the peatland's ecohydrological structure and function, impacting GHG fluxes [@wilkinson2018].  
+
+## About Modeling
+
+Successful modeling of a complex data set is part science, part statistical methods, and part experience and common sense.
+
+03/29
+
+1\) vegetation changes in burned tropical peatlands
+
+<https://link.springer.com/article/10.1007/s13157-018-1017-6>
+
+### **Ecological Factors**
+
+The most significant biological barrier that may impede successful peatland vegetation restoration is the presence of invasive and aggressive woody and non-woody weeds. Studies in Central Kalimantan and Sumatra noted that following a peat fire event, dense shrub and fern communities dominated the bare peat, hindering reestablishment of native late-succesional seedlings (Graham et al. [2007](https://link.springer.com/article/10.1007/s13157-018-1017-6#ref-CR27 "Graham LLB, D'Arcy L, Page ES (2007) Understanding the growth strategies of tropical peat swamp forest tree species: establishing potential restoration tools. Carbon-climate-human interaction on tropical peatland, Proceedings of the International Symposium and Workshop on Tropical Peatland, Yogyakarta"); Page et al. [2009a](https://link.springer.com/article/10.1007/s13157-018-1017-6#ref-CR61 "Page SE, Hoscilo A, Langner A, Tansey K, Siegert F, Limin S, Rieley J (2009a) Tropical peatland fires in Southeast Asia. Tropical Fire Ecology, Springer:263–287"); van Eijk et al. [2009](https://link.springer.com/article/10.1007/s13157-018-1017-6#ref-CR84 "van Eijk P, Leenman P, Wibisono ITC, Giesen W (2009) Regeneration and restoration of degraded peat swamp forest in Berbak NP, Jambi,, Indonesia. Malayan Nature Journal 61:223–241")). The dense vegetation blocks sunlight, creating deepened shade and the increased competition for nutrients makes it difficult for indigenous plant species to survive. Studies have shown that the location of seed sources and repeated burnings have resulted in the colonisation of fern and shrub cover which often occurs at a density that subdues the regeneration of indigenous tree species (Page et al. [2009b](https://link.springer.com/article/10.1007/s13157-018-1017-6#ref-CR62 "Page SE, Hoscio A, Wösten H, Jauhiainen J, Silvius M, Rieley J, Ritzema H, Tansey K, Graham L, Vasander H, Limin S (2009b) Restoration ecology of lowland tropical peatlands in Southeast Asia: current knowledge and future research directions. Ecosystems 12:888–905"); Blackham et al. [2014](https://link.springer.com/article/10.1007/s13157-018-1017-6#ref-CR9 "Blackham GV, Webb EL, Corlett RT (2014) Natural regeneration in a degraded tropical peatland, Central Kalimantan, Indonesia: implications for forest restoration. Forest Ecology and Management 324:8–15")). Fire not only destroys established seedlings and saplings in tropical peatlands but often kills the parent trees, which are valuable on-site seed sources and seed dispersal agents. The lack of seed sources and seed dispersers can hamper natural regeneration of degraded peatland (Graham et al. [2007](https://link.springer.com/article/10.1007/s13157-018-1017-6#ref-CR27 "Graham LLB, D'Arcy L, Page ES (2007) Understanding the growth strategies of tropical peat swamp forest tree species: establishing potential restoration tools. Carbon-climate-human interaction on tropical peatland, Proceedings of the International Symposium and Workshop on Tropical Peatland, Yogyakarta"); D'Arcy and Graham [2008](https://link.springer.com/article/10.1007/s13157-018-1017-6#ref-CR15 "D’Arcy L, Graham L (2008) The potential effects of naturally low rates of secondary seed dispersal, coupled with reduction in densities of primary seed dispersers on forest tree species diversity in regenerating peat swamp forest. In Wosten JHM, Rieley JO, Page SE (eds) Restoration of tropical peatland. ALTERRA-Wageningen University and Research Centre and the EU INCO-RESTOPEAT Partnership, Wageningen, pp 45–55"); Graham and Page [2014](https://link.springer.com/article/10.1007/s13157-018-1017-6#ref-CR26 "Graham LL, Page SE (2014) Forest restoration in degraded tropical peat swamp forests, 3–4. FAO and Biodiversity Internation, Rome")). The protection of remnant natural peat forest patches adjacent to restoration areas is necessary so a source of seed for species recolonization is available (Hoscilo et al. [2011](https://link.springer.com/article/10.1007/s13157-018-1017-6#ref-CR37 "Hoscilo A, Page SE, Tansey KJ, Rieley JO (2011) Effect of repeated fires on land-cover change on peatland in southern Central Kalimantan, Indonesia, from 1973 to 2005. Int J Wildland Fire 20:578–88")).
+
+### Fires
+
+Fires have been documented in Burns Bog since the late 19th century
+
+## **Discover Burns Bog**
+
+An especially stubborn blaze burned for weeks in the summer in 1977
+
+Other fires broke out in 1990, 1992 and 1994
+
+July 16, 1996 By late afternoon, the raging fire covers 170 hectares
+
+\- Dropped a cigarette
+
+1977/Twice in 1990/1992/1994/1996/2005/2007/2016
+
+<file:///Users/zoe/Downloads/2019_Kathryn_Wiese.pdf>
+
+Peat harvest in Burns Bog ceased in the 1980s, and work in the decade prior estimated a remaining peat volume of 1.09x108 m3 and a dry mass of almost 4,000,000 metric tons, totalling 2 Tg of carbon (Biggs, 1976).
+
+This means that harvest not only
+removes some of the carbon store but also reduces the rate of sequestration.
+
+A Burns Bog vegetation inventory in 2000 found average
+coverage of Sphagnum to be 30% on sites previously harvested with this method,
+versus an average of 4-7% for sites harvested by vacuum-mining and Western Peat
+Hydropeat methods and 16% by hand cutting methods (Hebda et al., 2000). Importantly,
+though, hydropeat methods resulted in major soil disturbance (Hebda et al., 2000)
