@@ -156,53 +156,117 @@ To investigate this hypothesis, the study will compare manual measurements of so
 
 Here we focus on respiration fluxes for two main reasons: 1) respiration represents a crucial C pathway in peatland ecosystems, and 2) our aim is to examine the effects of seedling removal on peatland soil fluxes. Consequently, examining aboveground productivity may not yield accurate insights into the desired research question, since while the growth of seedlings can potentially increase GPP, this may not result in enhanced soil C sequestration. By concentrating on respiration fluxes, we can better understand the impacts of seedling removal on soil C dynamics within the peatland.
 
-## Methods (04/01 & 04/02)
+## Methods
 
-The temperature coefficients, known as Q10 values, represent the factor by which a reaction rate increases for every 10℃ rise in temperature. These coefficients are commonly utilized to evaluate how sensitive microbial processes are to fluctuations in temperature.
+### Measurement Sites and Chamber Set-up
 
-Fluxes of greenhouse gases were measured using static chamber and portable analyzer techniques.
+This study was conducted in the 2016 burned zone of BBECA. Six different sampling sites were selected for R~eco~ and F~CH4~ measurements, including three main ecosystem types with PS stands (PSLS, PSTS and PSW) and a pair of treatments (seedling and seedling removal) within each ecosystem type.
 
-#### Measurement Sites and Chamber Set-up
+Figures of study sites
 
-The study was conducted in the 2016 burned zone of BBECA. Six different sampling sites were selected for GHG flux measurements, encompassing three main ecosystem types with PS stands (PSLS, PSTS and PSW) and a pair of treatments (seedling and seedling removal) within each ecosystem type. Six cylindrical PVC collars were installed in each of the six chamber sites. Collars were distributed in a hexagon or straight line to gain more spatial coverage and to capture a diverse range of environmental variables, including water content, micro-topographical features and vegetation density. Soil cover within the collars includes small ground vegetation or grasses or short shrubs and seedlings.
+Cylindrical shape collars with a height of \~0.3m were cut off from an \~2.5m Polyvinylchloride (PVC) pipe (0.203 m internal diameter, 0.0323 m^2^ surface area), and each collar was chamfered on one side to facilitate insertion into the soil. Six cylindrical PVC collars were installed in each of the six chamber sites. The chamfered side of each collar was inserted into the soil carefully to a depth ranging from 0.05m to 0.15m, depending on the height of vegetation within the collar. These collars were strategically placed in a hexagonal or straight line to gain more spatial coverage and to capture a diverse range of environmental variables, including water content, micro-topographical features and diversity of vegetation. The soil cover within the collars typically consisted of small ground vegetation, grasses, short shrubs, and seedlings.
 
-#### Manual Fluxes and Biophysical Measurements
+### Manual Fluxes and Biophysical Measurements
 
-Respiration rates (R~eco~ and F~CH4~) were measured over 150-s intervals with an infrared gas analyser (LI-7810, LI-COR, Lincoln, United States) coupled to the non-transparent smart chamber (LI-8200-01S, LI-COR, Lincoln, United States) placed on permanently installed collars, during the daytime on two to four occasions per month in the growing season (April--September) and one occasion per month in the non-growing season (October-March) from April 2023 to March 2024. The LI-7810 Trace Gas Analyzer is a high-precision, laser-based instrument employing Optical Feedback---Cavity-Enhanced Absorption Spectroscopy (OF-CEAS) for measuring gases in the air. It draws air from the chamber into the analyzer through an air inlet. This air then passes through the optical bench and a phase adjuster for flux measurements before being exhausted through the air outlet. The Smart Chamber, LI-8200-01S, is a portable, self-powered survey chamber with a 20-cm diameter. It features an embedded microprocessor and internal storage for real-time flux calculations when connected to the gas analyzer. The fluxes were monitored in real time and stored in the Smart Chamber for later retrieval.
+R~eco~ and F~CH4~ were measured over 150-s intervals with an infrared gas analyser (LI-7810, LI-COR, Lincoln, United States) coupled to the non-transparent smart chamber (LI-8200-01S, LI-COR, Lincoln, United States) placed on permanently installed collars, during the daytime on two to four times per month in the growing season (April--September) and once per month in the non-growing season (October-March) from April 2023 to March 2024. The LI-7810 Trace Gas Analyzer is a high-precision, laser-based instrument employing Optical Feedback---Cavity-Enhanced Absorption Spectroscopy (OF-CEAS) for measuring gases in the air. It draws air from the chamber into the analyzer through an air inlet. This air then passes through the optical bench and a phase adjuster for flux measurements before being exhausted through the air outlet. The Smart Chamber, LI-8200-01S, is a portable, self-powered survey chamber with a 20-cm diameter. It features an embedded microprocessor and internal storage for real-time flux calculations when connected to the gas analyzer. The fluxes were monitored in real time and stored in the Smart Chamber for later retrieval.
 
-The Smart Chamber is equipped with a soil moisture and temperature probe (Hydraprobe, STEVENS, Portland, United States). This probe was placed at approximately 0.05 m depth, just outside the collar, to measure soil temperature and volumetric water content concurrent with flux measurements. Additionally, soil temperature and moisture at a depth of 10 cm were assessed using a 15-cm long temperature probe connected to a thermocouple thermometer sensor (8582-10, Digi-sense), and a soil water content reflectometer with 12-cm long rods (CS655, Campbell Scientific, Edmonton, Canada).
+The Smart Chamber is equipped with a soil moisture probe (Hydraprobe, STEVENS, Portland, United States). This probe was placed at approximately 5.7 cm depth, just outside the collar, to measure soil volumetric water content concurrent with flux measurements. Additionally, soil volumetric water content at a depth of 12 cm were assessed using a soil water content reflectometer with 12-cm long rods (CS655, Campbell Scientific, Edmonton, Canada). To monitor water level (WL) variations across different vegetation types and treatments, we installed a monitoring well at each study site, using black pipes with drilled holes.
 
-#### Continuous Biophysical Measurements
+To track annual changes, we continuously monitored environmental variables including soil temperature (Ts) and volumetric water content (VWC) throughout the study period. We used custom-made Type T (copper-constantan) thermocouples connected to a data logger, installed at depths of 5, 10, and 30 cm below the peat surface at each study site, to capture comprehensive soil temperature gradients. Due to instrumental limitations, continuous soil water content measurements were confined to PSW sites, where 30 cm water content reflectometers (CS616, Campbell Scientific, Edmonton, Canada) were vertically installed to gauge volumetric water content from the surface down to a depth of 0.30 meters.
 
-To obtain continuous flux measurements and estimate annual Reco and FCH4 budgets, we continuously monitored environmental variables including soil temperature (Ts), water table depth (WTD), and volumetric water content (VWC). We used custom-made Type T (copper-constantan) thermocouples connected to a data logger, installed at depths of 5, 10, and 30 cm below the peat surface at each study site, to capture comprehensive soil temperature gradients.
+### Chamber Data Processing
 
-In September 2021, Metro Vancouver installed four water level monitoring wells in the 2016 burned zone to facilitate continuous WTD measurements. Of these, two wells located proximal to our study plots are relevant for this study. These include one well at the PSTS seedling removal site and another at the PSLS seedling removal site. To complement these measurements and address potential WTD variations across different vegetation types and treatments, we installed an additional continuous monitoring well equipped with a pressure transducer (CS400, Campbell Scientific, Edmonton, Canada) at the PSW seedling site.
-
-Furthermore, soil water content at the PSW sites was assessed using 30cm water content reflectometers (CS616, Campbell Scientific, Edmonton, Canada). These sensors were installed vertically to integrate the volumetric water content from the surface to a depth of 0.30 meters.
-
-#### Biomass Measurements
-
-Twelve additional collars (six for the seedling site and six for the seedling-removed site) were added at the PSLS ecosystem site on June 20, 2023, supplementing the existing collars designated for Reco partitioning (Rs+Rp) analysis.
-
-Live Above-ground biomass (AGB) was measured by clipping the green parts of the vegetation within each collar in mid-June 2023. Sphagnum mosses were clipped at the base of their capitulum. The clipped plant samples were then air-dried at 60 ℃ for 48 hours and subsequently weighed, with the dry weights recorded in grams.
-
-#### Data Processing
+To ensure the reliability and accuracy of the data collected for further analysis, flux data were processed after each sampling trip using the SoilFluxPro software, supplemented by manual checks, according to the following steps:
 
 1.  Finding the ideal window of the time series for the flux calculation
 
--   *The time series of gas concentrations collected during chamber-based measurements can typically be segmented into three distinct phases: the initial turbulence development, simple diffusion, and lateral diffusion. For accurate flux calculation, the ideal time series window should encompass as much data as possible from the simple diffusion phase while excluding data from both the initial turbulence development and lateral diffusion phases. **The SoilFluxPro software guidence tool was utilized to identify this ideal window in the time series for accurate flux calculation.***
+-   *The time series of gas concentrations collected during chamber-based measurements can typically be segmented into three distinct phases: the initial turbulence development, simple diffusion, and lateral diffusion. For accurate flux calculation, the ideal time series window should encompass as much data as possible from the simple diffusion phase while excluding data from both the initial turbulence development and lateral diffusion phases. **The SoilFluxPro software's guidance tool was utilized to identify the optimal window within the time series for accurate flux calculations, followed by manual checks for adjustments.***
 
-2.  Fit linear and non-linear models for the flux calculation
+2.  Fit linear and non-linear models for flux calculations
 
--   *Linear regression, commonly used for estimating greenhouse gas (GHG) fluxes, often underestimates pre-deployment fluxes. Non-linear methods, addressing increases in gas concentration within a closed chamber, may sometimes overestimate due to exaggerated curvature responses. For more accurate flux estimates, a combination of linear and nonlinear approaches should be tailored to each specific measurement in the data set.* ***SoilFluxPro fits both models (a linear model and an exponential model) to derive the flux.***
+-   *Linear regression, commonly used for estimating greenhouse gas (GHG) fluxes, often underestimates pre-deployment fluxes. Non-linear methods, addressing increases in gas concentration within a closed chamber, may sometimes overestimate due to exaggerated curvature responses.* ***The SoilFluxPro software fits a combination of linear and nonlinear models to derive the flux.***
 
 3.  Choosing between linear and non-linear models in flux calculations
 
 -   ***Manual Screening:** manually examining the time-series plots of gas concentrations for each flux observation to determine the best fit between linear and exponential regressions by 1) checking visually and 2) selecting ones with lower rates of change of gas concentrations (dc/dt). Often, an exponential model provides the optimal fit for flux calculations.*
 
--   ***Checking standard error of the dc/dt**: Export the dataset and use R programming to graphically represent the standard error of dc/dt for all collars (collar number as the x-axis and standard error values as the y-axis), comparing linear and exponential models. Establishing a threshold (\~0.001) for the standard error and recompute the flux calculations for any collars that exceed this threshold.*
+-   ***Checking standard error of the dc/dt**: export the dataset and use R programming to graphically represent the standard error of dc/dt for all collars (collar number as the x-axis and standard error values as the y-axis), comparing linear and exponential models. Establishing a threshold (\~0.001) for the standard error and recompute the flux calculations for any collars that exceed this threshold.*
 
-4.  Export the final dataset for statistical analysis
+4.  Export the fluxes data for further analysis
+
+### Data Analysis
+
+All data were analyzed using R (version 2023.09.1+494). The changes in fluxes were investigated using measurements collected from each collar. A site-specific dataframe was constructed to explore changes in environmental variables and their relationships with the flux data. Flux and soil water content (SWC) data from the collars were averaged to represent each site. This averaged data was then combined with manual water level (WL) measurements and corresponding soil temperature measurements collected by data loggers, synchronized with the timing of flux measurements at each site. The site-specific dataset includes measurements of fluxes (Reco and FCH4) and biophysical controls (soil temperature at depths of 5, 10, and 30 cm; SWC at 5 and 10 cm; and WL), covering the entire sampling period at the site scale.
+
+Analyses were conducted over annual timescales, with data further divided into the growing and non-growing seasons. Pairwise t-tests were used to investigate treatment differences within each ecosystem for various environmental variables and fluxes, beginning with a verification of the assumptions required for parametric testing. Upon confirming these assumptions, pairwise t-tests were conducted to compare treatment effects at a significance level of p \< 0.05 for each pair of treatments. To determine which biophysical controls required further analysis with fluxes, individual linear models were developed for each biophysical control in relation to fluxes, and their influence was assessed by examining the coefficient of determination (R\^2) values.
+
+#### Temperature Sensitivity of R~eco~ and F~CH4~
+
+To examine how C fluxes respond to variations in soil temperature under different treatments, we calculated the temperature sensitivity (Q10) for both Reco and FCH4, and also the baseline respiration rate at 10°C (R10) specifically for Reco. Q10 quantifies the relative increase in fluxes per 10°C rise in soil temperature. R10 provides the baseline rate of Reco at a reference temperature of 10°C, serving as a standardized measure of respiration activity. We estimated these parameters separately for the growing season and the entire year of measurements using the following equations:
+
+$$
+\begin{equation}
+Q10_{\text{Reco}} = e^{10b_{\text{Reco}}}
+\end{equation}
+$$
+
+$$
+\begin{equation}
+R10_{\text{Reco}} = Q10_{\text{Reco}}e^{A}
+\end{equation}
+$$
+
+$$
+\begin{equation}
+Q10_{\text{FCH4}} = e^{10b_{\text{FCH4}}}
+\end{equation}
+$$
+
+where A , b~RECO~ and b~FCH4~ are parameters obtained from fitting the functional relationship between soil temperature at 5 cm depth (Ts,5) and the corresponding fluxes. The relationship between Reco and Ts,5 was modeled using a linear regression of the logarithmically transformed Reco:
+
+$$
+\ln(R_{\text{eco}}) = A + b_{\text{R}_{\text{eco}}}T_{s,5cm}
+$$
+
+The relationship between FCH4 and Ts,5 was modeled using an exponential function:
+
+$$
+F_{CH_4} = a\text{e}^{b_{FCH_4}T_{s,5cm}}
+$$
+
+where A and bReco are the intercept and slope of the linear model for ln(Reco), and a and ​b~FCH4~ represent the initial methane flux at T~s,5~​= 0 and the growth rate of the exponential function, respectively.
+
+#### Hydrological Changes of R~eco~ and F~CH4~
+
+To understand how carbon fluxes (both Reco and FCH4) react to changes in hydrological conditions at different treatment sites, we modeled the flux responses to soil water content at a depth of 10 cm (SWC10) and water level (WL) using both linear and exponential functions. For SWC10, the relationship is expressed as:
+
+$$
+F = a\text{e}^{bSWC_{10cm}}
+$$
+
+Here, a represents the initial flux when SWC10 is zero, indicating the baseline level of flux, while b reflects how much the flux grows as SWC10 increases. For water level, the relationship is:
+
+$$
+F = a + b\text{WL}
+$$
+
+In this equation, a and b are constants determined by fitting the model to the data, where a is the flux at WL zero, and b indicates the change in flux with WL.
+
+#### Modelling
+
+In the initial phase of our analysis, we employed a two-way ANOVA to assess the effects of ecosystem types and treatments on flux measurements. We constructed the model using the linear model function in R, specifying fluxes as the dependent variable and both ecosystem types and treatment types as independent variables.
+
+For a more comprehensive analysis of fluxes in our study, we developed and assessed several models that incorporate a broad range of factors, including environmental controls, treatments, and ecosystem types. Our modeling process was systematic and conformed to established methodological standards, ensuring both accuracy and reproducibility. The specific steps of our approach included:
+
+1\) **Initial Assessment of Variables**: We began by establishing a linear relationship with each independent variable to understand its individual impact.
+
+2\) **Multivariable Model Construction**: After identifying significant variables, we integrated them into a multivariable model and removed non-contributory variables.
+
+3\) **Model Comparison and Refinement**: We compared different models using Akaike\'s Information Criterion (AIC) and log-likelihood values to assess their fit and appropriateness.
+
+4\) **Incorporation of Random Effects**: To address potential issues of temporal autocorrelation observed in preliminary analyses, we incorporated random effects into our models and compared these to earlier models.
+
+5\) **Final Model Determination**: The final model was determined by a combination of statistical results and practical considerations based on experience and common sense.
 
 ## Results
 
@@ -218,7 +282,7 @@ Total cumulative precipitation ranged from 201.5 mm in the growing season to 817
 
 #### Biophysical Controls
 
-Seasonal fluctuations in soil temperature reflected changes in air temperature, with higher soil temperatures (Ts) observed during the growing season---averaging 12.53 ± 3.88°C at 5 cm, decreasing to 11.17 ± 3.20°C at 10 cm, and further to 10.33 ± 2.81°C at 30 cm (mean ± SD across all sampling dates). Conversely, the non-growing season saw lower Ts, with the trend in thermal gradient inversion---soil was coolest at the surface (4.09 ± 2.14°C at 5 cm) and warmest at the deepest measured layer (5.71 ± 1.78°C at 30 cm) (Figure 3.2). When examining the impact of different treatments across various ecosystem types, no consistent pattern in soil temperature variation was detected (Figure 3.3; Table 3.1). In the PSLS and PSTS ecosystems, sites with seedlings (Treatment S) consistently recorded higher mean soil temperatures at all measured depths compared to sites without seedlings (Treatment R) during the growing season. The PSTS ecosystem exhibited these differences with statistical significance, as indicated by the presence of asterisks in Table 3.1, while the PSW ecosystem exhibited no clear trend.
+Seasonal fluctuations in soil temperature reflected changes in air temperature, with higher soil temperatures observed during the growing season---averaging 12.53 ± 3.88°C at 5 cm, decreasing to 11.17 ± 3.20°C at 10 cm, and further to 10.33 ± 2.81°C at 30 cm (mean ± SD across all sampling dates). Conversely, the non-growing season saw lower soil temperatures, with the trend in thermal gradient inversion---soil was coolest at the surface (4.09 ± 2.14°C at 5 cm) and warmest at the deepest measured layer (5.71 ± 1.78°C at 30 cm) (Figure 3.2). When examining the impact of different treatments across various ecosystem types, no consistent pattern in soil temperature variation was detected (Figure 3.3; Table 3.1). In the PSLS and PSTS ecosystems, sites with seedlings (Treatment S) consistently recorded higher mean soil temperatures at all measured depths compared to sites without seedlings (Treatment R) during the growing season. The PSTS ecosystem exhibited these differences with statistical significance, as indicated by the presence of asterisks in Table 3.1, while the PSW ecosystem exhibited no clear trend.
 
 ![Figure 3.2 Continuous soil temperature measurements at various soil depths (5,10,30cm) corresponding to the rounded time of manual flux measurements within three ecosystem types (PSLS,PSTS,PSW) throughout the sampling period (April 2023 to April 2024).](images/soilT-depths-05.png){fig-align="center"}
 
@@ -228,47 +292,65 @@ Seasonal variations in soil water content (SWC) and water level (WL) corresponde
 
 In the PSLS and PSW ecosystems, there are significant differences (p-value \< 0.05) between sites with different treatments; specifically, sites without seedlings consistently had higher SWC than those with seedlings (Figure 3.4; Table 3.1). However, this pattern was not observed in the PSTS ecosystem. The difference was most significant in the PSW ecosystem type, where sites with seedlings removal exhibited a mean annual SWC that was approximately 19.21% higher at a 5 cm depth and 37.39% higher at a 10 cm depth compared to sites with seedlings. Correspondingly, water levels were significantly higher in sites with seedling removal compared to those without across all ecosystem types (Figure 3.5; Table 3.1). The contrast was most marked in the PSW ecosystem, where the average annual water level was about 20.32 cm higher at seedling removal sites than at non-removal sites.
 
-![Figure 3.4 Comparison of manual soil water content measurements (mean values from every six measurements at a site) across treatments (R for sites with seedling removal and S for sites with unremoved seedlings) within each ecosystem type (PSLS, PSTS, PSW) at various soil depths (5, 10 cm), throughout the sampling period (April 2023 to April 2024). Semi-transparent lines in the bottom right subplot represent the SWC at 30 cm, as measured by a continuous soil SWC probe specific to PSW sites.](images/SWC-depths-trts.png){fig-align="center"}
+![Figure 3.4 Comparison of manual soil water content measurements (mean values from every six measurements at a site) across treatments (R for sites with seedling removal and S for sites with unremoved seedlings) within each ecosystem type (PSLS, PSTS, PSW) at various soil depths (5, 10 cm), throughout the sampling period (April 2023 to April 2024). Semi-transparent lines in the bottom right subplot represent the SWC at 30 cm, as measured by a continuous soil SWC probe specific to PSW sites.](images/swc.png){fig-align="center"}
 
 ![Figure 3.5 Comparison of water level across treatments (R for sites with seedling removal and S for sites with unremoved seedlings) within each ecosystem type (PSLS, PSTS, PSW) at various soil depths throughout the sampling period (April 2023 to April 2024).](images/wl-03.png){fig-align="center" width="590"}
 
 ### Reco
 
-#### Fluxes (Temporal Changes and Treatments Effects)
+#### Temporal Changes and Treatments Effects of R~eco~
 
-Reco determined in the chambers ranged between close to zero and 43.33 µmolm^-2^s^-1^ throughout the sampling period (n = 792 for all sites). Considering the potential for extreme outlier flux measurements from any of the six collars at each site, Figure 3.6 employs the median and interquartile range (IQR, Q1 and Q3) to depict the distribution of R~eco~ across treatments and ecosystem types at each sampling date. Across all study sites, there is a clear seasonal pattern with higher R~eco~ during the growing season, aligning positively with increases in T~soil~ and inversely with hydrological changes (SWC and WL).
+R~eco~ determined in the chambers ranged between close to zero and 43.33 µmolm^-2^s^-1^ throughout the sampling period (n = 792 for all sites). Considering the potential for extreme outlier flux measurements from any of the six collars at each site, Figure 3.6 employs the median and interquartile range (IQR: Q1 to Q3) to depict the distribution of R~eco~ across treatments and ecosystem types at each sampling date. Across all study sites, there is a clear seasonal pattern with higher R~eco~ during the growing season, aligning positively with increases in T~soil~ and inversely with hydrological changes (SWC and WL).
 
-There are no differences were observed in Reco between the different ecosystem types; however, a clear pattern emerged when considering treatments. Specifically, sites with seedlings consistently exhibited higher R~eco~ rates compared to sites with seedling removal, across all ecosystem types and throughout the sampling period. The growing season, in particular, showed a more pronounced contrast in R~eco~ values across all three ecosystem types, with statistically significant differences (P-values \< 0.05). In the PSW ecosystem, seedling sites consistently displayed higher R~eco~ than seedling removal sites during the sampling period. The annual median Reco at seedling sites was reported as 4.81 µmol/m²/s with an IQR of 2.54 to 8.78, compared to 2.73 µmol/m²/s (IQR: 0.97 to 5.04) at seedling removal sites.
+There are no differences were observed in R~eco~ between the different ecosystem types; however, a clear pattern emerged when considering treatments. Specifically, sites with seedlings consistently exhibited higher R~eco~ rates compared to sites with seedling removal, across all ecosystem types and throughout the sampling period (Figure 3.6; Figure 3.7). The growing season, in particular, showed a more pronounced contrast in R~eco~ values between these treatments, with statistically significant differences observed across all three ecosystem types (P-values \< 0.05) (Table 3.2). In the PSW ecosystem, seedling sites consistently displayed higher R~eco~ than seedling removal sites during the sampling period. The annual median R~eco~ at seedling sites was reported as 4.81 µmolm^-2^s^-1^ (IQR: 2.54 to 8.78), compared to 2.73 µmolm^-2^s^-1^ (IQR: 0.97 to 5.04) at seedling removal sites.
 
-![Figur 3.6 Ecosystem respiration (Reco) displayed as median values (circles) with interquartile ranges (bars) for seedling removal (R) and unremoved seedling (S) treatments within each ecosystem type (PSLS, PSTS, PSW). Data are aggregated from six collars per site throughout the sampling period (April 2023 to April 2024).](images/Temporal Changes-02.png){fig-align="center"}
+![Figur 3.6 Ecosystem respiration (Reco) displayed as median values (circles) with interquartile ranges (bars) for seedling removal (R) and unremoved seedling (S) treatments within each ecosystem type (PSLS, PSTS, PSW). Data are aggregated from six collars per site throughout the sampling period (April 2023 to April 2024).](images/Temporal%20Changes-02.png){fig-align="center"}
 
-![Figure 3.7 Data from all sites and all collars represent ecosystem respiration within the collars, a) annual measurements between April 2023 and March 2024, b) measured throughout growing season between April 2023 and September 2023 and c) measured throughout growing season between April 2023 and September 2023](images/Trts%20All-01.png){fig-align="center" width="1200"}
+![](images/Trts%20Annual-02.png){fig-align="center" width="600"}
+
+![](images/Trts%20GS-01.png){fig-align="center" width="600"}
+
+![Figure 3.7 Data from all sites and all collars represent ecosystem respiration (R~eco~) within the collars, a) annual measurements between April 2023 and March 2024, b) measured throughout growing season between April 2023 and September 2023 and c) measured throughout non-growing season between September 2023 and April 2024](images/Trts%20NGS-01.png){fig-align="center" width="600"}
 
 Table 3.2
 
-#### Fluxes and Biophysical Controls
+#### R~eco~ and Biophysical Controls
 
-To assess the effects of treatments on R~eco~, we examined its temperature sensitivity, represented by Q~10Reco~ (which describes how much R~eco~ increases per 10°C rise in soil temperature), and R~eco~ at a reference temperature of 10°C, R~10~. During the growing season, a clearer pattern emerged: sites with seedling removal (Treatment R) exhibited a higher Q~10~ compared to sites without seedling removal (Treatment S) across all ecosystem types, indicating a stronger temperature response at seedling removal sites. Conversely, R~10~ values were lower at seedling removal sites (Figure 3.8; Table 3.3).
+To understand the factors controlling R~eco~, we developed individual linear models for each biophysical control and assessed their influence by examining the coefficient of determination (R^2^) values. The analysis identified SWC~10~ with an R^2^ of 0.58, T~s,5~ with an R^2^ of 0.56, and WL with an R^2^ of 0.519 as the primary controls, which will be subject to further investigation to understand their specific impacts on R~eco~.
 
-![Figure 3.8](images/Q10.png)
+Figure 3.8 showed R~eco~ as a function of T~s,5~. Through all study sites, Reco increases with T~s,5~, indicating a positive correlation between these two variables. To assess the effects of treatments on R~eco~, we examined its temperature sensitivity, represented by Q~10Reco~ (which describes how much R~eco~ increases per 10°C rise in soil temperature), and R~eco~ at a reference temperature of 10°C, R~10~. During the growing season, a clearer pattern emerged: sites with seedling removal (Treatment R) exhibited a higher Q~10~ compared to sites without seedling removal (Treatment S) across all ecosystem types, indicating a stronger temperature response at seedling removal sites. Conversely, R~10~ values were lower at seedling removal sites (Figure 3.8; Table 3.3).
 
-Figure 3.9 relates R~eco~ to SWC at 0-5.7 cm depth across different ecosystems suggest that R~eco~ is influenced by SWC negatively, with varying responses between treatments. WL correlations with R~eco~ also differ by ecosystem, with PSLS and PSTS showing more variability in response to treatment than PSW.
+![Figure 3.8 Ecosystem Respiration (R~eco~) as a function of soil temperature at 5cm depth (T~s,5~) for seedling removal (R) and unremoved seedling (S) treatments within each ecosystem type (PSLS, PSTS, PSW). Curve fitting parameters shown in Table 3.3.](images/Q10-02.png){fig-align="center" width="751"}
 
-![Figure 3.9](images/hydro.png)
+Figure 3.9 relates R~eco~ to SWC at 0-12 cm depth across different ecosystems suggest that R~eco~ is influenced by SWC negatively, with varying responses between treatments. WL correlations with R~eco~ also differ by ecosystem, with PSLS and PSTS showing more variability in response to treatment than PSW.
+
+![Figure 3.9 Ecosystem Respiration (R~eco~) as functions of hydrological variables (soil water content for 0-12 cm (SWC~0-12cm~) and water level (WL)) for seedling removal (R) and unremoved seedling (S) treatments within each ecosystem type (PSLS, PSTS, PSW). Curve fitting parameters shown in Table 3.4.](images/hydro-fit-01.png)
+
+#### Modelling on Treatments Effects
 
 ### FCH4
 
-#### Temporal Changes of Fluxes
+#### Temporal Changes and Treatments Effects of F~CH4~
 
-#### Treatments Effects
+Throughout the sampling period, approximately 67.8% of F~CH4~ measurements showed negative values (n=769 for all sites). Notably, during the growing season, the PSTS and PSW ecosystems consistently acted as CH~4~ sinks (Figure 3.10), with the lowest F~CH4~ values observed in August. This pattern was inversely correlated with increases in soil temperature (T~s~) and directly correlated with reductions in hydrological changes (SWC and WL) during the growing season. In contrast, the PSLS ecosystem exhibited no consistent trend, generally functioning as a CH~4~ source.
 
-#### Biophysical Controls
+Sites with seedlings consistently exhibited significantly more negative F~CH4~ values compared to sites with seedling removal in PSW ecosystem type throughout the sampling period (P-values \< 0.05), with a mean difference in median values of 1.92 nmolm^-2^s^-1^ (Figure 3.10; Figure 3.11; Table ). Although statistical tests indicated no significant differences in PSTS treatments, visual inspection of the plot (Figure 3.10) reveals seasonal distinctions between treatments, more pronounced during the growing season. The PSW seedling site showed as the predominant CH~4~ sink, with an annual median F~CH4~ of -3.54 nmolm^-2^s^-1^ (IQR: -4.63 to -2.71).
 
-##### Soil Temperature at 5/10/30cm - Editing
+![Figure 3.10 Methane fluxes (F~CH4~) displayed as median values (circles) with interquartile ranges (bars) for seedling removal (R) and unremoved seedling (S) treatments within each ecosystem type (PSLS, PSTS, PSW). Data are aggregated from six collars per site throughout the sampling period (April 2023 to March 2024).](images/Temporal%20Changes-03.png){fig-align="center"}
 
-##### Soil Water Content
+![](images/Trts-Annual){fig-align="center" width="600"}
 
-##### Water Level
+![](images/Trts-GS.png){fig-align="center" width="600"}
+
+![Figure 3.11 Data from all sites and all collars represent methane fluxes (F~CH4~) within the collars, a) annual measurements between April 2023 and March 2024, b) measured throughout growing season between April 2023 and September 2023 and c) measured throughout non-growing season between September 2023 and April 2024](images/Trts%20-%20ngs-01.png){fig-align="center" width="600"}
+
+#### F~CH4~ and Biophysical Controls
+
+Figure 3.8 shows the relationship between T~s,5~ and F~CH4~ across different ecosystems. In the PSTS and PSW ecosystems, there appears to be a negative correlation between F~CH4~ and T~s,5~, with higher soil temperatures correlating with lower F~CH4~. The pattern wasn't observed in PSLS.Upon examining the Q10 values, a clear pattern was found. Seedling removal sites (Treatment R) consistently exhibits higher Q10 values compared to sites with seedlings (Treatment S). This pattern was particularly notable in PSW ecosystem, with seedling removal sites displaying the highest Q10 value of 8.28, suggesting a significant increase in methane uptake with warmer soil at these site.
+
+![Figure 3.12 Methane Fluxes (F~CH4~) as a function of soil temperature at 5cm depth (T~s,5~) for seedling removal (R) and unremoved seedling (S) treatments within each ecosystem type (PSLS, PSTS, PSW). Curve fitting parameters shown in Table 3.4.](images/Q10-01.png){fig-align="center"}
+
+![Figure 3.13](images/hydrological-fitting-01.png){fig-align="center"}
 
 ### Modelling
 

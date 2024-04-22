@@ -3757,4 +3757,28 @@ references:
   type: article-journal
   URL: "https://go.exlibris.link/lKfqQhRf"
   volume: 39
+- id: hosmer2013
+  accessed: "06:17:41"
+  author:
+  - family: Hosmer
+    given: David W.
+  - family: Lemeshow
+    given: Stanley
+  - family: Sturdivant
+    given: Rodney X.
+  collection-title: Wiley Series in Probability and Statistics
+  DOI: 10.1002/9781118548387
+  edition: 1
+  ISBN: 978-0-470-58247-3 978-1-118-54838-7
+  issued: 2013-03-22
+  key: 9II96MJR
+  language: en
+  libraryID: 1
+  providerKey: 2509FBBE-5BB0-44C4-B119-6083A81ED673
+  publisher: Wiley
+  rights: "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  source: DOI.org (Crossref)
+  title: Applied Logistic Regression
+  type: book
+  URL: "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118548387"
 ...
